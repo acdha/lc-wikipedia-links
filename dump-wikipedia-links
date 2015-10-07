@@ -1,0 +1,49 @@
+#!/usr/bin/env python
+# encoding: utf-8
+
+from __future__ import (absolute_import, division, print_function,
+                        unicode_literals)
+
+import glob
+import gzip
+import os
+import re
+import sys
+
+URL_RE = re.compile(r'''['](https?://(?:[^/]+[.])?(?:loc[.]gov|read[.]gov|congress[.]gov|wdl[.]org)/[^']*)''')
+
+
+def process_file(input_file, output_file):
+    count = 0
+
+    print('Extracting links from %s into %s' % (input_file.name, output_file.name),
+          end='')
+    sys.stdout.flush()
+
+    for line in input_file:
+        for match in URL_RE.findall(line):
+            print(match, file=output_file)
+            count = count + 1
+
+            if count % 500 == 0:
+                print('.', end='')
+                sys.stdout.flush()
+
+    print()
+    print('\t%d matches' % count)
+    sys.stdout.flush()
+
+
+for input_filename in sorted(glob.glob('*-externallinks.sql.gz')):
+    output_filename = input_filename.replace('.sql.gz', '.links')
+
+    if os.path.exists(output_filename):
+        print('Skipping %s: %s already exists' % (input_filename, output_filename))
+        continue
+
+    with gzip.open(input_filename) as f, open(output_filename, 'w') as out_f:
+        try:
+            process_file(f, out_f)
+        except:
+            os.unlink(output_filename)
+            raise
