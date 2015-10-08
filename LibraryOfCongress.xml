@@ -6,5 +6,7 @@
     <target host="memory.loc.gov"/>
     <target host="lcweb2.loc.gov"/>
     <target host="catalog.loc.gov"/>
+    <target host="catalog2.loc.gov"/>
+    <target host="cdn.loc.gov"/>
     <rule from="^http:" to="https:"/>
 </ruleset>
