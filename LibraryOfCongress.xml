@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ruleset name="LibraryOfCongress">
+    <target host="loc.gov"/>
+    <target host="www.loc.gov"/>
+    <target host="congress.gov"/>
+    <target host="memory.loc.gov"/>
+    <target host="lcweb2.loc.gov"/>
+    <target host="catalog.loc.gov"/>
+    <rule from="^http:" to="https:"/>
+</ruleset>
