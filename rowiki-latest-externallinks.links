@@ -1,3 +1,4 @@
+http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?AuthRecID=3054910&v1=1&HC=1&SEQ=20070325152235&PID=20141
 http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First
 http://bioguide.congress.gov/biosearch/biosearch.asp
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000045
@@ -9,6 +10,7 @@ http://bioguide.congress.gov/scripts/biodisplay.pl?index=b000589
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000121
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000284
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000454
+http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000918
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=c001041
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=D000522
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=D000606
@@ -137,8 +139,6 @@ http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=disney+liv+and+maddie&
 http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=disney+mighty+med&Search_Code=TALL&PID=TVrko66PI8VKPdWIB-IEl11A43jQh&SEQ=20140625183144&CNT=25&HIST=1
 http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=henry+mancini+charade&Search_Code=FT*&SL=None&PID=bKzqC11w_54TrPiJMuAga1_6Rvxe&SEQ=20101104000150&CNT=25&HIST=1&SEARCH_FROM_TITLES_PAGE=Y
 http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=jessie+disney&Search_Code=FT*&PID=BGvfsLcBmyRurKYCMR5XAxFO2_3i&SEQ=20120331185510&CNT=25&HIST=1
-http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=1&ti=1,1&Search_Arg=Texas%20Chain%20Saw%20Massacre&Search_Code=TALL&CNT=25&PID=8PmUHaYeqahcKgw5jcKVRvta&SEQ=20120823094537&SID=1
-http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=12&ti=1,12&Search_Arg=Saw&Search_Code=TALL&CNT=25&PID=x8Cuc4HrUx9R--hShAp_UDaA4t&SEQ=20110817025227&SID=1
 http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=3&ti=1,3&Search_Arg=Atom%20Age%20Vampire&Search_Code=TALL&CNT=25&PID=dnYjZloRqeUvtjanKgwusRV1S5C7&SEQ=20100418052143&SID=5
 http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=30&ti=26,30&Search_Arg=bride%20of%20frankenstein&Search_Code=TALL&CNT=25&PID=REbDGuVdmmS3Musnc_eAVmH5CVG&SEQ=20090224204713&SID=1
 http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=6&ti=1,6&Search_Arg=disney%20i%20didn\
@@ -168,6 +168,7 @@ http://id.loc.gov/authorities/names/n00015927
 http://id.loc.gov/authorities/names/n00016439
 http://id.loc.gov/authorities/names/n00020499
 http://id.loc.gov/authorities/names/n00021100
+http://id.loc.gov/authorities/names/n00021202
 http://id.loc.gov/authorities/names/n00021580
 http://id.loc.gov/authorities/names/n00021627
 http://id.loc.gov/authorities/names/n00022125
@@ -224,8 +225,10 @@ http://id.loc.gov/authorities/names/n00085813
 http://id.loc.gov/authorities/names/n00086965
 http://id.loc.gov/authorities/names/n00087919
 http://id.loc.gov/authorities/names/n00088032
+http://id.loc.gov/authorities/names/n00088620
 http://id.loc.gov/authorities/names/n00088983
 http://id.loc.gov/authorities/names/n00090408
+http://id.loc.gov/authorities/names/n00090409
 http://id.loc.gov/authorities/names/n00090411
 http://id.loc.gov/authorities/names/n00091263
 http://id.loc.gov/authorities/names/n00092015
@@ -297,12 +300,15 @@ http://id.loc.gov/authorities/names/n2001034006
 http://id.loc.gov/authorities/names/n2001034919
 http://id.loc.gov/authorities/names/n2001036523
 http://id.loc.gov/authorities/names/n2001038213
+http://id.loc.gov/authorities/names/n2001038314
+http://id.loc.gov/authorities/names/n2001038562
 http://id.loc.gov/authorities/names/n2001038731
 http://id.loc.gov/authorities/names/n2001038791
 http://id.loc.gov/authorities/names/n2001039555
 http://id.loc.gov/authorities/names/n2001040469
 http://id.loc.gov/authorities/names/n2001040557
 http://id.loc.gov/authorities/names/n2001040559
+http://id.loc.gov/authorities/names/n2001040590
 http://id.loc.gov/authorities/names/n2001043519
 http://id.loc.gov/authorities/names/n2001044037
 http://id.loc.gov/authorities/names/n2001046427
@@ -339,6 +345,7 @@ http://id.loc.gov/authorities/names/n2001102581
 http://id.loc.gov/authorities/names/n2001102638
 http://id.loc.gov/authorities/names/n2001103245
 http://id.loc.gov/authorities/names/n2001104868
+http://id.loc.gov/authorities/names/n2001105283
 http://id.loc.gov/authorities/names/n2001105284
 http://id.loc.gov/authorities/names/n2001105288
 http://id.loc.gov/authorities/names/n2001105289
@@ -388,7 +395,9 @@ http://id.loc.gov/authorities/names/n2002041982
 http://id.loc.gov/authorities/names/n2002042007
 http://id.loc.gov/authorities/names/n2002043561
 http://id.loc.gov/authorities/names/n2002043924
+http://id.loc.gov/authorities/names/n2002044394
 http://id.loc.gov/authorities/names/n2002044578
+http://id.loc.gov/authorities/names/n2002044617
 http://id.loc.gov/authorities/names/n2002045708
 http://id.loc.gov/authorities/names/n2002046397
 http://id.loc.gov/authorities/names/n2002047051
@@ -428,6 +437,7 @@ http://id.loc.gov/authorities/names/n2002103677
 http://id.loc.gov/authorities/names/n2002103761
 http://id.loc.gov/authorities/names/n2002104117
 http://id.loc.gov/authorities/names/n2002104686
+http://id.loc.gov/authorities/names/n2002104699
 http://id.loc.gov/authorities/names/n2002106520
 http://id.loc.gov/authorities/names/n2002108379
 http://id.loc.gov/authorities/names/n2002109689
@@ -528,6 +538,7 @@ http://id.loc.gov/authorities/names/n2003093217
 http://id.loc.gov/authorities/names/n2003093695
 http://id.loc.gov/authorities/names/n2003093971
 http://id.loc.gov/authorities/names/n2003097967
+http://id.loc.gov/authorities/names/n2003098458
 http://id.loc.gov/authorities/names/n2003099514
 http://id.loc.gov/authorities/names/n2003100821
 http://id.loc.gov/authorities/names/n2003100824
@@ -554,6 +565,7 @@ http://id.loc.gov/authorities/names/n2003117374
 http://id.loc.gov/authorities/names/n2003117551
 http://id.loc.gov/authorities/names/n2003118654
 http://id.loc.gov/authorities/names/n2003119159
+http://id.loc.gov/authorities/names/n2003124111
 http://id.loc.gov/authorities/names/n2003125591
 http://id.loc.gov/authorities/names/n2003145286
 http://id.loc.gov/authorities/names/n2004002209
@@ -563,6 +575,7 @@ http://id.loc.gov/authorities/names/n2004010638
 http://id.loc.gov/authorities/names/n2004017652
 http://id.loc.gov/authorities/names/n2004018752
 http://id.loc.gov/authorities/names/n2004021207
+http://id.loc.gov/authorities/names/n2004022224
 http://id.loc.gov/authorities/names/n2004022573
 http://id.loc.gov/authorities/names/n2004024792
 http://id.loc.gov/authorities/names/n2004024797
@@ -589,6 +602,7 @@ http://id.loc.gov/authorities/names/n2004037767
 http://id.loc.gov/authorities/names/n2004037900
 http://id.loc.gov/authorities/names/n2004037919
 http://id.loc.gov/authorities/names/n2004039105
+http://id.loc.gov/authorities/names/n2004039632
 http://id.loc.gov/authorities/names/n2004039995
 http://id.loc.gov/authorities/names/n2004040069
 http://id.loc.gov/authorities/names/n2004041511
@@ -656,6 +670,7 @@ http://id.loc.gov/authorities/names/n2005010272
 http://id.loc.gov/authorities/names/n2005011630
 http://id.loc.gov/authorities/names/n2005012438
 http://id.loc.gov/authorities/names/n2005013463
+http://id.loc.gov/authorities/names/n2005015619
 http://id.loc.gov/authorities/names/n2005015647
 http://id.loc.gov/authorities/names/n2005016171
 http://id.loc.gov/authorities/names/n2005016262
@@ -741,6 +756,7 @@ http://id.loc.gov/authorities/names/n2005089841
 http://id.loc.gov/authorities/names/n2005090895
 http://id.loc.gov/authorities/names/n2005184114
 http://id.loc.gov/authorities/names/n2005185053
+http://id.loc.gov/authorities/names/n2005203830
 http://id.loc.gov/authorities/names/n2005207679
 http://id.loc.gov/authorities/names/n2005207680
 http://id.loc.gov/authorities/names/n2005209199
@@ -778,6 +794,7 @@ http://id.loc.gov/authorities/names/n2006040250
 http://id.loc.gov/authorities/names/n2006042669
 http://id.loc.gov/authorities/names/n2006044114
 http://id.loc.gov/authorities/names/n2006048059
+http://id.loc.gov/authorities/names/n2006051688
 http://id.loc.gov/authorities/names/n2006052281
 http://id.loc.gov/authorities/names/n2006053823
 http://id.loc.gov/authorities/names/n2006054028
@@ -817,6 +834,7 @@ http://id.loc.gov/authorities/names/n2006086083
 http://id.loc.gov/authorities/names/n2006086609
 http://id.loc.gov/authorities/names/n2006086689
 http://id.loc.gov/authorities/names/n2006087061
+http://id.loc.gov/authorities/names/n2006087618
 http://id.loc.gov/authorities/names/n2006088134
 http://id.loc.gov/authorities/names/n2006089468
 http://id.loc.gov/authorities/names/n2006091271
@@ -826,6 +844,7 @@ http://id.loc.gov/authorities/names/n2006093048
 http://id.loc.gov/authorities/names/n2006096939
 http://id.loc.gov/authorities/names/n2006096970
 http://id.loc.gov/authorities/names/n2006166532
+http://id.loc.gov/authorities/names/n2006169803
 http://id.loc.gov/authorities/names/n2006180056
 http://id.loc.gov/authorities/names/n2006200393
 http://id.loc.gov/authorities/names/n2006202692
@@ -870,9 +889,11 @@ http://id.loc.gov/authorities/names/n2007031536
 http://id.loc.gov/authorities/names/n2007031568
 http://id.loc.gov/authorities/names/n2007035554
 http://id.loc.gov/authorities/names/n2007036008
+http://id.loc.gov/authorities/names/n2007036035
 http://id.loc.gov/authorities/names/n2007037171
 http://id.loc.gov/authorities/names/n2007037426
 http://id.loc.gov/authorities/names/n2007037642
+http://id.loc.gov/authorities/names/n2007039143
 http://id.loc.gov/authorities/names/n2007040385
 http://id.loc.gov/authorities/names/n2007040719
 http://id.loc.gov/authorities/names/n2007044192
@@ -889,6 +910,7 @@ http://id.loc.gov/authorities/names/n2007056524
 http://id.loc.gov/authorities/names/n2007057612
 http://id.loc.gov/authorities/names/n2007058088
 http://id.loc.gov/authorities/names/n2007058508
+http://id.loc.gov/authorities/names/n2007058660
 http://id.loc.gov/authorities/names/n2007058669
 http://id.loc.gov/authorities/names/n2007059149
 http://id.loc.gov/authorities/names/n2007059907
@@ -943,6 +965,7 @@ http://id.loc.gov/authorities/names/n2008016529
 http://id.loc.gov/authorities/names/n2008019731
 http://id.loc.gov/authorities/names/n2008024355
 http://id.loc.gov/authorities/names/n2008024560
+http://id.loc.gov/authorities/names/n2008027560
 http://id.loc.gov/authorities/names/n2008028918
 http://id.loc.gov/authorities/names/n2008030542
 http://id.loc.gov/authorities/names/n2008030887
@@ -1000,6 +1023,7 @@ http://id.loc.gov/authorities/names/n2009013609
 http://id.loc.gov/authorities/names/n2009016319
 http://id.loc.gov/authorities/names/n2009016805
 http://id.loc.gov/authorities/names/n2009018559
+http://id.loc.gov/authorities/names/n2009018700
 http://id.loc.gov/authorities/names/n2009022092
 http://id.loc.gov/authorities/names/n2009022154
 http://id.loc.gov/authorities/names/n2009025403
@@ -1121,8 +1145,10 @@ http://id.loc.gov/authorities/names/n2011038101
 http://id.loc.gov/authorities/names/n2011038695
 http://id.loc.gov/authorities/names/n2011038915
 http://id.loc.gov/authorities/names/n2011039146
+http://id.loc.gov/authorities/names/n2011045135
 http://id.loc.gov/authorities/names/n2011045169
 http://id.loc.gov/authorities/names/n2011045527
+http://id.loc.gov/authorities/names/n2011046305
 http://id.loc.gov/authorities/names/n2011047119
 http://id.loc.gov/authorities/names/n2011048635
 http://id.loc.gov/authorities/names/n2011050601
@@ -1287,6 +1313,7 @@ http://id.loc.gov/authorities/names/n50002187
 http://id.loc.gov/authorities/names/n50002347
 http://id.loc.gov/authorities/names/n50002351
 http://id.loc.gov/authorities/names/n50002381
+http://id.loc.gov/authorities/names/n50002384
 http://id.loc.gov/authorities/names/n50002491
 http://id.loc.gov/authorities/names/n50002492
 http://id.loc.gov/authorities/names/n50002498
@@ -1580,6 +1607,7 @@ http://id.loc.gov/authorities/names/n50013075
 http://id.loc.gov/authorities/names/n50013086
 http://id.loc.gov/authorities/names/n50013327
 http://id.loc.gov/authorities/names/n50013342
+http://id.loc.gov/authorities/names/n50013448
 http://id.loc.gov/authorities/names/n50013486
 http://id.loc.gov/authorities/names/n50013536
 http://id.loc.gov/authorities/names/n50013592
@@ -1590,6 +1618,7 @@ http://id.loc.gov/authorities/names/n50013679
 http://id.loc.gov/authorities/names/n50013766
 http://id.loc.gov/authorities/names/n50013767
 http://id.loc.gov/authorities/names/n50013801
+http://id.loc.gov/authorities/names/n50013808
 http://id.loc.gov/authorities/names/n50013814
 http://id.loc.gov/authorities/names/n50013841
 http://id.loc.gov/authorities/names/n50013855
@@ -1697,7 +1726,9 @@ http://id.loc.gov/authorities/names/n50016910
 http://id.loc.gov/authorities/names/n50016911
 http://id.loc.gov/authorities/names/n50016999
 http://id.loc.gov/authorities/names/n50017045
+http://id.loc.gov/authorities/names/n50017112
 http://id.loc.gov/authorities/names/n50017114
+http://id.loc.gov/authorities/names/n50017132
 http://id.loc.gov/authorities/names/n50017150
 http://id.loc.gov/authorities/names/n50017170
 http://id.loc.gov/authorities/names/n50017273
@@ -1749,6 +1780,7 @@ http://id.loc.gov/authorities/names/n50018723
 http://id.loc.gov/authorities/names/n50018724
 http://id.loc.gov/authorities/names/n50018766
 http://id.loc.gov/authorities/names/n50018768
+http://id.loc.gov/authorities/names/n50018778
 http://id.loc.gov/authorities/names/n50018796
 http://id.loc.gov/authorities/names/n50018809
 http://id.loc.gov/authorities/names/n50018817
@@ -1773,6 +1805,7 @@ http://id.loc.gov/authorities/names/n50019417
 http://id.loc.gov/authorities/names/n50019425
 http://id.loc.gov/authorities/names/n50019462
 http://id.loc.gov/authorities/names/n50019517
+http://id.loc.gov/authorities/names/n50019525
 http://id.loc.gov/authorities/names/n50019556
 http://id.loc.gov/authorities/names/n50019600
 http://id.loc.gov/authorities/names/n50019617
@@ -1789,6 +1822,7 @@ http://id.loc.gov/authorities/names/n50019958
 http://id.loc.gov/authorities/names/n50019975
 http://id.loc.gov/authorities/names/n50019977
 http://id.loc.gov/authorities/names/n50019979
+http://id.loc.gov/authorities/names/n50019984
 http://id.loc.gov/authorities/names/n50020136
 http://id.loc.gov/authorities/names/n50020168
 http://id.loc.gov/authorities/names/n50020175
@@ -1926,9 +1960,11 @@ http://id.loc.gov/authorities/names/n50025141
 http://id.loc.gov/authorities/names/n50025184
 http://id.loc.gov/authorities/names/n50025189
 http://id.loc.gov/authorities/names/n50025303
+http://id.loc.gov/authorities/names/n50025331
 http://id.loc.gov/authorities/names/n50025343
 http://id.loc.gov/authorities/names/n50025362
 http://id.loc.gov/authorities/names/n50025368
+http://id.loc.gov/authorities/names/n50025420
 http://id.loc.gov/authorities/names/n50025441
 http://id.loc.gov/authorities/names/n50025451
 http://id.loc.gov/authorities/names/n50025505
@@ -1944,6 +1980,7 @@ http://id.loc.gov/authorities/names/n50025843
 http://id.loc.gov/authorities/names/n50025881
 http://id.loc.gov/authorities/names/n50025908
 http://id.loc.gov/authorities/names/n50025985
+http://id.loc.gov/authorities/names/n50025998
 http://id.loc.gov/authorities/names/n50026054
 http://id.loc.gov/authorities/names/n50026065
 http://id.loc.gov/authorities/names/n50026075
@@ -2009,6 +2046,7 @@ http://id.loc.gov/authorities/names/n50028662
 http://id.loc.gov/authorities/names/n50028692
 http://id.loc.gov/authorities/names/n50028709
 http://id.loc.gov/authorities/names/n50028711
+http://id.loc.gov/authorities/names/n50028745
 http://id.loc.gov/authorities/names/n50028781
 http://id.loc.gov/authorities/names/n50028785
 http://id.loc.gov/authorities/names/n50028820
@@ -2465,6 +2503,7 @@ http://id.loc.gov/authorities/names/n50042109
 http://id.loc.gov/authorities/names/n50042112
 http://id.loc.gov/authorities/names/n50042121
 http://id.loc.gov/authorities/names/n50042127
+http://id.loc.gov/authorities/names/n50042129
 http://id.loc.gov/authorities/names/n50042142
 http://id.loc.gov/authorities/names/n50042146
 http://id.loc.gov/authorities/names/n50042174
@@ -2648,6 +2687,7 @@ http://id.loc.gov/authorities/names/n50047232
 http://id.loc.gov/authorities/names/n50047255
 http://id.loc.gov/authorities/names/n50047261
 http://id.loc.gov/authorities/names/n50047291
+http://id.loc.gov/authorities/names/n50047292
 http://id.loc.gov/authorities/names/n50047295
 http://id.loc.gov/authorities/names/n50047296
 http://id.loc.gov/authorities/names/n50047298
@@ -2764,6 +2804,7 @@ http://id.loc.gov/authorities/names/n50050536
 http://id.loc.gov/authorities/names/n50050539
 http://id.loc.gov/authorities/names/n50050553
 http://id.loc.gov/authorities/names/n50050569
+http://id.loc.gov/authorities/names/n50050609
 http://id.loc.gov/authorities/names/n50050644
 http://id.loc.gov/authorities/names/n50050646
 http://id.loc.gov/authorities/names/n50050647
@@ -2820,6 +2861,7 @@ http://id.loc.gov/authorities/names/n50051925
 http://id.loc.gov/authorities/names/n50051926
 http://id.loc.gov/authorities/names/n50051933
 http://id.loc.gov/authorities/names/n50051947
+http://id.loc.gov/authorities/names/n50051976
 http://id.loc.gov/authorities/names/n50052049
 http://id.loc.gov/authorities/names/n50052087
 http://id.loc.gov/authorities/names/n50052091
@@ -2892,6 +2934,7 @@ http://id.loc.gov/authorities/names/n50054869
 http://id.loc.gov/authorities/names/n50054894
 http://id.loc.gov/authorities/names/n50054908
 http://id.loc.gov/authorities/names/n50055329
+http://id.loc.gov/authorities/names/n50055390
 http://id.loc.gov/authorities/names/n50055588
 http://id.loc.gov/authorities/names/n50055590
 http://id.loc.gov/authorities/names/n50055897
@@ -2956,11 +2999,13 @@ http://id.loc.gov/authorities/names/n50058858
 http://id.loc.gov/authorities/names/n50058877
 http://id.loc.gov/authorities/names/n50059010
 http://id.loc.gov/authorities/names/n50059015
+http://id.loc.gov/authorities/names/n50059019
 http://id.loc.gov/authorities/names/n50059133
 http://id.loc.gov/authorities/names/n50059393
 http://id.loc.gov/authorities/names/n50059462
 http://id.loc.gov/authorities/names/n50059497
 http://id.loc.gov/authorities/names/n50059512
+http://id.loc.gov/authorities/names/n50059667
 http://id.loc.gov/authorities/names/n50059835
 http://id.loc.gov/authorities/names/n50059881
 http://id.loc.gov/authorities/names/n50059889
@@ -2969,6 +3014,7 @@ http://id.loc.gov/authorities/names/n50059894
 http://id.loc.gov/authorities/names/n50059895
 http://id.loc.gov/authorities/names/n50059901
 http://id.loc.gov/authorities/names/n50059902
+http://id.loc.gov/authorities/names/n50059907
 http://id.loc.gov/authorities/names/n50060364
 http://id.loc.gov/authorities/names/n50060366
 http://id.loc.gov/authorities/names/n50060384
@@ -3002,6 +3048,8 @@ http://id.loc.gov/authorities/names/n50063691
 http://id.loc.gov/authorities/names/n50063923
 http://id.loc.gov/authorities/names/n50063935
 http://id.loc.gov/authorities/names/n50064046
+http://id.loc.gov/authorities/names/n50064350
+http://id.loc.gov/authorities/names/n50064494
 http://id.loc.gov/authorities/names/n50064692
 http://id.loc.gov/authorities/names/n50064742
 http://id.loc.gov/authorities/names/n50064786
@@ -3034,6 +3082,7 @@ http://id.loc.gov/authorities/names/n50067185
 http://id.loc.gov/authorities/names/n50067201
 http://id.loc.gov/authorities/names/n50067224
 http://id.loc.gov/authorities/names/n50067600
+http://id.loc.gov/authorities/names/n50067807
 http://id.loc.gov/authorities/names/n50067918
 http://id.loc.gov/authorities/names/n50068306
 http://id.loc.gov/authorities/names/n50068410
@@ -3058,6 +3107,7 @@ http://id.loc.gov/authorities/names/n50070334
 http://id.loc.gov/authorities/names/n50070435
 http://id.loc.gov/authorities/names/n50070589
 http://id.loc.gov/authorities/names/n50070842
+http://id.loc.gov/authorities/names/n50071231
 http://id.loc.gov/authorities/names/n50072220
 http://id.loc.gov/authorities/names/n50072224
 http://id.loc.gov/authorities/names/n50072225
@@ -3181,7 +3231,6 @@ http://id.loc.gov/authorities/names/n50082131
 http://id.loc.gov/authorities/names/n50082236
 http://id.loc.gov/authorities/names/n50082275
 http://id.loc.gov/authorities/names/n50082276
-http://id.loc.gov/authorities/names/n50082288
 http://id.loc.gov/authorities/names/n50082339
 http://id.loc.gov/authorities/names/n50082380
 http://id.loc.gov/authorities/names/n50082381
@@ -3233,6 +3282,7 @@ http://id.loc.gov/authorities/names/n78000305
 http://id.loc.gov/authorities/names/n78001095
 http://id.loc.gov/authorities/names/n78004672
 http://id.loc.gov/authorities/names/n78004696
+http://id.loc.gov/authorities/names/n78005191
 http://id.loc.gov/authorities/names/n78007577
 http://id.loc.gov/authorities/names/n78007716
 http://id.loc.gov/authorities/names/n78007718
@@ -3286,6 +3336,7 @@ http://id.loc.gov/authorities/names/n78040985
 http://id.loc.gov/authorities/names/n78041406
 http://id.loc.gov/authorities/names/n78041582
 http://id.loc.gov/authorities/names/n78042146
+http://id.loc.gov/authorities/names/n78042840
 http://id.loc.gov/authorities/names/n78044024
 http://id.loc.gov/authorities/names/n78044518
 http://id.loc.gov/authorities/names/n78044745
@@ -3323,6 +3374,7 @@ http://id.loc.gov/authorities/names/n78068620
 http://id.loc.gov/authorities/names/n78068808
 http://id.loc.gov/authorities/names/n78069227
 http://id.loc.gov/authorities/names/n78070302
+http://id.loc.gov/authorities/names/n78070533
 http://id.loc.gov/authorities/names/n78072014
 http://id.loc.gov/authorities/names/n78072215
 http://id.loc.gov/authorities/names/n78072495
@@ -3384,6 +3436,7 @@ http://id.loc.gov/authorities/names/n78087632
 http://id.loc.gov/authorities/names/n78087649
 http://id.loc.gov/authorities/names/n78087939
 http://id.loc.gov/authorities/names/n78087952
+http://id.loc.gov/authorities/names/n78087980
 http://id.loc.gov/authorities/names/n78088009
 http://id.loc.gov/authorities/names/n78088909
 http://id.loc.gov/authorities/names/n78088956
@@ -3393,6 +3446,7 @@ http://id.loc.gov/authorities/names/n78089021
 http://id.loc.gov/authorities/names/n78089035
 http://id.loc.gov/authorities/names/n78089036
 http://id.loc.gov/authorities/names/n78089038
+http://id.loc.gov/authorities/names/n78089046
 http://id.loc.gov/authorities/names/n78089067
 http://id.loc.gov/authorities/names/n78089084
 http://id.loc.gov/authorities/names/n78089813
@@ -3442,6 +3496,7 @@ http://id.loc.gov/authorities/names/n78095462
 http://id.loc.gov/authorities/names/n78095466
 http://id.loc.gov/authorities/names/n78095472
 http://id.loc.gov/authorities/names/n78095474
+http://id.loc.gov/authorities/names/n78095475
 http://id.loc.gov/authorities/names/n78095482
 http://id.loc.gov/authorities/names/n78095485
 http://id.loc.gov/authorities/names/n78095494
@@ -3623,6 +3678,7 @@ http://id.loc.gov/authorities/names/n79007262
 http://id.loc.gov/authorities/names/n79007295
 http://id.loc.gov/authorities/names/n79007325
 http://id.loc.gov/authorities/names/n79007333
+http://id.loc.gov/authorities/names/n79007369
 http://id.loc.gov/authorities/names/n79007370
 http://id.loc.gov/authorities/names/n79007438
 http://id.loc.gov/authorities/names/n79007443
@@ -3664,6 +3720,7 @@ http://id.loc.gov/authorities/names/n79012477
 http://id.loc.gov/authorities/names/n79012566
 http://id.loc.gov/authorities/names/n79012888
 http://id.loc.gov/authorities/names/n79013036
+http://id.loc.gov/authorities/names/n79013823
 http://id.loc.gov/authorities/names/n79013825
 http://id.loc.gov/authorities/names/n79013828
 http://id.loc.gov/authorities/names/n79013836
@@ -3738,8 +3795,8 @@ http://id.loc.gov/authorities/names/n79018911
 http://id.loc.gov/authorities/names/n79018920
 http://id.loc.gov/authorities/names/n79018924
 http://id.loc.gov/authorities/names/n79019005
+http://id.loc.gov/authorities/names/n79021052
 http://id.loc.gov/authorities/names/n79021082
-http://id.loc.gov/authorities/names/n79021124
 http://id.loc.gov/authorities/names/n79021132
 http://id.loc.gov/authorities/names/n79021157
 http://id.loc.gov/authorities/names/n79021164
@@ -3786,6 +3843,7 @@ http://id.loc.gov/authorities/names/n79021742
 http://id.loc.gov/authorities/names/n79021759
 http://id.loc.gov/authorities/names/n79021767
 http://id.loc.gov/authorities/names/n79021788
+http://id.loc.gov/authorities/names/n79021811
 http://id.loc.gov/authorities/names/n79021814
 http://id.loc.gov/authorities/names/n79021818
 http://id.loc.gov/authorities/names/n79021834
@@ -3820,12 +3878,14 @@ http://id.loc.gov/authorities/names/n79022941
 http://id.loc.gov/authorities/names/n79022942
 http://id.loc.gov/authorities/names/n79022968
 http://id.loc.gov/authorities/names/n79022986
+http://id.loc.gov/authorities/names/n79023005
 http://id.loc.gov/authorities/names/n79023029
 http://id.loc.gov/authorities/names/n79023046
 http://id.loc.gov/authorities/names/n79023074
 http://id.loc.gov/authorities/names/n79023104
 http://id.loc.gov/authorities/names/n79023113
 http://id.loc.gov/authorities/names/n79023126
+http://id.loc.gov/authorities/names/n79023147
 http://id.loc.gov/authorities/names/n79023149
 http://id.loc.gov/authorities/names/n79023160
 http://id.loc.gov/authorities/names/n79023172
@@ -3853,6 +3913,7 @@ http://id.loc.gov/authorities/names/n79026859
 http://id.loc.gov/authorities/names/n79026862
 http://id.loc.gov/authorities/names/n79026879
 http://id.loc.gov/authorities/names/n79026898
+http://id.loc.gov/authorities/names/n79026910
 http://id.loc.gov/authorities/names/n79026972
 http://id.loc.gov/authorities/names/n79026975
 http://id.loc.gov/authorities/names/n79026987
@@ -3966,6 +4027,7 @@ http://id.loc.gov/authorities/names/n79039716
 http://id.loc.gov/authorities/names/n79039731
 http://id.loc.gov/authorities/names/n79039761
 http://id.loc.gov/authorities/names/n79039800
+http://id.loc.gov/authorities/names/n79039816
 http://id.loc.gov/authorities/names/n79039821
 http://id.loc.gov/authorities/names/n79039822
 http://id.loc.gov/authorities/names/n79039823
@@ -4083,6 +4145,7 @@ http://id.loc.gov/authorities/names/n79043899
 http://id.loc.gov/authorities/names/n79043907
 http://id.loc.gov/authorities/names/n79043909
 http://id.loc.gov/authorities/names/n79043913
+http://id.loc.gov/authorities/names/n79043915
 http://id.loc.gov/authorities/names/n79043917
 http://id.loc.gov/authorities/names/n79043923
 http://id.loc.gov/authorities/names/n79043924
@@ -4134,6 +4197,7 @@ http://id.loc.gov/authorities/names/n79046514
 http://id.loc.gov/authorities/names/n79046560
 http://id.loc.gov/authorities/names/n79046565
 http://id.loc.gov/authorities/names/n79046615
+http://id.loc.gov/authorities/names/n79046621
 http://id.loc.gov/authorities/names/n79046630
 http://id.loc.gov/authorities/names/n79046639
 http://id.loc.gov/authorities/names/n79046644
@@ -4284,6 +4348,7 @@ http://id.loc.gov/authorities/names/n79056069
 http://id.loc.gov/authorities/names/n79056129
 http://id.loc.gov/authorities/names/n79056132
 http://id.loc.gov/authorities/names/n79056176
+http://id.loc.gov/authorities/names/n79056177
 http://id.loc.gov/authorities/names/n79056202
 http://id.loc.gov/authorities/names/n79056234
 http://id.loc.gov/authorities/names/n79056291
@@ -4306,6 +4371,7 @@ http://id.loc.gov/authorities/names/n79056734
 http://id.loc.gov/authorities/names/n79056735
 http://id.loc.gov/authorities/names/n79056736
 http://id.loc.gov/authorities/names/n79056738
+http://id.loc.gov/authorities/names/n79056767
 http://id.loc.gov/authorities/names/n79056770
 http://id.loc.gov/authorities/names/n79056773
 http://id.loc.gov/authorities/names/n79056784
@@ -4321,6 +4387,7 @@ http://id.loc.gov/authorities/names/n79058293
 http://id.loc.gov/authorities/names/n79058331
 http://id.loc.gov/authorities/names/n79058333
 http://id.loc.gov/authorities/names/n79058355
+http://id.loc.gov/authorities/names/n79058364
 http://id.loc.gov/authorities/names/n79058404
 http://id.loc.gov/authorities/names/n79058405
 http://id.loc.gov/authorities/names/n79058413
@@ -4368,6 +4435,7 @@ http://id.loc.gov/authorities/names/n79059541
 http://id.loc.gov/authorities/names/n79059562
 http://id.loc.gov/authorities/names/n79059641
 http://id.loc.gov/authorities/names/n79059644
+http://id.loc.gov/authorities/names/n79059670
 http://id.loc.gov/authorities/names/n79059674
 http://id.loc.gov/authorities/names/n79059681
 http://id.loc.gov/authorities/names/n79059711
@@ -4486,6 +4554,7 @@ http://id.loc.gov/authorities/names/n79063498
 http://id.loc.gov/authorities/names/n79063517
 http://id.loc.gov/authorities/names/n79063574
 http://id.loc.gov/authorities/names/n79063604
+http://id.loc.gov/authorities/names/n79063609
 http://id.loc.gov/authorities/names/n79063613
 http://id.loc.gov/authorities/names/n79063616
 http://id.loc.gov/authorities/names/n79063636
@@ -4537,6 +4606,7 @@ http://id.loc.gov/authorities/names/n79065184
 http://id.loc.gov/authorities/names/n79065215
 http://id.loc.gov/authorities/names/n79065219
 http://id.loc.gov/authorities/names/n79065235
+http://id.loc.gov/authorities/names/n79065240
 http://id.loc.gov/authorities/names/n79065248
 http://id.loc.gov/authorities/names/n79065275
 http://id.loc.gov/authorities/names/n79065281
@@ -4630,6 +4700,7 @@ http://id.loc.gov/authorities/names/n79069813
 http://id.loc.gov/authorities/names/n79069817
 http://id.loc.gov/authorities/names/n79069837
 http://id.loc.gov/authorities/names/n79069840
+http://id.loc.gov/authorities/names/n79069853
 http://id.loc.gov/authorities/names/n79069865
 http://id.loc.gov/authorities/names/n79069876
 http://id.loc.gov/authorities/names/n79069893
@@ -4701,6 +4772,7 @@ http://id.loc.gov/authorities/names/n79074258
 http://id.loc.gov/authorities/names/n79074271
 http://id.loc.gov/authorities/names/n79074301
 http://id.loc.gov/authorities/names/n79074306
+http://id.loc.gov/authorities/names/n79074348
 http://id.loc.gov/authorities/names/n79074352
 http://id.loc.gov/authorities/names/n79074359
 http://id.loc.gov/authorities/names/n79074365
@@ -4752,6 +4824,7 @@ http://id.loc.gov/authorities/names/n79077376
 http://id.loc.gov/authorities/names/n79077389
 http://id.loc.gov/authorities/names/n79077406
 http://id.loc.gov/authorities/names/n79077412
+http://id.loc.gov/authorities/names/n79077424
 http://id.loc.gov/authorities/names/n79077439
 http://id.loc.gov/authorities/names/n79077487
 http://id.loc.gov/authorities/names/n79077538
@@ -4800,6 +4873,7 @@ http://id.loc.gov/authorities/names/n79081547
 http://id.loc.gov/authorities/names/n79081574
 http://id.loc.gov/authorities/names/n79081582
 http://id.loc.gov/authorities/names/n79081610
+http://id.loc.gov/authorities/names/n79081653
 http://id.loc.gov/authorities/names/n79081704
 http://id.loc.gov/authorities/names/n79081709
 http://id.loc.gov/authorities/names/n79081711
@@ -4812,6 +4886,7 @@ http://id.loc.gov/authorities/names/n79081934
 http://id.loc.gov/authorities/names/n79081960
 http://id.loc.gov/authorities/names/n79082127
 http://id.loc.gov/authorities/names/n79082132
+http://id.loc.gov/authorities/names/n79082135
 http://id.loc.gov/authorities/names/n79082138
 http://id.loc.gov/authorities/names/n79082185
 http://id.loc.gov/authorities/names/n79082237
@@ -4875,6 +4950,8 @@ http://id.loc.gov/authorities/names/n79084901
 http://id.loc.gov/authorities/names/n79084958
 http://id.loc.gov/authorities/names/n79084973
 http://id.loc.gov/authorities/names/n79085023
+http://id.loc.gov/authorities/names/n79085026
+http://id.loc.gov/authorities/names/n79085042
 http://id.loc.gov/authorities/names/n79085053
 http://id.loc.gov/authorities/names/n79085086
 http://id.loc.gov/authorities/names/n79085101
@@ -4895,6 +4972,7 @@ http://id.loc.gov/authorities/names/n79086454
 http://id.loc.gov/authorities/names/n79086464
 http://id.loc.gov/authorities/names/n79086767
 http://id.loc.gov/authorities/names/n79086775
+http://id.loc.gov/authorities/names/n79086810
 http://id.loc.gov/authorities/names/n79086812
 http://id.loc.gov/authorities/names/n79086816
 http://id.loc.gov/authorities/names/n79086822
@@ -4927,6 +5005,7 @@ http://id.loc.gov/authorities/names/n79089337
 http://id.loc.gov/authorities/names/n79089339
 http://id.loc.gov/authorities/names/n79089349
 http://id.loc.gov/authorities/names/n79089398
+http://id.loc.gov/authorities/names/n79089399
 http://id.loc.gov/authorities/names/n79089504
 http://id.loc.gov/authorities/names/n79089520
 http://id.loc.gov/authorities/names/n79089563
@@ -4943,6 +5022,7 @@ http://id.loc.gov/authorities/names/n79090020
 http://id.loc.gov/authorities/names/n79090025
 http://id.loc.gov/authorities/names/n79090028
 http://id.loc.gov/authorities/names/n79090055
+http://id.loc.gov/authorities/names/n79090081
 http://id.loc.gov/authorities/names/n79090096
 http://id.loc.gov/authorities/names/n79090126
 http://id.loc.gov/authorities/names/n79090130
@@ -5009,6 +5089,7 @@ http://id.loc.gov/authorities/names/n79092686
 http://id.loc.gov/authorities/names/n79093003
 http://id.loc.gov/authorities/names/n79093041
 http://id.loc.gov/authorities/names/n79093077
+http://id.loc.gov/authorities/names/n79093268
 http://id.loc.gov/authorities/names/n79093306
 http://id.loc.gov/authorities/names/n79093314
 http://id.loc.gov/authorities/names/n79093323
@@ -5106,6 +5187,7 @@ http://id.loc.gov/authorities/names/n79100649
 http://id.loc.gov/authorities/names/n79100676
 http://id.loc.gov/authorities/names/n79100683
 http://id.loc.gov/authorities/names/n79100733
+http://id.loc.gov/authorities/names/n79100747
 http://id.loc.gov/authorities/names/n79100757
 http://id.loc.gov/authorities/names/n79100777
 http://id.loc.gov/authorities/names/n79100792
@@ -5155,6 +5237,7 @@ http://id.loc.gov/authorities/names/n79105734
 http://id.loc.gov/authorities/names/n79105743
 http://id.loc.gov/authorities/names/n79105772
 http://id.loc.gov/authorities/names/n79105787
+http://id.loc.gov/authorities/names/n79105791
 http://id.loc.gov/authorities/names/n79105796
 http://id.loc.gov/authorities/names/n79105881
 http://id.loc.gov/authorities/names/n79105897
@@ -5176,6 +5259,7 @@ http://id.loc.gov/authorities/names/n79106441
 http://id.loc.gov/authorities/names/n79106446
 http://id.loc.gov/authorities/names/n79106447
 http://id.loc.gov/authorities/names/n79106623
+http://id.loc.gov/authorities/names/n79106740
 http://id.loc.gov/authorities/names/n79106758
 http://id.loc.gov/authorities/names/n79107495
 http://id.loc.gov/authorities/names/n79107675
@@ -5202,6 +5286,7 @@ http://id.loc.gov/authorities/names/n79108377
 http://id.loc.gov/authorities/names/n79108396
 http://id.loc.gov/authorities/names/n79108397
 http://id.loc.gov/authorities/names/n79108398
+http://id.loc.gov/authorities/names/n79108403
 http://id.loc.gov/authorities/names/n79108434
 http://id.loc.gov/authorities/names/n79108865
 http://id.loc.gov/authorities/names/n79108868
@@ -5220,6 +5305,7 @@ http://id.loc.gov/authorities/names/n79109076
 http://id.loc.gov/authorities/names/n79109131
 http://id.loc.gov/authorities/names/n79109204
 http://id.loc.gov/authorities/names/n79109330
+http://id.loc.gov/authorities/names/n79109333
 http://id.loc.gov/authorities/names/n79109335
 http://id.loc.gov/authorities/names/n79109337
 http://id.loc.gov/authorities/names/n79109681
@@ -5316,6 +5402,7 @@ http://id.loc.gov/authorities/names/n79117116
 http://id.loc.gov/authorities/names/n79117119
 http://id.loc.gov/authorities/names/n79117127
 http://id.loc.gov/authorities/names/n79117152
+http://id.loc.gov/authorities/names/n79117168
 http://id.loc.gov/authorities/names/n79117176
 http://id.loc.gov/authorities/names/n79117216
 http://id.loc.gov/authorities/names/n79117248
@@ -5330,7 +5417,6 @@ http://id.loc.gov/authorities/names/n79118052
 http://id.loc.gov/authorities/names/n79118064
 http://id.loc.gov/authorities/names/n79118069
 http://id.loc.gov/authorities/names/n79118087
-http://id.loc.gov/authorities/names/n79118258
 http://id.loc.gov/authorities/names/n79118914
 http://id.loc.gov/authorities/names/n79118917
 http://id.loc.gov/authorities/names/n79118951
@@ -5342,6 +5428,7 @@ http://id.loc.gov/authorities/names/n79119057
 http://id.loc.gov/authorities/names/n79119067
 http://id.loc.gov/authorities/names/n79119132
 http://id.loc.gov/authorities/names/n79119138
+http://id.loc.gov/authorities/names/n79119148
 http://id.loc.gov/authorities/names/n79119152
 http://id.loc.gov/authorities/names/n79119159
 http://id.loc.gov/authorities/names/n79119160
@@ -5469,6 +5556,7 @@ http://id.loc.gov/authorities/names/n79129228
 http://id.loc.gov/authorities/names/n79129517
 http://id.loc.gov/authorities/names/n79129565
 http://id.loc.gov/authorities/names/n79129567
+http://id.loc.gov/authorities/names/n79129598
 http://id.loc.gov/authorities/names/n79129629
 http://id.loc.gov/authorities/names/n79129805
 http://id.loc.gov/authorities/names/n79130693
@@ -5509,6 +5597,7 @@ http://id.loc.gov/authorities/names/n79133739
 http://id.loc.gov/authorities/names/n79133769
 http://id.loc.gov/authorities/names/n79133789
 http://id.loc.gov/authorities/names/n79133995
+http://id.loc.gov/authorities/names/n79133998
 http://id.loc.gov/authorities/names/n79134035
 http://id.loc.gov/authorities/names/n79134057
 http://id.loc.gov/authorities/names/n79134100
@@ -5633,6 +5722,7 @@ http://id.loc.gov/authorities/names/n79142948
 http://id.loc.gov/authorities/names/n79142969
 http://id.loc.gov/authorities/names/n79143077
 http://id.loc.gov/authorities/names/n79143875
+http://id.loc.gov/authorities/names/n79144433
 http://id.loc.gov/authorities/names/n79144585
 http://id.loc.gov/authorities/names/n79144645
 http://id.loc.gov/authorities/names/n79144708
@@ -5654,6 +5744,7 @@ http://id.loc.gov/authorities/names/n79145198
 http://id.loc.gov/authorities/names/n79145199
 http://id.loc.gov/authorities/names/n79145293
 http://id.loc.gov/authorities/names/n79145308
+http://id.loc.gov/authorities/names/n79145320
 http://id.loc.gov/authorities/names/n79145392
 http://id.loc.gov/authorities/names/n79145397
 http://id.loc.gov/authorities/names/n79145410
@@ -5668,6 +5759,7 @@ http://id.loc.gov/authorities/names/n79145593
 http://id.loc.gov/authorities/names/n79145608
 http://id.loc.gov/authorities/names/n79145670
 http://id.loc.gov/authorities/names/n79145672
+http://id.loc.gov/authorities/names/n79145704
 http://id.loc.gov/authorities/names/n79145724
 http://id.loc.gov/authorities/names/n79145774
 http://id.loc.gov/authorities/names/n79145798
@@ -5742,12 +5834,14 @@ http://id.loc.gov/authorities/names/n80002377
 http://id.loc.gov/authorities/names/n80002386
 http://id.loc.gov/authorities/names/n80002390
 http://id.loc.gov/authorities/names/n80002413
+http://id.loc.gov/authorities/names/n80002425
 http://id.loc.gov/authorities/names/n80002447
 http://id.loc.gov/authorities/names/n80002513
 http://id.loc.gov/authorities/names/n80002531
 http://id.loc.gov/authorities/names/n80002569
 http://id.loc.gov/authorities/names/n80002932
 http://id.loc.gov/authorities/names/n80002949
+http://id.loc.gov/authorities/names/n80002955
 http://id.loc.gov/authorities/names/n80002956
 http://id.loc.gov/authorities/names/n80002958
 http://id.loc.gov/authorities/names/n80002993
@@ -5762,8 +5856,10 @@ http://id.loc.gov/authorities/names/n80004342
 http://id.loc.gov/authorities/names/n80004347
 http://id.loc.gov/authorities/names/n80004353
 http://id.loc.gov/authorities/names/n80004375
+http://id.loc.gov/authorities/names/n80004388
 http://id.loc.gov/authorities/names/n80004390
 http://id.loc.gov/authorities/names/n80005055
+http://id.loc.gov/authorities/names/n80005067
 http://id.loc.gov/authorities/names/n80005077
 http://id.loc.gov/authorities/names/n80005086
 http://id.loc.gov/authorities/names/n80005093
@@ -5790,6 +5886,7 @@ http://id.loc.gov/authorities/names/n80008102
 http://id.loc.gov/authorities/names/n80008104
 http://id.loc.gov/authorities/names/n80008131
 http://id.loc.gov/authorities/names/n80008161
+http://id.loc.gov/authorities/names/n80008171
 http://id.loc.gov/authorities/names/n80008205
 http://id.loc.gov/authorities/names/n80008225
 http://id.loc.gov/authorities/names/n80008471
@@ -5919,8 +6016,10 @@ http://id.loc.gov/authorities/names/n80017868
 http://id.loc.gov/authorities/names/n80017873
 http://id.loc.gov/authorities/names/n80017914
 http://id.loc.gov/authorities/names/n80017950
+http://id.loc.gov/authorities/names/n80018167
 http://id.loc.gov/authorities/names/n80018755
 http://id.loc.gov/authorities/names/n80018785
+http://id.loc.gov/authorities/names/n80019499
 http://id.loc.gov/authorities/names/n80019504
 http://id.loc.gov/authorities/names/n80019525
 http://id.loc.gov/authorities/names/n80019602
@@ -5960,6 +6059,7 @@ http://id.loc.gov/authorities/names/n80022983
 http://id.loc.gov/authorities/names/n80022990
 http://id.loc.gov/authorities/names/n80023034
 http://id.loc.gov/authorities/names/n80023069
+http://id.loc.gov/authorities/names/n80023145
 http://id.loc.gov/authorities/names/n80023564
 http://id.loc.gov/authorities/names/n80024150
 http://id.loc.gov/authorities/names/n80024168
@@ -6016,6 +6116,7 @@ http://id.loc.gov/authorities/names/n80030774
 http://id.loc.gov/authorities/names/n80030808
 http://id.loc.gov/authorities/names/n80030930
 http://id.loc.gov/authorities/names/n80031292
+http://id.loc.gov/authorities/names/n80032050
 http://id.loc.gov/authorities/names/n80032051
 http://id.loc.gov/authorities/names/n80032120
 http://id.loc.gov/authorities/names/n80032173
@@ -6130,6 +6231,7 @@ http://id.loc.gov/authorities/names/n80038089
 http://id.loc.gov/authorities/names/n80038108
 http://id.loc.gov/authorities/names/n80038124
 http://id.loc.gov/authorities/names/n80038130
+http://id.loc.gov/authorities/names/n80038183
 http://id.loc.gov/authorities/names/n80038186
 http://id.loc.gov/authorities/names/n80038244
 http://id.loc.gov/authorities/names/n80038259
@@ -6175,6 +6277,7 @@ http://id.loc.gov/authorities/names/n80040317
 http://id.loc.gov/authorities/names/n80040341
 http://id.loc.gov/authorities/names/n80040356
 http://id.loc.gov/authorities/names/n80040365
+http://id.loc.gov/authorities/names/n80040384
 http://id.loc.gov/authorities/names/n80040391
 http://id.loc.gov/authorities/names/n80040433
 http://id.loc.gov/authorities/names/n80040493
@@ -6198,6 +6301,7 @@ http://id.loc.gov/authorities/names/n80043375
 http://id.loc.gov/authorities/names/n80043451
 http://id.loc.gov/authorities/names/n80043499
 http://id.loc.gov/authorities/names/n80043512
+http://id.loc.gov/authorities/names/n80043529
 http://id.loc.gov/authorities/names/n80043584
 http://id.loc.gov/authorities/names/n80043599
 http://id.loc.gov/authorities/names/n80044450
@@ -6263,6 +6367,7 @@ http://id.loc.gov/authorities/names/n80048500
 http://id.loc.gov/authorities/names/n80049367
 http://id.loc.gov/authorities/names/n80049369
 http://id.loc.gov/authorities/names/n80049565
+http://id.loc.gov/authorities/names/n80049579
 http://id.loc.gov/authorities/names/n80049584
 http://id.loc.gov/authorities/names/n80049626
 http://id.loc.gov/authorities/names/n80049669
@@ -6323,6 +6428,7 @@ http://id.loc.gov/authorities/names/n80053135
 http://id.loc.gov/authorities/names/n80053193
 http://id.loc.gov/authorities/names/n80053245
 http://id.loc.gov/authorities/names/n80053262
+http://id.loc.gov/authorities/names/n80053295
 http://id.loc.gov/authorities/names/n80054558
 http://id.loc.gov/authorities/names/n80056147
 http://id.loc.gov/authorities/names/n80056752
@@ -6388,6 +6494,7 @@ http://id.loc.gov/authorities/names/n80060089
 http://id.loc.gov/authorities/names/n80060330
 http://id.loc.gov/authorities/names/n80060444
 http://id.loc.gov/authorities/names/n80060447
+http://id.loc.gov/authorities/names/n80060488
 http://id.loc.gov/authorities/names/n80060594
 http://id.loc.gov/authorities/names/n80060662
 http://id.loc.gov/authorities/names/n80060716
@@ -6395,6 +6502,7 @@ http://id.loc.gov/authorities/names/n80060720
 http://id.loc.gov/authorities/names/n80060773
 http://id.loc.gov/authorities/names/n80060794
 http://id.loc.gov/authorities/names/n80060837
+http://id.loc.gov/authorities/names/n80060867
 http://id.loc.gov/authorities/names/n80060901
 http://id.loc.gov/authorities/names/n80060933
 http://id.loc.gov/authorities/names/n80060996
@@ -6419,6 +6527,7 @@ http://id.loc.gov/authorities/names/n80062926
 http://id.loc.gov/authorities/names/n80062965
 http://id.loc.gov/authorities/names/n80062980
 http://id.loc.gov/authorities/names/n80063107
+http://id.loc.gov/authorities/names/n80063179
 http://id.loc.gov/authorities/names/n80063360
 http://id.loc.gov/authorities/names/n80064236
 http://id.loc.gov/authorities/names/n80064889
@@ -6483,6 +6592,7 @@ http://id.loc.gov/authorities/names/n80072324
 http://id.loc.gov/authorities/names/n80072484
 http://id.loc.gov/authorities/names/n80072506
 http://id.loc.gov/authorities/names/n80072514
+http://id.loc.gov/authorities/names/n80072748
 http://id.loc.gov/authorities/names/n80073529
 http://id.loc.gov/authorities/names/n80073548
 http://id.loc.gov/authorities/names/n80073607
@@ -6605,6 +6715,7 @@ http://id.loc.gov/authorities/names/n80092173
 http://id.loc.gov/authorities/names/n80092546
 http://id.loc.gov/authorities/names/n80093422
 http://id.loc.gov/authorities/names/n80093577
+http://id.loc.gov/authorities/names/n80093609
 http://id.loc.gov/authorities/names/n80094164
 http://id.loc.gov/authorities/names/n80094249
 http://id.loc.gov/authorities/names/n80094303
@@ -6669,6 +6780,7 @@ http://id.loc.gov/authorities/names/n80104666
 http://id.loc.gov/authorities/names/n80104754
 http://id.loc.gov/authorities/names/n80104771
 http://id.loc.gov/authorities/names/n80104795
+http://id.loc.gov/authorities/names/n80104828
 http://id.loc.gov/authorities/names/n80105168
 http://id.loc.gov/authorities/names/n80105526
 http://id.loc.gov/authorities/names/n80105918
@@ -6727,6 +6839,7 @@ http://id.loc.gov/authorities/names/n80113404
 http://id.loc.gov/authorities/names/n80113711
 http://id.loc.gov/authorities/names/n80113755
 http://id.loc.gov/authorities/names/n80113792
+http://id.loc.gov/authorities/names/n80113869
 http://id.loc.gov/authorities/names/n80113882
 http://id.loc.gov/authorities/names/n80115655
 http://id.loc.gov/authorities/names/n80115708
@@ -6751,6 +6864,7 @@ http://id.loc.gov/authorities/names/n80118359
 http://id.loc.gov/authorities/names/n80118393
 http://id.loc.gov/authorities/names/n80118407
 http://id.loc.gov/authorities/names/n80118409
+http://id.loc.gov/authorities/names/n80118473
 http://id.loc.gov/authorities/names/n80118494
 http://id.loc.gov/authorities/names/n80119360
 http://id.loc.gov/authorities/names/n80119415
@@ -6778,7 +6892,10 @@ http://id.loc.gov/authorities/names/n80123342
 http://id.loc.gov/authorities/names/n80123380
 http://id.loc.gov/authorities/names/n80123431
 http://id.loc.gov/authorities/names/n80123505
+http://id.loc.gov/authorities/names/n80123573
+http://id.loc.gov/authorities/names/n80123603
 http://id.loc.gov/authorities/names/n80124828
+http://id.loc.gov/authorities/names/n80124947
 http://id.loc.gov/authorities/names/n80125110
 http://id.loc.gov/authorities/names/n80125125
 http://id.loc.gov/authorities/names/n80125135
@@ -6886,6 +7003,7 @@ http://id.loc.gov/authorities/names/n80132194
 http://id.loc.gov/authorities/names/n80132260
 http://id.loc.gov/authorities/names/n80132262
 http://id.loc.gov/authorities/names/n80132268
+http://id.loc.gov/authorities/names/n80132335
 http://id.loc.gov/authorities/names/n80132884
 http://id.loc.gov/authorities/names/n80132949
 http://id.loc.gov/authorities/names/n80132975
@@ -6947,6 +7065,7 @@ http://id.loc.gov/authorities/names/n80139853
 http://id.loc.gov/authorities/names/n80139966
 http://id.loc.gov/authorities/names/n80139973
 http://id.loc.gov/authorities/names/n80141011
+http://id.loc.gov/authorities/names/n80141414
 http://id.loc.gov/authorities/names/n80141457
 http://id.loc.gov/authorities/names/n80141948
 http://id.loc.gov/authorities/names/n80143151
@@ -6957,6 +7076,7 @@ http://id.loc.gov/authorities/names/n80143867
 http://id.loc.gov/authorities/names/n80144170
 http://id.loc.gov/authorities/names/n80144171
 http://id.loc.gov/authorities/names/n80144530
+http://id.loc.gov/authorities/names/n80144563
 http://id.loc.gov/authorities/names/n80144600
 http://id.loc.gov/authorities/names/n80144605
 http://id.loc.gov/authorities/names/n80144630
@@ -6970,6 +7090,7 @@ http://id.loc.gov/authorities/names/n80145026
 http://id.loc.gov/authorities/names/n80145082
 http://id.loc.gov/authorities/names/n80145086
 http://id.loc.gov/authorities/names/n80145095
+http://id.loc.gov/authorities/names/n80145150
 http://id.loc.gov/authorities/names/n80145179
 http://id.loc.gov/authorities/names/n80145183
 http://id.loc.gov/authorities/names/n80145210
@@ -7065,13 +7186,13 @@ http://id.loc.gov/authorities/names/n80158435
 http://id.loc.gov/authorities/names/n80158466
 http://id.loc.gov/authorities/names/n80158512
 http://id.loc.gov/authorities/names/n80158527
-http://id.loc.gov/authorities/names/n80158592
 http://id.loc.gov/authorities/names/n80158613
 http://id.loc.gov/authorities/names/n80158671
 http://id.loc.gov/authorities/names/n80158694
 http://id.loc.gov/authorities/names/n80158751
 http://id.loc.gov/authorities/names/n80158791
 http://id.loc.gov/authorities/names/n80158893
+http://id.loc.gov/authorities/names/n80159008
 http://id.loc.gov/authorities/names/n80159022
 http://id.loc.gov/authorities/names/n80159160
 http://id.loc.gov/authorities/names/n80159204
@@ -7094,10 +7215,12 @@ http://id.loc.gov/authorities/names/n80160269
 http://id.loc.gov/authorities/names/n80160278
 http://id.loc.gov/authorities/names/n80160390
 http://id.loc.gov/authorities/names/n80160431
+http://id.loc.gov/authorities/names/n80160454
 http://id.loc.gov/authorities/names/n80161138
 http://id.loc.gov/authorities/names/n80161683
 http://id.loc.gov/authorities/names/n80161971
 http://id.loc.gov/authorities/names/n80162288
+http://id.loc.gov/authorities/names/n80162570
 http://id.loc.gov/authorities/names/n80162582
 http://id.loc.gov/authorities/names/n80162638
 http://id.loc.gov/authorities/names/n80162685
@@ -7131,13 +7254,17 @@ http://id.loc.gov/authorities/names/n81001245
 http://id.loc.gov/authorities/names/n81001651
 http://id.loc.gov/authorities/names/n81001722
 http://id.loc.gov/authorities/names/n81002644
+http://id.loc.gov/authorities/names/n81002810
 http://id.loc.gov/authorities/names/n81002844
 http://id.loc.gov/authorities/names/n81002855
 http://id.loc.gov/authorities/names/n81002869
 http://id.loc.gov/authorities/names/n81002885
+http://id.loc.gov/authorities/names/n81003058
+http://id.loc.gov/authorities/names/n81003078
 http://id.loc.gov/authorities/names/n81003162
 http://id.loc.gov/authorities/names/n81003165
 http://id.loc.gov/authorities/names/n81003251
+http://id.loc.gov/authorities/names/n81003377
 http://id.loc.gov/authorities/names/n81003382
 http://id.loc.gov/authorities/names/n81003412
 http://id.loc.gov/authorities/names/n81003475
@@ -7146,6 +7273,7 @@ http://id.loc.gov/authorities/names/n81003591
 http://id.loc.gov/authorities/names/n81003698
 http://id.loc.gov/authorities/names/n81003862
 http://id.loc.gov/authorities/names/n81004066
+http://id.loc.gov/authorities/names/n81004128
 http://id.loc.gov/authorities/names/n81004156
 http://id.loc.gov/authorities/names/n81004369
 http://id.loc.gov/authorities/names/n81004395
@@ -7184,6 +7312,7 @@ http://id.loc.gov/authorities/names/n81008219
 http://id.loc.gov/authorities/names/n81008231
 http://id.loc.gov/authorities/names/n81008238
 http://id.loc.gov/authorities/names/n81008302
+http://id.loc.gov/authorities/names/n81008537
 http://id.loc.gov/authorities/names/n81008539
 http://id.loc.gov/authorities/names/n81008555
 http://id.loc.gov/authorities/names/n81009077
@@ -7202,6 +7331,7 @@ http://id.loc.gov/authorities/names/n81011188
 http://id.loc.gov/authorities/names/n81011277
 http://id.loc.gov/authorities/names/n81012170
 http://id.loc.gov/authorities/names/n81012217
+http://id.loc.gov/authorities/names/n81012314
 http://id.loc.gov/authorities/names/n81012321
 http://id.loc.gov/authorities/names/n81012358
 http://id.loc.gov/authorities/names/n81012457
@@ -7320,6 +7450,7 @@ http://id.loc.gov/authorities/names/n81023382
 http://id.loc.gov/authorities/names/n81023583
 http://id.loc.gov/authorities/names/n81024425
 http://id.loc.gov/authorities/names/n81024552
+http://id.loc.gov/authorities/names/n81024560
 http://id.loc.gov/authorities/names/n81024571
 http://id.loc.gov/authorities/names/n81024662
 http://id.loc.gov/authorities/names/n81024714
@@ -7355,6 +7486,7 @@ http://id.loc.gov/authorities/names/n81028874
 http://id.loc.gov/authorities/names/n81028906
 http://id.loc.gov/authorities/names/n81028989
 http://id.loc.gov/authorities/names/n81029040
+http://id.loc.gov/authorities/names/n81029656
 http://id.loc.gov/authorities/names/n81029911
 http://id.loc.gov/authorities/names/n81030108
 http://id.loc.gov/authorities/names/n81031730
@@ -7394,8 +7526,10 @@ http://id.loc.gov/authorities/names/n81033792
 http://id.loc.gov/authorities/names/n81033797
 http://id.loc.gov/authorities/names/n81033847
 http://id.loc.gov/authorities/names/n81033861
+http://id.loc.gov/authorities/names/n81033965
 http://id.loc.gov/authorities/names/n81034558
 http://id.loc.gov/authorities/names/n81035078
+http://id.loc.gov/authorities/names/n81035110
 http://id.loc.gov/authorities/names/n81035140
 http://id.loc.gov/authorities/names/n81035178
 http://id.loc.gov/authorities/names/n81035237
@@ -7430,7 +7564,6 @@ http://id.loc.gov/authorities/names/n81039090
 http://id.loc.gov/authorities/names/n81039207
 http://id.loc.gov/authorities/names/n81039214
 http://id.loc.gov/authorities/names/n81039335
-http://id.loc.gov/authorities/names/n81039599
 http://id.loc.gov/authorities/names/n81039766
 http://id.loc.gov/authorities/names/n81039769
 http://id.loc.gov/authorities/names/n81039791
@@ -7457,6 +7590,7 @@ http://id.loc.gov/authorities/names/n81042549
 http://id.loc.gov/authorities/names/n81042605
 http://id.loc.gov/authorities/names/n81042607
 http://id.loc.gov/authorities/names/n81042737
+http://id.loc.gov/authorities/names/n81042831
 http://id.loc.gov/authorities/names/n81043063
 http://id.loc.gov/authorities/names/n81043095
 http://id.loc.gov/authorities/names/n81043124
@@ -7518,6 +7652,7 @@ http://id.loc.gov/authorities/names/n81051501
 http://id.loc.gov/authorities/names/n81051687
 http://id.loc.gov/authorities/names/n81051888
 http://id.loc.gov/authorities/names/n81052375
+http://id.loc.gov/authorities/names/n81052383
 http://id.loc.gov/authorities/names/n81052400
 http://id.loc.gov/authorities/names/n81052570
 http://id.loc.gov/authorities/names/n81052706
@@ -7537,6 +7672,7 @@ http://id.loc.gov/authorities/names/n81053759
 http://id.loc.gov/authorities/names/n81053770
 http://id.loc.gov/authorities/names/n81053862
 http://id.loc.gov/authorities/names/n81054169
+http://id.loc.gov/authorities/names/n81054173
 http://id.loc.gov/authorities/names/n81054176
 http://id.loc.gov/authorities/names/n81054230
 http://id.loc.gov/authorities/names/n81054233
@@ -7560,14 +7696,18 @@ http://id.loc.gov/authorities/names/n81056836
 http://id.loc.gov/authorities/names/n81056899
 http://id.loc.gov/authorities/names/n81056954
 http://id.loc.gov/authorities/names/n81057115
+http://id.loc.gov/authorities/names/n81057261
 http://id.loc.gov/authorities/names/n81057914
 http://id.loc.gov/authorities/names/n81058154
 http://id.loc.gov/authorities/names/n81058232
 http://id.loc.gov/authorities/names/n81058335
 http://id.loc.gov/authorities/names/n81058548
+http://id.loc.gov/authorities/names/n81058570
+http://id.loc.gov/authorities/names/n81058587
 http://id.loc.gov/authorities/names/n81058893
 http://id.loc.gov/authorities/names/n81058967
 http://id.loc.gov/authorities/names/n81058984
+http://id.loc.gov/authorities/names/n81058998
 http://id.loc.gov/authorities/names/n81059831
 http://id.loc.gov/authorities/names/n81059867
 http://id.loc.gov/authorities/names/n81059872
@@ -7664,6 +7804,7 @@ http://id.loc.gov/authorities/names/n81073611
 http://id.loc.gov/authorities/names/n81073640
 http://id.loc.gov/authorities/names/n81073693
 http://id.loc.gov/authorities/names/n81073792
+http://id.loc.gov/authorities/names/n81074047
 http://id.loc.gov/authorities/names/n81074298
 http://id.loc.gov/authorities/names/n81074395
 http://id.loc.gov/authorities/names/n81074396
@@ -7736,6 +7877,7 @@ http://id.loc.gov/authorities/names/n81082026
 http://id.loc.gov/authorities/names/n81082466
 http://id.loc.gov/authorities/names/n81082641
 http://id.loc.gov/authorities/names/n81082643
+http://id.loc.gov/authorities/names/n81082764
 http://id.loc.gov/authorities/names/n81082950
 http://id.loc.gov/authorities/names/n81082981
 http://id.loc.gov/authorities/names/n81083008
@@ -7759,7 +7901,9 @@ http://id.loc.gov/authorities/names/n81085828
 http://id.loc.gov/authorities/names/n81086234
 http://id.loc.gov/authorities/names/n81086325
 http://id.loc.gov/authorities/names/n81086373
+http://id.loc.gov/authorities/names/n81086449
 http://id.loc.gov/authorities/names/n81086466
+http://id.loc.gov/authorities/names/n81086469
 http://id.loc.gov/authorities/names/n81086472
 http://id.loc.gov/authorities/names/n81086812
 http://id.loc.gov/authorities/names/n81086822
@@ -7818,6 +7962,7 @@ http://id.loc.gov/authorities/names/n81095816
 http://id.loc.gov/authorities/names/n81095890
 http://id.loc.gov/authorities/names/n81096007
 http://id.loc.gov/authorities/names/n81096009
+http://id.loc.gov/authorities/names/n81096041
 http://id.loc.gov/authorities/names/n81096075
 http://id.loc.gov/authorities/names/n81096313
 http://id.loc.gov/authorities/names/n81097141
@@ -7872,8 +8017,11 @@ http://id.loc.gov/authorities/names/n81105124
 http://id.loc.gov/authorities/names/n81105854
 http://id.loc.gov/authorities/names/n81106807
 http://id.loc.gov/authorities/names/n81106920
+http://id.loc.gov/authorities/names/n81106979
+http://id.loc.gov/authorities/names/n81107043
 http://id.loc.gov/authorities/names/n81107049
 http://id.loc.gov/authorities/names/n81107086
+http://id.loc.gov/authorities/names/n81107096
 http://id.loc.gov/authorities/names/n81107154
 http://id.loc.gov/authorities/names/n81107824
 http://id.loc.gov/authorities/names/n81108252
@@ -7890,6 +8038,7 @@ http://id.loc.gov/authorities/names/n81108796
 http://id.loc.gov/authorities/names/n81108828
 http://id.loc.gov/authorities/names/n81108854
 http://id.loc.gov/authorities/names/n81108866
+http://id.loc.gov/authorities/names/n81108954
 http://id.loc.gov/authorities/names/n81108980
 http://id.loc.gov/authorities/names/n81109080
 http://id.loc.gov/authorities/names/n81109158
@@ -7900,6 +8049,7 @@ http://id.loc.gov/authorities/names/n81110397
 http://id.loc.gov/authorities/names/n81110412
 http://id.loc.gov/authorities/names/n81110576
 http://id.loc.gov/authorities/names/n81110577
+http://id.loc.gov/authorities/names/n81110642
 http://id.loc.gov/authorities/names/n81110747
 http://id.loc.gov/authorities/names/n81110767
 http://id.loc.gov/authorities/names/n81110854
@@ -7913,6 +8063,7 @@ http://id.loc.gov/authorities/names/n81112184
 http://id.loc.gov/authorities/names/n81112403
 http://id.loc.gov/authorities/names/n81112426
 http://id.loc.gov/authorities/names/n81112479
+http://id.loc.gov/authorities/names/n81112589
 http://id.loc.gov/authorities/names/n81112597
 http://id.loc.gov/authorities/names/n81112966
 http://id.loc.gov/authorities/names/n81113066
@@ -7925,6 +8076,7 @@ http://id.loc.gov/authorities/names/n81114174
 http://id.loc.gov/authorities/names/n81114181
 http://id.loc.gov/authorities/names/n81114460
 http://id.loc.gov/authorities/names/n81114469
+http://id.loc.gov/authorities/names/n81114505
 http://id.loc.gov/authorities/names/n81114587
 http://id.loc.gov/authorities/names/n81114740
 http://id.loc.gov/authorities/names/n81116852
@@ -7936,6 +8088,7 @@ http://id.loc.gov/authorities/names/n81117143
 http://id.loc.gov/authorities/names/n81117169
 http://id.loc.gov/authorities/names/n81117179
 http://id.loc.gov/authorities/names/n81117240
+http://id.loc.gov/authorities/names/n81117285
 http://id.loc.gov/authorities/names/n81117292
 http://id.loc.gov/authorities/names/n81117363
 http://id.loc.gov/authorities/names/n81117569
@@ -7983,6 +8136,7 @@ http://id.loc.gov/authorities/names/n81124855
 http://id.loc.gov/authorities/names/n81124888
 http://id.loc.gov/authorities/names/n81124942
 http://id.loc.gov/authorities/names/n81124968
+http://id.loc.gov/authorities/names/n81124970
 http://id.loc.gov/authorities/names/n81125022
 http://id.loc.gov/authorities/names/n81125304
 http://id.loc.gov/authorities/names/n81125309
@@ -8016,9 +8170,11 @@ http://id.loc.gov/authorities/names/n81127564
 http://id.loc.gov/authorities/names/n81127683
 http://id.loc.gov/authorities/names/n81127817
 http://id.loc.gov/authorities/names/n81127857
+http://id.loc.gov/authorities/names/n81127963
 http://id.loc.gov/authorities/names/n81128150
 http://id.loc.gov/authorities/names/n81129328
 http://id.loc.gov/authorities/names/n81129613
+http://id.loc.gov/authorities/names/n81129730
 http://id.loc.gov/authorities/names/n81129746
 http://id.loc.gov/authorities/names/n81130525
 http://id.loc.gov/authorities/names/n81130629
@@ -8044,6 +8200,7 @@ http://id.loc.gov/authorities/names/n81133533
 http://id.loc.gov/authorities/names/n81133579
 http://id.loc.gov/authorities/names/n81133614
 http://id.loc.gov/authorities/names/n81133637
+http://id.loc.gov/authorities/names/n81133727
 http://id.loc.gov/authorities/names/n81133734
 http://id.loc.gov/authorities/names/n81133832
 http://id.loc.gov/authorities/names/n81134885
@@ -8051,6 +8208,7 @@ http://id.loc.gov/authorities/names/n81135003
 http://id.loc.gov/authorities/names/n81135061
 http://id.loc.gov/authorities/names/n81136710
 http://id.loc.gov/authorities/names/n81136739
+http://id.loc.gov/authorities/names/n81136760
 http://id.loc.gov/authorities/names/n81137018
 http://id.loc.gov/authorities/names/n81137459
 http://id.loc.gov/authorities/names/n81138322
@@ -8095,6 +8253,7 @@ http://id.loc.gov/authorities/names/n81142348
 http://id.loc.gov/authorities/names/n81142406
 http://id.loc.gov/authorities/names/n81143609
 http://id.loc.gov/authorities/names/n81143855
+http://id.loc.gov/authorities/names/n81143948
 http://id.loc.gov/authorities/names/n81143962
 http://id.loc.gov/authorities/names/n81144041
 http://id.loc.gov/authorities/names/n81144050
@@ -8203,6 +8362,7 @@ http://id.loc.gov/authorities/names/n82006134
 http://id.loc.gov/authorities/names/n82006210
 http://id.loc.gov/authorities/names/n82006221
 http://id.loc.gov/authorities/names/n82006296
+http://id.loc.gov/authorities/names/n82006440
 http://id.loc.gov/authorities/names/n82006554
 http://id.loc.gov/authorities/names/n82006577
 http://id.loc.gov/authorities/names/n82006659
@@ -8291,10 +8451,13 @@ http://id.loc.gov/authorities/names/n82022546
 http://id.loc.gov/authorities/names/n82022581
 http://id.loc.gov/authorities/names/n82023868
 http://id.loc.gov/authorities/names/n82023883
+http://id.loc.gov/authorities/names/n82023918
 http://id.loc.gov/authorities/names/n82023950
 http://id.loc.gov/authorities/names/n82024065
 http://id.loc.gov/authorities/names/n82024197
 http://id.loc.gov/authorities/names/n82024229
+http://id.loc.gov/authorities/names/n82024314
+http://id.loc.gov/authorities/names/n82024316
 http://id.loc.gov/authorities/names/n82024717
 http://id.loc.gov/authorities/names/n82024718
 http://id.loc.gov/authorities/names/n82024842
@@ -8347,11 +8510,13 @@ http://id.loc.gov/authorities/names/n82036024
 http://id.loc.gov/authorities/names/n82036031
 http://id.loc.gov/authorities/names/n82036136
 http://id.loc.gov/authorities/names/n82036175
+http://id.loc.gov/authorities/names/n82036457
 http://id.loc.gov/authorities/names/n82036703
 http://id.loc.gov/authorities/names/n82037151
 http://id.loc.gov/authorities/names/n82037192
 http://id.loc.gov/authorities/names/n82037318
 http://id.loc.gov/authorities/names/n82037510
+http://id.loc.gov/authorities/names/n82037598
 http://id.loc.gov/authorities/names/n82037645
 http://id.loc.gov/authorities/names/n82037655
 http://id.loc.gov/authorities/names/n82037657
@@ -8360,12 +8525,15 @@ http://id.loc.gov/authorities/names/n82037933
 http://id.loc.gov/authorities/names/n82037946
 http://id.loc.gov/authorities/names/n82037993
 http://id.loc.gov/authorities/names/n82038006
+http://id.loc.gov/authorities/names/n82038020
+http://id.loc.gov/authorities/names/n82038349
 http://id.loc.gov/authorities/names/n82039306
 http://id.loc.gov/authorities/names/n82039639
 http://id.loc.gov/authorities/names/n82039841
 http://id.loc.gov/authorities/names/n82039929
 http://id.loc.gov/authorities/names/n82039930
 http://id.loc.gov/authorities/names/n82039938
+http://id.loc.gov/authorities/names/n82040141
 http://id.loc.gov/authorities/names/n82040148
 http://id.loc.gov/authorities/names/n82040240
 http://id.loc.gov/authorities/names/n82040764
@@ -8411,6 +8579,7 @@ http://id.loc.gov/authorities/names/n82048852
 http://id.loc.gov/authorities/names/n82048933
 http://id.loc.gov/authorities/names/n82049570
 http://id.loc.gov/authorities/names/n82049591
+http://id.loc.gov/authorities/names/n82050742
 http://id.loc.gov/authorities/names/n82050748
 http://id.loc.gov/authorities/names/n82050831
 http://id.loc.gov/authorities/names/n82050932
@@ -8485,6 +8654,7 @@ http://id.loc.gov/authorities/names/n82060362
 http://id.loc.gov/authorities/names/n82061046
 http://id.loc.gov/authorities/names/n82062449
 http://id.loc.gov/authorities/names/n82062490
+http://id.loc.gov/authorities/names/n82062525
 http://id.loc.gov/authorities/names/n82062837
 http://id.loc.gov/authorities/names/n82063004
 http://id.loc.gov/authorities/names/n82063143
@@ -8509,6 +8679,7 @@ http://id.loc.gov/authorities/names/n82066148
 http://id.loc.gov/authorities/names/n82066295
 http://id.loc.gov/authorities/names/n82066347
 http://id.loc.gov/authorities/names/n82066374
+http://id.loc.gov/authorities/names/n82066426
 http://id.loc.gov/authorities/names/n82066573
 http://id.loc.gov/authorities/names/n82066690
 http://id.loc.gov/authorities/names/n82066691
@@ -8532,7 +8703,6 @@ http://id.loc.gov/authorities/names/n82070428
 http://id.loc.gov/authorities/names/n82070559
 http://id.loc.gov/authorities/names/n82070577
 http://id.loc.gov/authorities/names/n82070630
-http://id.loc.gov/authorities/names/n82070691
 http://id.loc.gov/authorities/names/n82070827
 http://id.loc.gov/authorities/names/n82071457
 http://id.loc.gov/authorities/names/n82071504
@@ -8602,6 +8772,7 @@ http://id.loc.gov/authorities/names/n82083363
 http://id.loc.gov/authorities/names/n82083388
 http://id.loc.gov/authorities/names/n82083542
 http://id.loc.gov/authorities/names/n82084227
+http://id.loc.gov/authorities/names/n82084285
 http://id.loc.gov/authorities/names/n82084372
 http://id.loc.gov/authorities/names/n82085482
 http://id.loc.gov/authorities/names/n82085687
@@ -8713,6 +8884,7 @@ http://id.loc.gov/authorities/names/n82106830
 http://id.loc.gov/authorities/names/n82106897
 http://id.loc.gov/authorities/names/n82106898
 http://id.loc.gov/authorities/names/n82107750
+http://id.loc.gov/authorities/names/n82108024
 http://id.loc.gov/authorities/names/n82108181
 http://id.loc.gov/authorities/names/n82108754
 http://id.loc.gov/authorities/names/n82108794
@@ -8732,6 +8904,7 @@ http://id.loc.gov/authorities/names/n82110585
 http://id.loc.gov/authorities/names/n82111326
 http://id.loc.gov/authorities/names/n82111340
 http://id.loc.gov/authorities/names/n82111813
+http://id.loc.gov/authorities/names/n82111974
 http://id.loc.gov/authorities/names/n82111992
 http://id.loc.gov/authorities/names/n82112138
 http://id.loc.gov/authorities/names/n82112434
@@ -8832,6 +9005,7 @@ http://id.loc.gov/authorities/names/n82137116
 http://id.loc.gov/authorities/names/n82137117
 http://id.loc.gov/authorities/names/n82137172
 http://id.loc.gov/authorities/names/n82138791
+http://id.loc.gov/authorities/names/n82138819
 http://id.loc.gov/authorities/names/n82138822
 http://id.loc.gov/authorities/names/n82138838
 http://id.loc.gov/authorities/names/n82138853
@@ -8841,6 +9015,7 @@ http://id.loc.gov/authorities/names/n82138994
 http://id.loc.gov/authorities/names/n82139094
 http://id.loc.gov/authorities/names/n82139148
 http://id.loc.gov/authorities/names/n82139366
+http://id.loc.gov/authorities/names/n82140023
 http://id.loc.gov/authorities/names/n82140186
 http://id.loc.gov/authorities/names/n82141065
 http://id.loc.gov/authorities/names/n82141083
@@ -8880,17 +9055,20 @@ http://id.loc.gov/authorities/names/n82148872
 http://id.loc.gov/authorities/names/n82148933
 http://id.loc.gov/authorities/names/n82149799
 http://id.loc.gov/authorities/names/n82150343
+http://id.loc.gov/authorities/names/n82150399
 http://id.loc.gov/authorities/names/n82150573
 http://id.loc.gov/authorities/names/n82151125
 http://id.loc.gov/authorities/names/n82151139
 http://id.loc.gov/authorities/names/n82151189
 http://id.loc.gov/authorities/names/n82151417
+http://id.loc.gov/authorities/names/n82151430
 http://id.loc.gov/authorities/names/n82151474
 http://id.loc.gov/authorities/names/n82151525
 http://id.loc.gov/authorities/names/n82152260
 http://id.loc.gov/authorities/names/n82152288
 http://id.loc.gov/authorities/names/n82152318
 http://id.loc.gov/authorities/names/n82152323
+http://id.loc.gov/authorities/names/n82152735
 http://id.loc.gov/authorities/names/n82152913
 http://id.loc.gov/authorities/names/n82152928
 http://id.loc.gov/authorities/names/n82153087
@@ -9090,6 +9268,7 @@ http://id.loc.gov/authorities/names/n82234077
 http://id.loc.gov/authorities/names/n82234143
 http://id.loc.gov/authorities/names/n82234811
 http://id.loc.gov/authorities/names/n82234828
+http://id.loc.gov/authorities/names/n82235146
 http://id.loc.gov/authorities/names/n82235152
 http://id.loc.gov/authorities/names/n82235378
 http://id.loc.gov/authorities/names/n82235669
@@ -9142,6 +9321,7 @@ http://id.loc.gov/authorities/names/n82250157
 http://id.loc.gov/authorities/names/n82250192
 http://id.loc.gov/authorities/names/n82250280
 http://id.loc.gov/authorities/names/n82250488
+http://id.loc.gov/authorities/names/n82250615
 http://id.loc.gov/authorities/names/n82251022
 http://id.loc.gov/authorities/names/n82252332
 http://id.loc.gov/authorities/names/n82252409
@@ -9179,6 +9359,7 @@ http://id.loc.gov/authorities/names/n82271767
 http://id.loc.gov/authorities/names/n82271940
 http://id.loc.gov/authorities/names/n82272108
 http://id.loc.gov/authorities/names/n82272519
+http://id.loc.gov/authorities/names/n82272626
 http://id.loc.gov/authorities/names/n82272651
 http://id.loc.gov/authorities/names/n82272892
 http://id.loc.gov/authorities/names/n82273903
@@ -9196,6 +9377,7 @@ http://id.loc.gov/authorities/names/n83001585
 http://id.loc.gov/authorities/names/n83001764
 http://id.loc.gov/authorities/names/n83002396
 http://id.loc.gov/authorities/names/n83003231
+http://id.loc.gov/authorities/names/n83003721
 http://id.loc.gov/authorities/names/n83004857
 http://id.loc.gov/authorities/names/n83005519
 http://id.loc.gov/authorities/names/n83005890
@@ -9203,6 +9385,7 @@ http://id.loc.gov/authorities/names/n83007001
 http://id.loc.gov/authorities/names/n83007794
 http://id.loc.gov/authorities/names/n83008381
 http://id.loc.gov/authorities/names/n83009468
+http://id.loc.gov/authorities/names/n83009487
 http://id.loc.gov/authorities/names/n83009527
 http://id.loc.gov/authorities/names/n83009538
 http://id.loc.gov/authorities/names/n83010110
@@ -9211,6 +9394,7 @@ http://id.loc.gov/authorities/names/n83010330
 http://id.loc.gov/authorities/names/n83010369
 http://id.loc.gov/authorities/names/n83010617
 http://id.loc.gov/authorities/names/n83010644
+http://id.loc.gov/authorities/names/n83010877
 http://id.loc.gov/authorities/names/n83011232
 http://id.loc.gov/authorities/names/n83011334
 http://id.loc.gov/authorities/names/n83011368
@@ -9262,15 +9446,18 @@ http://id.loc.gov/authorities/names/n83017971
 http://id.loc.gov/authorities/names/n83018055
 http://id.loc.gov/authorities/names/n83018083
 http://id.loc.gov/authorities/names/n83018191
+http://id.loc.gov/authorities/names/n83018378
 http://id.loc.gov/authorities/names/n83019224
 http://id.loc.gov/authorities/names/n83019238
 http://id.loc.gov/authorities/names/n83019436
 http://id.loc.gov/authorities/names/n83019538
+http://id.loc.gov/authorities/names/n83019581
 http://id.loc.gov/authorities/names/n83019589
 http://id.loc.gov/authorities/names/n83019835
 http://id.loc.gov/authorities/names/n83019840
 http://id.loc.gov/authorities/names/n83019973
 http://id.loc.gov/authorities/names/n83020045
+http://id.loc.gov/authorities/names/n83020134
 http://id.loc.gov/authorities/names/n83020286
 http://id.loc.gov/authorities/names/n83020571
 http://id.loc.gov/authorities/names/n83020606
@@ -9312,6 +9499,7 @@ http://id.loc.gov/authorities/names/n83029435
 http://id.loc.gov/authorities/names/n83030021
 http://id.loc.gov/authorities/names/n83030317
 http://id.loc.gov/authorities/names/n83030320
+http://id.loc.gov/authorities/names/n83030545
 http://id.loc.gov/authorities/names/n83031289
 http://id.loc.gov/authorities/names/n83031800
 http://id.loc.gov/authorities/names/n83031854
@@ -9487,6 +9675,7 @@ http://id.loc.gov/authorities/names/n83069491
 http://id.loc.gov/authorities/names/n83069555
 http://id.loc.gov/authorities/names/n83070014
 http://id.loc.gov/authorities/names/n83070446
+http://id.loc.gov/authorities/names/n83071365
 http://id.loc.gov/authorities/names/n83071544
 http://id.loc.gov/authorities/names/n83072341
 http://id.loc.gov/authorities/names/n83073046
@@ -9500,6 +9689,7 @@ http://id.loc.gov/authorities/names/n83120850
 http://id.loc.gov/authorities/names/n83121778
 http://id.loc.gov/authorities/names/n83121946
 http://id.loc.gov/authorities/names/n83122548
+http://id.loc.gov/authorities/names/n83123873
 http://id.loc.gov/authorities/names/n83124421
 http://id.loc.gov/authorities/names/n83124597
 http://id.loc.gov/authorities/names/n83124606
@@ -9529,6 +9719,7 @@ http://id.loc.gov/authorities/names/n83131639
 http://id.loc.gov/authorities/names/n83131667
 http://id.loc.gov/authorities/names/n83132129
 http://id.loc.gov/authorities/names/n83132162
+http://id.loc.gov/authorities/names/n83132476
 http://id.loc.gov/authorities/names/n83132584
 http://id.loc.gov/authorities/names/n83132602
 http://id.loc.gov/authorities/names/n83133136
@@ -9547,6 +9738,7 @@ http://id.loc.gov/authorities/names/n83136167
 http://id.loc.gov/authorities/names/n83136731
 http://id.loc.gov/authorities/names/n83137150
 http://id.loc.gov/authorities/names/n83137754
+http://id.loc.gov/authorities/names/n83137870
 http://id.loc.gov/authorities/names/n83137945
 http://id.loc.gov/authorities/names/n83138112
 http://id.loc.gov/authorities/names/n83139004
@@ -9764,6 +9956,7 @@ http://id.loc.gov/authorities/names/n83208625
 http://id.loc.gov/authorities/names/n83208899
 http://id.loc.gov/authorities/names/n83210418
 http://id.loc.gov/authorities/names/n83210758
+http://id.loc.gov/authorities/names/n83210805
 http://id.loc.gov/authorities/names/n83211073
 http://id.loc.gov/authorities/names/n83211212
 http://id.loc.gov/authorities/names/n83211214
@@ -9794,6 +9987,7 @@ http://id.loc.gov/authorities/names/n83217044
 http://id.loc.gov/authorities/names/n83217355
 http://id.loc.gov/authorities/names/n83217728
 http://id.loc.gov/authorities/names/n83218264
+http://id.loc.gov/authorities/names/n83218279
 http://id.loc.gov/authorities/names/n83218577
 http://id.loc.gov/authorities/names/n83218594
 http://id.loc.gov/authorities/names/n83218937
@@ -9832,9 +10026,11 @@ http://id.loc.gov/authorities/names/n83225411
 http://id.loc.gov/authorities/names/n83225412
 http://id.loc.gov/authorities/names/n83225444
 http://id.loc.gov/authorities/names/n83225743
+http://id.loc.gov/authorities/names/n83225766
 http://id.loc.gov/authorities/names/n83225874
 http://id.loc.gov/authorities/names/n83226000
 http://id.loc.gov/authorities/names/n83226069
+http://id.loc.gov/authorities/names/n83226340
 http://id.loc.gov/authorities/names/n83226341
 http://id.loc.gov/authorities/names/n83226349
 http://id.loc.gov/authorities/names/n83226638
@@ -9857,6 +10053,7 @@ http://id.loc.gov/authorities/names/n83232052
 http://id.loc.gov/authorities/names/n83232210
 http://id.loc.gov/authorities/names/n83232269
 http://id.loc.gov/authorities/names/n83232475
+http://id.loc.gov/authorities/names/n83232664
 http://id.loc.gov/authorities/names/n83232696
 http://id.loc.gov/authorities/names/n83232708
 http://id.loc.gov/authorities/names/n83232953
@@ -9888,6 +10085,7 @@ http://id.loc.gov/authorities/names/n83300309
 http://id.loc.gov/authorities/names/n83301478
 http://id.loc.gov/authorities/names/n83301868
 http://id.loc.gov/authorities/names/n83302325
+http://id.loc.gov/authorities/names/n83306003
 http://id.loc.gov/authorities/names/n83307117
 http://id.loc.gov/authorities/names/n83311502
 http://id.loc.gov/authorities/names/n83311954
@@ -9999,6 +10197,7 @@ http://id.loc.gov/authorities/names/n84012847
 http://id.loc.gov/authorities/names/n84012886
 http://id.loc.gov/authorities/names/n84012887
 http://id.loc.gov/authorities/names/n84013211
+http://id.loc.gov/authorities/names/n84013353
 http://id.loc.gov/authorities/names/n84013726
 http://id.loc.gov/authorities/names/n84014147
 http://id.loc.gov/authorities/names/n84015943
@@ -10058,6 +10257,8 @@ http://id.loc.gov/authorities/names/n84035693
 http://id.loc.gov/authorities/names/n84035695
 http://id.loc.gov/authorities/names/n84035731
 http://id.loc.gov/authorities/names/n84035732
+http://id.loc.gov/authorities/names/n84035747
+http://id.loc.gov/authorities/names/n84035817
 http://id.loc.gov/authorities/names/n84036111
 http://id.loc.gov/authorities/names/n84036136
 http://id.loc.gov/authorities/names/n84036283
@@ -10160,6 +10361,7 @@ http://id.loc.gov/authorities/names/n84076745
 http://id.loc.gov/authorities/names/n84077261
 http://id.loc.gov/authorities/names/n84077639
 http://id.loc.gov/authorities/names/n84077640
+http://id.loc.gov/authorities/names/n84077837
 http://id.loc.gov/authorities/names/n84078385
 http://id.loc.gov/authorities/names/n84078502
 http://id.loc.gov/authorities/names/n84078645
@@ -10169,6 +10371,7 @@ http://id.loc.gov/authorities/names/n84078775
 http://id.loc.gov/authorities/names/n84078849
 http://id.loc.gov/authorities/names/n84079009
 http://id.loc.gov/authorities/names/n84079379
+http://id.loc.gov/authorities/names/n84079480
 http://id.loc.gov/authorities/names/n84079736
 http://id.loc.gov/authorities/names/n84079763
 http://id.loc.gov/authorities/names/n84079797
@@ -10204,6 +10407,7 @@ http://id.loc.gov/authorities/names/n84091093
 http://id.loc.gov/authorities/names/n84091402
 http://id.loc.gov/authorities/names/n84091452
 http://id.loc.gov/authorities/names/n84091455
+http://id.loc.gov/authorities/names/n84091781
 http://id.loc.gov/authorities/names/n84091800
 http://id.loc.gov/authorities/names/n84091844
 http://id.loc.gov/authorities/names/n84091919
@@ -10361,6 +10565,7 @@ http://id.loc.gov/authorities/names/n84152829
 http://id.loc.gov/authorities/names/n84152905
 http://id.loc.gov/authorities/names/n84154039
 http://id.loc.gov/authorities/names/n84154107
+http://id.loc.gov/authorities/names/n84154173
 http://id.loc.gov/authorities/names/n84155101
 http://id.loc.gov/authorities/names/n84155487
 http://id.loc.gov/authorities/names/n84155703
@@ -10469,11 +10674,13 @@ http://id.loc.gov/authorities/names/n84189199
 http://id.loc.gov/authorities/names/n84189236
 http://id.loc.gov/authorities/names/n84189782
 http://id.loc.gov/authorities/names/n84189891
+http://id.loc.gov/authorities/names/n84189915
 http://id.loc.gov/authorities/names/n84191104
 http://id.loc.gov/authorities/names/n84192208
 http://id.loc.gov/authorities/names/n84192228
 http://id.loc.gov/authorities/names/n84193097
 http://id.loc.gov/authorities/names/n84193151
+http://id.loc.gov/authorities/names/n84193261
 http://id.loc.gov/authorities/names/n84193453
 http://id.loc.gov/authorities/names/n84193487
 http://id.loc.gov/authorities/names/n84193489
@@ -10535,6 +10742,7 @@ http://id.loc.gov/authorities/names/n84223671
 http://id.loc.gov/authorities/names/n84223789
 http://id.loc.gov/authorities/names/n84224886
 http://id.loc.gov/authorities/names/n84225365
+http://id.loc.gov/authorities/names/n84226017
 http://id.loc.gov/authorities/names/n84226040
 http://id.loc.gov/authorities/names/n84226939
 http://id.loc.gov/authorities/names/n84228105
@@ -10554,6 +10762,7 @@ http://id.loc.gov/authorities/names/n84233791
 http://id.loc.gov/authorities/names/n84233937
 http://id.loc.gov/authorities/names/n84233968
 http://id.loc.gov/authorities/names/n84234070
+http://id.loc.gov/authorities/names/n84234077
 http://id.loc.gov/authorities/names/n84234103
 http://id.loc.gov/authorities/names/n84234111
 http://id.loc.gov/authorities/names/n84234352
@@ -10643,6 +10852,7 @@ http://id.loc.gov/authorities/names/n84804467
 http://id.loc.gov/authorities/names/n84804509
 http://id.loc.gov/authorities/names/n84804658
 http://id.loc.gov/authorities/names/n84804664
+http://id.loc.gov/authorities/names/n84804675
 http://id.loc.gov/authorities/names/n84804724
 http://id.loc.gov/authorities/names/n84804726
 http://id.loc.gov/authorities/names/n84804757
@@ -10861,6 +11071,7 @@ http://id.loc.gov/authorities/names/n85070648
 http://id.loc.gov/authorities/names/n85070668
 http://id.loc.gov/authorities/names/n85070873
 http://id.loc.gov/authorities/names/n85071421
+http://id.loc.gov/authorities/names/n85071592
 http://id.loc.gov/authorities/names/n85072601
 http://id.loc.gov/authorities/names/n85072674
 http://id.loc.gov/authorities/names/n85072686
@@ -10963,6 +11174,7 @@ http://id.loc.gov/authorities/names/n85108994
 http://id.loc.gov/authorities/names/n85109284
 http://id.loc.gov/authorities/names/n85109292
 http://id.loc.gov/authorities/names/n85109462
+http://id.loc.gov/authorities/names/n85109641
 http://id.loc.gov/authorities/names/n85110452
 http://id.loc.gov/authorities/names/n85111441
 http://id.loc.gov/authorities/names/n85112012
@@ -11022,7 +11234,9 @@ http://id.loc.gov/authorities/names/n85135915
 http://id.loc.gov/authorities/names/n85135992
 http://id.loc.gov/authorities/names/n85136478
 http://id.loc.gov/authorities/names/n85136525
+http://id.loc.gov/authorities/names/n85137020
 http://id.loc.gov/authorities/names/n85137271
+http://id.loc.gov/authorities/names/n85137291
 http://id.loc.gov/authorities/names/n85137397
 http://id.loc.gov/authorities/names/n85137468
 http://id.loc.gov/authorities/names/n85138069
@@ -11084,6 +11298,7 @@ http://id.loc.gov/authorities/names/n85151545
 http://id.loc.gov/authorities/names/n85151558
 http://id.loc.gov/authorities/names/n85151565
 http://id.loc.gov/authorities/names/n85151567
+http://id.loc.gov/authorities/names/n85151588
 http://id.loc.gov/authorities/names/n85151606
 http://id.loc.gov/authorities/names/n85151609
 http://id.loc.gov/authorities/names/n85151613
@@ -11098,6 +11313,7 @@ http://id.loc.gov/authorities/names/n85151751
 http://id.loc.gov/authorities/names/n85151802
 http://id.loc.gov/authorities/names/n85151803
 http://id.loc.gov/authorities/names/n85151804
+http://id.loc.gov/authorities/names/n85151807
 http://id.loc.gov/authorities/names/n85151819
 http://id.loc.gov/authorities/names/n85151821
 http://id.loc.gov/authorities/names/n85151822
@@ -11108,6 +11324,7 @@ http://id.loc.gov/authorities/names/n85151864
 http://id.loc.gov/authorities/names/n85151865
 http://id.loc.gov/authorities/names/n85151867
 http://id.loc.gov/authorities/names/n85151877
+http://id.loc.gov/authorities/names/n85152073
 http://id.loc.gov/authorities/names/n85152150
 http://id.loc.gov/authorities/names/n85152174
 http://id.loc.gov/authorities/names/n85152339
@@ -11115,6 +11332,7 @@ http://id.loc.gov/authorities/names/n85152399
 http://id.loc.gov/authorities/names/n85152457
 http://id.loc.gov/authorities/names/n85152813
 http://id.loc.gov/authorities/names/n85153068
+http://id.loc.gov/authorities/names/n85153703
 http://id.loc.gov/authorities/names/n85153859
 http://id.loc.gov/authorities/names/n85154437
 http://id.loc.gov/authorities/names/n85154706
@@ -11134,12 +11352,14 @@ http://id.loc.gov/authorities/names/n85158815
 http://id.loc.gov/authorities/names/n85158837
 http://id.loc.gov/authorities/names/n85159975
 http://id.loc.gov/authorities/names/n85160667
+http://id.loc.gov/authorities/names/n85160670
 http://id.loc.gov/authorities/names/n85160906
 http://id.loc.gov/authorities/names/n85160919
 http://id.loc.gov/authorities/names/n85163189
 http://id.loc.gov/authorities/names/n85163266
 http://id.loc.gov/authorities/names/n85163967
 http://id.loc.gov/authorities/names/n85164165
+http://id.loc.gov/authorities/names/n85164256
 http://id.loc.gov/authorities/names/n85164492
 http://id.loc.gov/authorities/names/n85164514
 http://id.loc.gov/authorities/names/n85164585
@@ -11181,10 +11401,12 @@ http://id.loc.gov/authorities/names/n85181973
 http://id.loc.gov/authorities/names/n85182168
 http://id.loc.gov/authorities/names/n85182754
 http://id.loc.gov/authorities/names/n85183002
+http://id.loc.gov/authorities/names/n85183132
 http://id.loc.gov/authorities/names/n85183345
 http://id.loc.gov/authorities/names/n85183864
 http://id.loc.gov/authorities/names/n85184204
 http://id.loc.gov/authorities/names/n85185206
+http://id.loc.gov/authorities/names/n85185549
 http://id.loc.gov/authorities/names/n85185584
 http://id.loc.gov/authorities/names/n85185997
 http://id.loc.gov/authorities/names/n85187169
@@ -11195,6 +11417,7 @@ http://id.loc.gov/authorities/names/n85190638
 http://id.loc.gov/authorities/names/n85190787
 http://id.loc.gov/authorities/names/n85190788
 http://id.loc.gov/authorities/names/n85190821
+http://id.loc.gov/authorities/names/n85190911
 http://id.loc.gov/authorities/names/n85191001
 http://id.loc.gov/authorities/names/n85191426
 http://id.loc.gov/authorities/names/n85191759
@@ -11299,6 +11522,7 @@ http://id.loc.gov/authorities/names/n85220633
 http://id.loc.gov/authorities/names/n85221402
 http://id.loc.gov/authorities/names/n85221444
 http://id.loc.gov/authorities/names/n85221470
+http://id.loc.gov/authorities/names/n85222221
 http://id.loc.gov/authorities/names/n85223975
 http://id.loc.gov/authorities/names/n85224056
 http://id.loc.gov/authorities/names/n85224183
@@ -11421,8 +11645,10 @@ http://id.loc.gov/authorities/names/n85269909
 http://id.loc.gov/authorities/names/n85271709
 http://id.loc.gov/authorities/names/n85272750
 http://id.loc.gov/authorities/names/n85272921
+http://id.loc.gov/authorities/names/n85273073
 http://id.loc.gov/authorities/names/n85273983
 http://id.loc.gov/authorities/names/n85274577
+http://id.loc.gov/authorities/names/n85274920
 http://id.loc.gov/authorities/names/n85278379
 http://id.loc.gov/authorities/names/n85279732
 http://id.loc.gov/authorities/names/n85280938
@@ -11471,6 +11697,7 @@ http://id.loc.gov/authorities/names/n85301302
 http://id.loc.gov/authorities/names/n85301575
 http://id.loc.gov/authorities/names/n85301589
 http://id.loc.gov/authorities/names/n85302389
+http://id.loc.gov/authorities/names/n85302725
 http://id.loc.gov/authorities/names/n85304099
 http://id.loc.gov/authorities/names/n85305122
 http://id.loc.gov/authorities/names/n85305185
@@ -11493,6 +11720,7 @@ http://id.loc.gov/authorities/names/n85310512
 http://id.loc.gov/authorities/names/n85310847
 http://id.loc.gov/authorities/names/n85310966
 http://id.loc.gov/authorities/names/n85314364
+http://id.loc.gov/authorities/names/n85314575
 http://id.loc.gov/authorities/names/n85316150
 http://id.loc.gov/authorities/names/n85316156
 http://id.loc.gov/authorities/names/n85317279
@@ -11501,6 +11729,7 @@ http://id.loc.gov/authorities/names/n85318261
 http://id.loc.gov/authorities/names/n85318513
 http://id.loc.gov/authorities/names/n85318790
 http://id.loc.gov/authorities/names/n85319312
+http://id.loc.gov/authorities/names/n85319406
 http://id.loc.gov/authorities/names/n85319470
 http://id.loc.gov/authorities/names/n85320162
 http://id.loc.gov/authorities/names/n85322399
@@ -11538,6 +11767,7 @@ http://id.loc.gov/authorities/names/n85333590
 http://id.loc.gov/authorities/names/n85334076
 http://id.loc.gov/authorities/names/n85335215
 http://id.loc.gov/authorities/names/n85335352
+http://id.loc.gov/authorities/names/n85335914
 http://id.loc.gov/authorities/names/n85337406
 http://id.loc.gov/authorities/names/n85338687
 http://id.loc.gov/authorities/names/n85339813
@@ -11590,11 +11820,13 @@ http://id.loc.gov/authorities/names/n85360408
 http://id.loc.gov/authorities/names/n85361412
 http://id.loc.gov/authorities/names/n85361878
 http://id.loc.gov/authorities/names/n85362164
+http://id.loc.gov/authorities/names/n85363455
 http://id.loc.gov/authorities/names/n85363873
 http://id.loc.gov/authorities/names/n85364058
 http://id.loc.gov/authorities/names/n85364077
 http://id.loc.gov/authorities/names/n85365144
 http://id.loc.gov/authorities/names/n85365513
+http://id.loc.gov/authorities/names/n85367841
 http://id.loc.gov/authorities/names/n85368565
 http://id.loc.gov/authorities/names/n85368698
 http://id.loc.gov/authorities/names/n85369991
@@ -11749,6 +11981,7 @@ http://id.loc.gov/authorities/names/n85822725
 http://id.loc.gov/authorities/names/n85822849
 http://id.loc.gov/authorities/names/n85823473
 http://id.loc.gov/authorities/names/n85823507
+http://id.loc.gov/authorities/names/n85823895
 http://id.loc.gov/authorities/names/n85824607
 http://id.loc.gov/authorities/names/n85824723
 http://id.loc.gov/authorities/names/n85824757
@@ -11763,6 +11996,7 @@ http://id.loc.gov/authorities/names/n85830844
 http://id.loc.gov/authorities/names/n85831141
 http://id.loc.gov/authorities/names/n85835352
 http://id.loc.gov/authorities/names/n86000363
+http://id.loc.gov/authorities/names/n86001705
 http://id.loc.gov/authorities/names/n86002072
 http://id.loc.gov/authorities/names/n86002812
 http://id.loc.gov/authorities/names/n86003004
@@ -11813,6 +12047,7 @@ http://id.loc.gov/authorities/names/n86025074
 http://id.loc.gov/authorities/names/n86025301
 http://id.loc.gov/authorities/names/n86025460
 http://id.loc.gov/authorities/names/n86025468
+http://id.loc.gov/authorities/names/n86025565
 http://id.loc.gov/authorities/names/n86025746
 http://id.loc.gov/authorities/names/n86025757
 http://id.loc.gov/authorities/names/n86025759
@@ -11845,6 +12080,7 @@ http://id.loc.gov/authorities/names/n86036599
 http://id.loc.gov/authorities/names/n86037534
 http://id.loc.gov/authorities/names/n86037801
 http://id.loc.gov/authorities/names/n86037863
+http://id.loc.gov/authorities/names/n86038157
 http://id.loc.gov/authorities/names/n86038245
 http://id.loc.gov/authorities/names/n86038458
 http://id.loc.gov/authorities/names/n86038486
@@ -11869,6 +12105,7 @@ http://id.loc.gov/authorities/names/n86043176
 http://id.loc.gov/authorities/names/n86044720
 http://id.loc.gov/authorities/names/n86044765
 http://id.loc.gov/authorities/names/n86044822
+http://id.loc.gov/authorities/names/n86044993
 http://id.loc.gov/authorities/names/n86045811
 http://id.loc.gov/authorities/names/n86045842
 http://id.loc.gov/authorities/names/n86048471
@@ -11912,6 +12149,7 @@ http://id.loc.gov/authorities/names/n86066487
 http://id.loc.gov/authorities/names/n86066695
 http://id.loc.gov/authorities/names/n86066851
 http://id.loc.gov/authorities/names/n86066972
+http://id.loc.gov/authorities/names/n86067403
 http://id.loc.gov/authorities/names/n86067464
 http://id.loc.gov/authorities/names/n86067530
 http://id.loc.gov/authorities/names/n86067968
@@ -11970,7 +12208,9 @@ http://id.loc.gov/authorities/names/n86096282
 http://id.loc.gov/authorities/names/n86096981
 http://id.loc.gov/authorities/names/n86097288
 http://id.loc.gov/authorities/names/n86097336
+http://id.loc.gov/authorities/names/n86097973
 http://id.loc.gov/authorities/names/n86098809
+http://id.loc.gov/authorities/names/n86098997
 http://id.loc.gov/authorities/names/n86099095
 http://id.loc.gov/authorities/names/n86099875
 http://id.loc.gov/authorities/names/n86101414
@@ -12001,6 +12241,7 @@ http://id.loc.gov/authorities/names/n86114041
 http://id.loc.gov/authorities/names/n86114094
 http://id.loc.gov/authorities/names/n86114139
 http://id.loc.gov/authorities/names/n86114174
+http://id.loc.gov/authorities/names/n86114870
 http://id.loc.gov/authorities/names/n86116106
 http://id.loc.gov/authorities/names/n86116402
 http://id.loc.gov/authorities/names/n86116431
@@ -12011,6 +12252,7 @@ http://id.loc.gov/authorities/names/n86118382
 http://id.loc.gov/authorities/names/n86118445
 http://id.loc.gov/authorities/names/n86119188
 http://id.loc.gov/authorities/names/n86119277
+http://id.loc.gov/authorities/names/n86119713
 http://id.loc.gov/authorities/names/n86119914
 http://id.loc.gov/authorities/names/n86119949
 http://id.loc.gov/authorities/names/n86120902
@@ -12029,6 +12271,7 @@ http://id.loc.gov/authorities/names/n86127181
 http://id.loc.gov/authorities/names/n86127450
 http://id.loc.gov/authorities/names/n86127451
 http://id.loc.gov/authorities/names/n86127831
+http://id.loc.gov/authorities/names/n86128286
 http://id.loc.gov/authorities/names/n86128317
 http://id.loc.gov/authorities/names/n86129197
 http://id.loc.gov/authorities/names/n86129571
@@ -12036,6 +12279,7 @@ http://id.loc.gov/authorities/names/n86129800
 http://id.loc.gov/authorities/names/n86129957
 http://id.loc.gov/authorities/names/n86130265
 http://id.loc.gov/authorities/names/n86132056
+http://id.loc.gov/authorities/names/n86132303
 http://id.loc.gov/authorities/names/n86132894
 http://id.loc.gov/authorities/names/n86133469
 http://id.loc.gov/authorities/names/n86133851
@@ -12234,6 +12478,7 @@ http://id.loc.gov/authorities/names/n86865108
 http://id.loc.gov/authorities/names/n86865136
 http://id.loc.gov/authorities/names/n86865348
 http://id.loc.gov/authorities/names/n86865357
+http://id.loc.gov/authorities/names/n86866134
 http://id.loc.gov/authorities/names/n86866622
 http://id.loc.gov/authorities/names/n86866637
 http://id.loc.gov/authorities/names/n86867046
@@ -12348,6 +12593,7 @@ http://id.loc.gov/authorities/names/n87148947
 http://id.loc.gov/authorities/names/n87149149
 http://id.loc.gov/authorities/names/n87149360
 http://id.loc.gov/authorities/names/n87149511
+http://id.loc.gov/authorities/names/n87150389
 http://id.loc.gov/authorities/names/n87150461
 http://id.loc.gov/authorities/names/n87150737
 http://id.loc.gov/authorities/names/n87151023
@@ -12363,6 +12609,7 @@ http://id.loc.gov/authorities/names/n87153860
 http://id.loc.gov/authorities/names/n87154242
 http://id.loc.gov/authorities/names/n87800795
 http://id.loc.gov/authorities/names/n87800870
+http://id.loc.gov/authorities/names/n87800988
 http://id.loc.gov/authorities/names/n87801355
 http://id.loc.gov/authorities/names/n87801370
 http://id.loc.gov/authorities/names/n87801448
@@ -12498,6 +12745,7 @@ http://id.loc.gov/authorities/names/n87873532
 http://id.loc.gov/authorities/names/n87874181
 http://id.loc.gov/authorities/names/n87875843
 http://id.loc.gov/authorities/names/n87876152
+http://id.loc.gov/authorities/names/n87877034
 http://id.loc.gov/authorities/names/n87877158
 http://id.loc.gov/authorities/names/n87877172
 http://id.loc.gov/authorities/names/n87880341
@@ -12621,6 +12869,8 @@ http://id.loc.gov/authorities/names/n87938891
 http://id.loc.gov/authorities/names/n87939019
 http://id.loc.gov/authorities/names/n87939127
 http://id.loc.gov/authorities/names/n87939862
+http://id.loc.gov/authorities/names/n87940156
+http://id.loc.gov/authorities/names/n87940157
 http://id.loc.gov/authorities/names/n87940250
 http://id.loc.gov/authorities/names/n87940370
 http://id.loc.gov/authorities/names/n87940561
@@ -12643,6 +12893,7 @@ http://id.loc.gov/authorities/names/n88003886
 http://id.loc.gov/authorities/names/n88003903
 http://id.loc.gov/authorities/names/n88004240
 http://id.loc.gov/authorities/names/n88009431
+http://id.loc.gov/authorities/names/n88009858
 http://id.loc.gov/authorities/names/n88009907
 http://id.loc.gov/authorities/names/n88009982
 http://id.loc.gov/authorities/names/n88010450
@@ -12722,6 +12973,8 @@ http://id.loc.gov/authorities/names/n88053935
 http://id.loc.gov/authorities/names/n88054641
 http://id.loc.gov/authorities/names/n88055359
 http://id.loc.gov/authorities/names/n88056320
+http://id.loc.gov/authorities/names/n88056945
+http://id.loc.gov/authorities/names/n88056955
 http://id.loc.gov/authorities/names/n88057245
 http://id.loc.gov/authorities/names/n88058041
 http://id.loc.gov/authorities/names/n88058916
@@ -12748,6 +13001,8 @@ http://id.loc.gov/authorities/names/n88069098
 http://id.loc.gov/authorities/names/n88069415
 http://id.loc.gov/authorities/names/n88069693
 http://id.loc.gov/authorities/names/n88069786
+http://id.loc.gov/authorities/names/n88070847
+http://id.loc.gov/authorities/names/n88070962
 http://id.loc.gov/authorities/names/n88071638
 http://id.loc.gov/authorities/names/n88074702
 http://id.loc.gov/authorities/names/n88075032
@@ -12828,6 +13083,7 @@ http://id.loc.gov/authorities/names/n88141833
 http://id.loc.gov/authorities/names/n88141866
 http://id.loc.gov/authorities/names/n88142568
 http://id.loc.gov/authorities/names/n88142798
+http://id.loc.gov/authorities/names/n88142909
 http://id.loc.gov/authorities/names/n88144761
 http://id.loc.gov/authorities/names/n88145254
 http://id.loc.gov/authorities/names/n88145361
@@ -12838,6 +13094,7 @@ http://id.loc.gov/authorities/names/n88150504
 http://id.loc.gov/authorities/names/n88155215
 http://id.loc.gov/authorities/names/n88158194
 http://id.loc.gov/authorities/names/n88159611
+http://id.loc.gov/authorities/names/n88159812
 http://id.loc.gov/authorities/names/n88160366
 http://id.loc.gov/authorities/names/n88160459
 http://id.loc.gov/authorities/names/n88161956
@@ -12851,6 +13108,7 @@ http://id.loc.gov/authorities/names/n88168086
 http://id.loc.gov/authorities/names/n88168314
 http://id.loc.gov/authorities/names/n88170355
 http://id.loc.gov/authorities/names/n88172019
+http://id.loc.gov/authorities/names/n88172480
 http://id.loc.gov/authorities/names/n88177787
 http://id.loc.gov/authorities/names/n88179164
 http://id.loc.gov/authorities/names/n88179217
@@ -12867,6 +13125,7 @@ http://id.loc.gov/authorities/names/n88194430
 http://id.loc.gov/authorities/names/n88194537
 http://id.loc.gov/authorities/names/n88194665
 http://id.loc.gov/authorities/names/n88195722
+http://id.loc.gov/authorities/names/n88196003
 http://id.loc.gov/authorities/names/n88196429
 http://id.loc.gov/authorities/names/n88199654
 http://id.loc.gov/authorities/names/n88199658
@@ -12874,6 +13133,7 @@ http://id.loc.gov/authorities/names/n88199957
 http://id.loc.gov/authorities/names/n88200735
 http://id.loc.gov/authorities/names/n88201059
 http://id.loc.gov/authorities/names/n88201092
+http://id.loc.gov/authorities/names/n88201582
 http://id.loc.gov/authorities/names/n88202399
 http://id.loc.gov/authorities/names/n88205092
 http://id.loc.gov/authorities/names/n88206307
@@ -12897,6 +13157,7 @@ http://id.loc.gov/authorities/names/n88222645
 http://id.loc.gov/authorities/names/n88223907
 http://id.loc.gov/authorities/names/n88224960
 http://id.loc.gov/authorities/names/n88226069
+http://id.loc.gov/authorities/names/n88226417
 http://id.loc.gov/authorities/names/n88227072
 http://id.loc.gov/authorities/names/n88230070
 http://id.loc.gov/authorities/names/n88230307
@@ -12919,6 +13180,7 @@ http://id.loc.gov/authorities/names/n88247644
 http://id.loc.gov/authorities/names/n88248377
 http://id.loc.gov/authorities/names/n88249680
 http://id.loc.gov/authorities/names/n88252103
+http://id.loc.gov/authorities/names/n88253432
 http://id.loc.gov/authorities/names/n88253564
 http://id.loc.gov/authorities/names/n88254189
 http://id.loc.gov/authorities/names/n88255569
@@ -13065,6 +13327,7 @@ http://id.loc.gov/authorities/names/n88661494
 http://id.loc.gov/authorities/names/n88661685
 http://id.loc.gov/authorities/names/n88661738
 http://id.loc.gov/authorities/names/n88664884
+http://id.loc.gov/authorities/names/n88665048
 http://id.loc.gov/authorities/names/n88665464
 http://id.loc.gov/authorities/names/n88666609
 http://id.loc.gov/authorities/names/n88666615
@@ -13098,6 +13361,8 @@ http://id.loc.gov/authorities/names/n89109718
 http://id.loc.gov/authorities/names/n89111263
 http://id.loc.gov/authorities/names/n89116825
 http://id.loc.gov/authorities/names/n89118964
+http://id.loc.gov/authorities/names/n89119113
+http://id.loc.gov/authorities/names/n89119119
 http://id.loc.gov/authorities/names/n89119175
 http://id.loc.gov/authorities/names/n89120201
 http://id.loc.gov/authorities/names/n89123130
@@ -13110,6 +13375,7 @@ http://id.loc.gov/authorities/names/n89135156
 http://id.loc.gov/authorities/names/n89143955
 http://id.loc.gov/authorities/names/n89145900
 http://id.loc.gov/authorities/names/n89146322
+http://id.loc.gov/authorities/names/n89146386
 http://id.loc.gov/authorities/names/n89146549
 http://id.loc.gov/authorities/names/n89147150
 http://id.loc.gov/authorities/names/n89188716
@@ -13124,6 +13390,7 @@ http://id.loc.gov/authorities/names/n89261864
 http://id.loc.gov/authorities/names/n89290483
 http://id.loc.gov/authorities/names/n89294611
 http://id.loc.gov/authorities/names/n89297297
+http://id.loc.gov/authorities/names/n89600284
 http://id.loc.gov/authorities/names/n89600818
 http://id.loc.gov/authorities/names/n89602613
 http://id.loc.gov/authorities/names/n89603346
@@ -13151,6 +13418,7 @@ http://id.loc.gov/authorities/names/n89616837
 http://id.loc.gov/authorities/names/n89617455
 http://id.loc.gov/authorities/names/n89618518
 http://id.loc.gov/authorities/names/n89618936
+http://id.loc.gov/authorities/names/n89620611
 http://id.loc.gov/authorities/names/n89620710
 http://id.loc.gov/authorities/names/n89622869
 http://id.loc.gov/authorities/names/n89623070
@@ -13159,6 +13427,8 @@ http://id.loc.gov/authorities/names/n89624145
 http://id.loc.gov/authorities/names/n89624177
 http://id.loc.gov/authorities/names/n89624336
 http://id.loc.gov/authorities/names/n89625414
+http://id.loc.gov/authorities/names/n89625766
+http://id.loc.gov/authorities/names/n89626569
 http://id.loc.gov/authorities/names/n89626993
 http://id.loc.gov/authorities/names/n89627910
 http://id.loc.gov/authorities/names/n89629018
@@ -13179,6 +13449,7 @@ http://id.loc.gov/authorities/names/n89642030
 http://id.loc.gov/authorities/names/n89643044
 http://id.loc.gov/authorities/names/n89644132
 http://id.loc.gov/authorities/names/n89648630
+http://id.loc.gov/authorities/names/n89648943
 http://id.loc.gov/authorities/names/n89650551
 http://id.loc.gov/authorities/names/n89651535
 http://id.loc.gov/authorities/names/n89651575
@@ -13259,6 +13530,7 @@ http://id.loc.gov/authorities/names/n90633346
 http://id.loc.gov/authorities/names/n90633911
 http://id.loc.gov/authorities/names/n90638696
 http://id.loc.gov/authorities/names/n90638788
+http://id.loc.gov/authorities/names/n90639196
 http://id.loc.gov/authorities/names/n90639431
 http://id.loc.gov/authorities/names/n90640849
 http://id.loc.gov/authorities/names/n90641718
@@ -13308,6 +13580,7 @@ http://id.loc.gov/authorities/names/n90681765
 http://id.loc.gov/authorities/names/n90682073
 http://id.loc.gov/authorities/names/n90682215
 http://id.loc.gov/authorities/names/n90684349
+http://id.loc.gov/authorities/names/n90684528
 http://id.loc.gov/authorities/names/n90684624
 http://id.loc.gov/authorities/names/n90684720
 http://id.loc.gov/authorities/names/n90685152
@@ -13322,6 +13595,7 @@ http://id.loc.gov/authorities/names/n90687614
 http://id.loc.gov/authorities/names/n90687943
 http://id.loc.gov/authorities/names/n90688589
 http://id.loc.gov/authorities/names/n90689992
+http://id.loc.gov/authorities/names/n90690688
 http://id.loc.gov/authorities/names/n90692094
 http://id.loc.gov/authorities/names/n90692462
 http://id.loc.gov/authorities/names/n90694553
@@ -13332,6 +13606,7 @@ http://id.loc.gov/authorities/names/n90695968
 http://id.loc.gov/authorities/names/n90696993
 http://id.loc.gov/authorities/names/n90697542
 http://id.loc.gov/authorities/names/n90698823
+http://id.loc.gov/authorities/names/n90699197
 http://id.loc.gov/authorities/names/n90699296
 http://id.loc.gov/authorities/names/n90699532
 http://id.loc.gov/authorities/names/n90700073
@@ -13390,10 +13665,12 @@ http://id.loc.gov/authorities/names/n91003145
 http://id.loc.gov/authorities/names/n91003545
 http://id.loc.gov/authorities/names/n91003997
 http://id.loc.gov/authorities/names/n91004887
+http://id.loc.gov/authorities/names/n91005121
 http://id.loc.gov/authorities/names/n91005416
 http://id.loc.gov/authorities/names/n91005712
 http://id.loc.gov/authorities/names/n91007724
 http://id.loc.gov/authorities/names/n91008414
+http://id.loc.gov/authorities/names/n91008495
 http://id.loc.gov/authorities/names/n91009206
 http://id.loc.gov/authorities/names/n91009475
 http://id.loc.gov/authorities/names/n91009761
@@ -13540,6 +13817,7 @@ http://id.loc.gov/authorities/names/n91074169
 http://id.loc.gov/authorities/names/n91074941
 http://id.loc.gov/authorities/names/n91075208
 http://id.loc.gov/authorities/names/n91075486
+http://id.loc.gov/authorities/names/n91075824
 http://id.loc.gov/authorities/names/n91077897
 http://id.loc.gov/authorities/names/n91077906
 http://id.loc.gov/authorities/names/n91077940
@@ -13557,7 +13835,9 @@ http://id.loc.gov/authorities/names/n91083107
 http://id.loc.gov/authorities/names/n91083686
 http://id.loc.gov/authorities/names/n91083716
 http://id.loc.gov/authorities/names/n91084846
+http://id.loc.gov/authorities/names/n91085097
 http://id.loc.gov/authorities/names/n91085585
+http://id.loc.gov/authorities/names/n91085671
 http://id.loc.gov/authorities/names/n91086962
 http://id.loc.gov/authorities/names/n91087170
 http://id.loc.gov/authorities/names/n91087560
@@ -13626,6 +13906,7 @@ http://id.loc.gov/authorities/names/n91116693
 http://id.loc.gov/authorities/names/n91116968
 http://id.loc.gov/authorities/names/n91116988
 http://id.loc.gov/authorities/names/n91118864
+http://id.loc.gov/authorities/names/n91118951
 http://id.loc.gov/authorities/names/n91119009
 http://id.loc.gov/authorities/names/n91119210
 http://id.loc.gov/authorities/names/n91119682
@@ -13662,6 +13943,7 @@ http://id.loc.gov/authorities/names/n91126695
 http://id.loc.gov/authorities/names/n91127356
 http://id.loc.gov/authorities/names/n91127572
 http://id.loc.gov/authorities/names/n91127579
+http://id.loc.gov/authorities/names/n91128219
 http://id.loc.gov/authorities/names/n91128294
 http://id.loc.gov/authorities/names/n91128424
 http://id.loc.gov/authorities/names/n91128489
@@ -13679,6 +13961,7 @@ http://id.loc.gov/authorities/names/n92001319
 http://id.loc.gov/authorities/names/n92002715
 http://id.loc.gov/authorities/names/n92003597
 http://id.loc.gov/authorities/names/n92004039
+http://id.loc.gov/authorities/names/n92004159
 http://id.loc.gov/authorities/names/n92004260
 http://id.loc.gov/authorities/names/n92004348
 http://id.loc.gov/authorities/names/n92004930
@@ -13756,6 +14039,7 @@ http://id.loc.gov/authorities/names/n92031237
 http://id.loc.gov/authorities/names/n92032286
 http://id.loc.gov/authorities/names/n92032656
 http://id.loc.gov/authorities/names/n92032847
+http://id.loc.gov/authorities/names/n92033083
 http://id.loc.gov/authorities/names/n92033640
 http://id.loc.gov/authorities/names/n92033812
 http://id.loc.gov/authorities/names/n92033817
@@ -13802,6 +14086,7 @@ http://id.loc.gov/authorities/names/n92051974
 http://id.loc.gov/authorities/names/n92052659
 http://id.loc.gov/authorities/names/n92053526
 http://id.loc.gov/authorities/names/n92054021
+http://id.loc.gov/authorities/names/n92054584
 http://id.loc.gov/authorities/names/n92054597
 http://id.loc.gov/authorities/names/n92054600
 http://id.loc.gov/authorities/names/n92054665
@@ -13829,6 +14114,7 @@ http://id.loc.gov/authorities/names/n92059169
 http://id.loc.gov/authorities/names/n92059537
 http://id.loc.gov/authorities/names/n92059671
 http://id.loc.gov/authorities/names/n92059716
+http://id.loc.gov/authorities/names/n92060138
 http://id.loc.gov/authorities/names/n92060661
 http://id.loc.gov/authorities/names/n92060950
 http://id.loc.gov/authorities/names/n92061419
@@ -13854,6 +14140,7 @@ http://id.loc.gov/authorities/names/n92070625
 http://id.loc.gov/authorities/names/n92070862
 http://id.loc.gov/authorities/names/n92072876
 http://id.loc.gov/authorities/names/n92073961
+http://id.loc.gov/authorities/names/n92074300
 http://id.loc.gov/authorities/names/n92075229
 http://id.loc.gov/authorities/names/n92075293
 http://id.loc.gov/authorities/names/n92076025
@@ -13873,6 +14160,7 @@ http://id.loc.gov/authorities/names/n92085293
 http://id.loc.gov/authorities/names/n92085459
 http://id.loc.gov/authorities/names/n92085934
 http://id.loc.gov/authorities/names/n92086314
+http://id.loc.gov/authorities/names/n92087238
 http://id.loc.gov/authorities/names/n92087241
 http://id.loc.gov/authorities/names/n92087853
 http://id.loc.gov/authorities/names/n92088870
@@ -13958,6 +14246,7 @@ http://id.loc.gov/authorities/names/n93006954
 http://id.loc.gov/authorities/names/n93007600
 http://id.loc.gov/authorities/names/n93008628
 http://id.loc.gov/authorities/names/n93009259
+http://id.loc.gov/authorities/names/n93009310
 http://id.loc.gov/authorities/names/n93009322
 http://id.loc.gov/authorities/names/n93009787
 http://id.loc.gov/authorities/names/n93010255
@@ -13965,6 +14254,7 @@ http://id.loc.gov/authorities/names/n93010903
 http://id.loc.gov/authorities/names/n93011142
 http://id.loc.gov/authorities/names/n93011871
 http://id.loc.gov/authorities/names/n93013272
+http://id.loc.gov/authorities/names/n93014786
 http://id.loc.gov/authorities/names/n93014950
 http://id.loc.gov/authorities/names/n93015352
 http://id.loc.gov/authorities/names/n93015553
@@ -14092,6 +14382,7 @@ http://id.loc.gov/authorities/names/n93086893
 http://id.loc.gov/authorities/names/n93086906
 http://id.loc.gov/authorities/names/n93087247
 http://id.loc.gov/authorities/names/n93088383
+http://id.loc.gov/authorities/names/n93088783
 http://id.loc.gov/authorities/names/n93090556
 http://id.loc.gov/authorities/names/n93090777
 http://id.loc.gov/authorities/names/n93090849
@@ -14099,6 +14390,7 @@ http://id.loc.gov/authorities/names/n93091757
 http://id.loc.gov/authorities/names/n93091845
 http://id.loc.gov/authorities/names/n93092202
 http://id.loc.gov/authorities/names/n93092215
+http://id.loc.gov/authorities/names/n93093555
 http://id.loc.gov/authorities/names/n93094302
 http://id.loc.gov/authorities/names/n93095527
 http://id.loc.gov/authorities/names/n93095528
@@ -14109,6 +14401,7 @@ http://id.loc.gov/authorities/names/n93100979
 http://id.loc.gov/authorities/names/n93101066
 http://id.loc.gov/authorities/names/n93102818
 http://id.loc.gov/authorities/names/n93102834
+http://id.loc.gov/authorities/names/n93104580
 http://id.loc.gov/authorities/names/n93106929
 http://id.loc.gov/authorities/names/n93107638
 http://id.loc.gov/authorities/names/n93108109
@@ -14121,6 +14414,7 @@ http://id.loc.gov/authorities/names/n93111160
 http://id.loc.gov/authorities/names/n93111222
 http://id.loc.gov/authorities/names/n93111581
 http://id.loc.gov/authorities/names/n93112291
+http://id.loc.gov/authorities/names/n93112299
 http://id.loc.gov/authorities/names/n93112572
 http://id.loc.gov/authorities/names/n93112798
 http://id.loc.gov/authorities/names/n93113881
@@ -14131,6 +14425,7 @@ http://id.loc.gov/authorities/names/n93114395
 http://id.loc.gov/authorities/names/n93114705
 http://id.loc.gov/authorities/names/n93115098
 http://id.loc.gov/authorities/names/n93115277
+http://id.loc.gov/authorities/names/n93115982
 http://id.loc.gov/authorities/names/n93116229
 http://id.loc.gov/authorities/names/n93118480
 http://id.loc.gov/authorities/names/n93119834
@@ -14155,6 +14450,7 @@ http://id.loc.gov/authorities/names/n94000330
 http://id.loc.gov/authorities/names/n94001619
 http://id.loc.gov/authorities/names/n94002644
 http://id.loc.gov/authorities/names/n94004405
+http://id.loc.gov/authorities/names/n94004448
 http://id.loc.gov/authorities/names/n94004568
 http://id.loc.gov/authorities/names/n94005244
 http://id.loc.gov/authorities/names/n94005624
@@ -14235,6 +14531,7 @@ http://id.loc.gov/authorities/names/n94051560
 http://id.loc.gov/authorities/names/n94055714
 http://id.loc.gov/authorities/names/n94055998
 http://id.loc.gov/authorities/names/n94056046
+http://id.loc.gov/authorities/names/n94056550
 http://id.loc.gov/authorities/names/n94057484
 http://id.loc.gov/authorities/names/n94058773
 http://id.loc.gov/authorities/names/n94059125
@@ -14258,6 +14555,7 @@ http://id.loc.gov/authorities/names/n94065778
 http://id.loc.gov/authorities/names/n94066153
 http://id.loc.gov/authorities/names/n94066528
 http://id.loc.gov/authorities/names/n94066544
+http://id.loc.gov/authorities/names/n94066663
 http://id.loc.gov/authorities/names/n94067559
 http://id.loc.gov/authorities/names/n94068141
 http://id.loc.gov/authorities/names/n94068242
@@ -14334,6 +14632,7 @@ http://id.loc.gov/authorities/names/n94115165
 http://id.loc.gov/authorities/names/n94117202
 http://id.loc.gov/authorities/names/n94117654
 http://id.loc.gov/authorities/names/n94118235
+http://id.loc.gov/authorities/names/n94118236
 http://id.loc.gov/authorities/names/n94118363
 http://id.loc.gov/authorities/names/n94118722
 http://id.loc.gov/authorities/names/n94119863
@@ -14391,6 +14690,7 @@ http://id.loc.gov/authorities/names/n95028354
 http://id.loc.gov/authorities/names/n95028605
 http://id.loc.gov/authorities/names/n95028618
 http://id.loc.gov/authorities/names/n95029516
+http://id.loc.gov/authorities/names/n95029966
 http://id.loc.gov/authorities/names/n95030938
 http://id.loc.gov/authorities/names/n95030987
 http://id.loc.gov/authorities/names/n95031765
@@ -14447,6 +14747,7 @@ http://id.loc.gov/authorities/names/n95071929
 http://id.loc.gov/authorities/names/n95072532
 http://id.loc.gov/authorities/names/n95072797
 http://id.loc.gov/authorities/names/n95074202
+http://id.loc.gov/authorities/names/n95074255
 http://id.loc.gov/authorities/names/n95075498
 http://id.loc.gov/authorities/names/n95075612
 http://id.loc.gov/authorities/names/n95075674
@@ -14481,6 +14782,7 @@ http://id.loc.gov/authorities/names/n95092137
 http://id.loc.gov/authorities/names/n95092222
 http://id.loc.gov/authorities/names/n95094509
 http://id.loc.gov/authorities/names/n95094642
+http://id.loc.gov/authorities/names/n95095212
 http://id.loc.gov/authorities/names/n95095521
 http://id.loc.gov/authorities/names/n95095965
 http://id.loc.gov/authorities/names/n95096996
@@ -14509,6 +14811,8 @@ http://id.loc.gov/authorities/names/n95116110
 http://id.loc.gov/authorities/names/n95116442
 http://id.loc.gov/authorities/names/n95118642
 http://id.loc.gov/authorities/names/n95118946
+http://id.loc.gov/authorities/names/n95119723
+http://id.loc.gov/authorities/names/n95119729
 http://id.loc.gov/authorities/names/n95120263
 http://id.loc.gov/authorities/names/n95121073
 http://id.loc.gov/authorities/names/n95122382
@@ -14517,7 +14821,9 @@ http://id.loc.gov/authorities/names/n95800246
 http://id.loc.gov/authorities/names/n95801550
 http://id.loc.gov/authorities/names/n95921968
 http://id.loc.gov/authorities/names/n95922167
+http://id.loc.gov/authorities/names/n96000962
 http://id.loc.gov/authorities/names/n96001153
+http://id.loc.gov/authorities/names/n96001284
 http://id.loc.gov/authorities/names/n96001797
 http://id.loc.gov/authorities/names/n96002467
 http://id.loc.gov/authorities/names/n96003527
@@ -14538,6 +14844,7 @@ http://id.loc.gov/authorities/names/n96011569
 http://id.loc.gov/authorities/names/n96011798
 http://id.loc.gov/authorities/names/n96012115
 http://id.loc.gov/authorities/names/n96013612
+http://id.loc.gov/authorities/names/n96014241
 http://id.loc.gov/authorities/names/n96014338
 http://id.loc.gov/authorities/names/n96014498
 http://id.loc.gov/authorities/names/n96015940
@@ -14564,6 +14871,7 @@ http://id.loc.gov/authorities/names/n96026686
 http://id.loc.gov/authorities/names/n96029554
 http://id.loc.gov/authorities/names/n96031533
 http://id.loc.gov/authorities/names/n96032654
+http://id.loc.gov/authorities/names/n96033118
 http://id.loc.gov/authorities/names/n96035756
 http://id.loc.gov/authorities/names/n96036177
 http://id.loc.gov/authorities/names/n96036590
@@ -14672,6 +14980,7 @@ http://id.loc.gov/authorities/names/n96103172
 http://id.loc.gov/authorities/names/n96105071
 http://id.loc.gov/authorities/names/n96105456
 http://id.loc.gov/authorities/names/n96106062
+http://id.loc.gov/authorities/names/n96107206
 http://id.loc.gov/authorities/names/n96107724
 http://id.loc.gov/authorities/names/n96109989
 http://id.loc.gov/authorities/names/n96111000
@@ -14702,6 +15011,7 @@ http://id.loc.gov/authorities/names/n97005520
 http://id.loc.gov/authorities/names/n97006719
 http://id.loc.gov/authorities/names/n97007679
 http://id.loc.gov/authorities/names/n97008152
+http://id.loc.gov/authorities/names/n97008431
 http://id.loc.gov/authorities/names/n97008558
 http://id.loc.gov/authorities/names/n97009537
 http://id.loc.gov/authorities/names/n97009750
@@ -14710,6 +15020,7 @@ http://id.loc.gov/authorities/names/n97009965
 http://id.loc.gov/authorities/names/n97010137
 http://id.loc.gov/authorities/names/n97012805
 http://id.loc.gov/authorities/names/n97013653
+http://id.loc.gov/authorities/names/n97013805
 http://id.loc.gov/authorities/names/n97014622
 http://id.loc.gov/authorities/names/n97015174
 http://id.loc.gov/authorities/names/n97017798
@@ -14774,6 +15085,7 @@ http://id.loc.gov/authorities/names/n97071733
 http://id.loc.gov/authorities/names/n97073241
 http://id.loc.gov/authorities/names/n97074537
 http://id.loc.gov/authorities/names/n97076175
+http://id.loc.gov/authorities/names/n97076547
 http://id.loc.gov/authorities/names/n97076627
 http://id.loc.gov/authorities/names/n97077598
 http://id.loc.gov/authorities/names/n97079525
@@ -14786,6 +15098,7 @@ http://id.loc.gov/authorities/names/n97086382
 http://id.loc.gov/authorities/names/n97086681
 http://id.loc.gov/authorities/names/n97086921
 http://id.loc.gov/authorities/names/n97087915
+http://id.loc.gov/authorities/names/n97088095
 http://id.loc.gov/authorities/names/n97088684
 http://id.loc.gov/authorities/names/n97091655
 http://id.loc.gov/authorities/names/n97092282
@@ -14825,6 +15138,7 @@ http://id.loc.gov/authorities/names/n97124520
 http://id.loc.gov/authorities/names/n97124934
 http://id.loc.gov/authorities/names/n97125056
 http://id.loc.gov/authorities/names/n97803643
+http://id.loc.gov/authorities/names/n97842479
 http://id.loc.gov/authorities/names/n97842551
 http://id.loc.gov/authorities/names/n97843619
 http://id.loc.gov/authorities/names/n97845797
@@ -14886,9 +15200,11 @@ http://id.loc.gov/authorities/names/n98038535
 http://id.loc.gov/authorities/names/n98039149
 http://id.loc.gov/authorities/names/n98039557
 http://id.loc.gov/authorities/names/n98039835
+http://id.loc.gov/authorities/names/n98040152
 http://id.loc.gov/authorities/names/n98040268
 http://id.loc.gov/authorities/names/n98041679
 http://id.loc.gov/authorities/names/n98041830
+http://id.loc.gov/authorities/names/n98042312
 http://id.loc.gov/authorities/names/n98043955
 http://id.loc.gov/authorities/names/n98044818
 http://id.loc.gov/authorities/names/n98047661
@@ -14912,6 +15228,7 @@ http://id.loc.gov/authorities/names/n98062118
 http://id.loc.gov/authorities/names/n98062813
 http://id.loc.gov/authorities/names/n98064598
 http://id.loc.gov/authorities/names/n98065311
+http://id.loc.gov/authorities/names/n98065724
 http://id.loc.gov/authorities/names/n98065848
 http://id.loc.gov/authorities/names/n98067102
 http://id.loc.gov/authorities/names/n98071640
@@ -14954,6 +15271,7 @@ http://id.loc.gov/authorities/names/n98104050
 http://id.loc.gov/authorities/names/n98104175
 http://id.loc.gov/authorities/names/n98105087
 http://id.loc.gov/authorities/names/n98105390
+http://id.loc.gov/authorities/names/n98109034
 http://id.loc.gov/authorities/names/n98109389
 http://id.loc.gov/authorities/names/n98110969
 http://id.loc.gov/authorities/names/n98111056
@@ -14988,6 +15306,7 @@ http://id.loc.gov/authorities/names/n99014922
 http://id.loc.gov/authorities/names/n99014979
 http://id.loc.gov/authorities/names/n99015924
 http://id.loc.gov/authorities/names/n99016914
+http://id.loc.gov/authorities/names/n99016950
 http://id.loc.gov/authorities/names/n99017072
 http://id.loc.gov/authorities/names/n99017418
 http://id.loc.gov/authorities/names/n99017475
@@ -15072,6 +15391,7 @@ http://id.loc.gov/authorities/names/nb2001014553
 http://id.loc.gov/authorities/names/nb2001016181
 http://id.loc.gov/authorities/names/nb2001016974
 http://id.loc.gov/authorities/names/nb2001024680
+http://id.loc.gov/authorities/names/nb2001029907
 http://id.loc.gov/authorities/names/nb2001031027
 http://id.loc.gov/authorities/names/nb2001031340
 http://id.loc.gov/authorities/names/nb2001032841
@@ -15159,6 +15479,7 @@ http://id.loc.gov/authorities/names/nb2006005015
 http://id.loc.gov/authorities/names/nb2006006132
 http://id.loc.gov/authorities/names/nb2006007889
 http://id.loc.gov/authorities/names/nb2006008174
+http://id.loc.gov/authorities/names/nb2006009531
 http://id.loc.gov/authorities/names/nb2006009666
 http://id.loc.gov/authorities/names/nb2006009769
 http://id.loc.gov/authorities/names/nb2006011084
@@ -15318,6 +15639,7 @@ http://id.loc.gov/authorities/names/nb2008008745
 http://id.loc.gov/authorities/names/nb2008010680
 http://id.loc.gov/authorities/names/nb2008011131
 http://id.loc.gov/authorities/names/nb2008011566
+http://id.loc.gov/authorities/names/nb2008012726
 http://id.loc.gov/authorities/names/nb2008016467
 http://id.loc.gov/authorities/names/nb2008017209
 http://id.loc.gov/authorities/names/nb2008017774
@@ -15415,12 +15737,14 @@ http://id.loc.gov/authorities/names/nb2013020030
 http://id.loc.gov/authorities/names/nb2013020383
 http://id.loc.gov/authorities/names/nb2013020772
 http://id.loc.gov/authorities/names/nb2013020953
+http://id.loc.gov/authorities/names/nb2013021005
 http://id.loc.gov/authorities/names/nb2014001425
 http://id.loc.gov/authorities/names/nb2014014159
 http://id.loc.gov/authorities/names/nb2014022951
 http://id.loc.gov/authorities/names/nb2014023305
 http://id.loc.gov/authorities/names/nb2015000868
 http://id.loc.gov/authorities/names/nb2015001260
+http://id.loc.gov/authorities/names/nb2015001330
 http://id.loc.gov/authorities/names/nb2015006310
 http://id.loc.gov/authorities/names/nb90052334
 http://id.loc.gov/authorities/names/nb90469593
@@ -15514,6 +15838,7 @@ http://id.loc.gov/authorities/names/no00010804
 http://id.loc.gov/authorities/names/no00010805
 http://id.loc.gov/authorities/names/no00010826
 http://id.loc.gov/authorities/names/no00010828
+http://id.loc.gov/authorities/names/no00010838
 http://id.loc.gov/authorities/names/no00010839
 http://id.loc.gov/authorities/names/no00010841
 http://id.loc.gov/authorities/names/no00010952
@@ -15650,6 +15975,7 @@ http://id.loc.gov/authorities/names/no2001012877
 http://id.loc.gov/authorities/names/no2001013387
 http://id.loc.gov/authorities/names/no2001013717
 http://id.loc.gov/authorities/names/no2001013976
+http://id.loc.gov/authorities/names/no2001014408
 http://id.loc.gov/authorities/names/no2001015451
 http://id.loc.gov/authorities/names/no2001015534
 http://id.loc.gov/authorities/names/no2001017023
@@ -15657,6 +15983,7 @@ http://id.loc.gov/authorities/names/no2001019386
 http://id.loc.gov/authorities/names/no2001020062
 http://id.loc.gov/authorities/names/no2001021460
 http://id.loc.gov/authorities/names/no2001021671
+http://id.loc.gov/authorities/names/no2001021892
 http://id.loc.gov/authorities/names/no2001022943
 http://id.loc.gov/authorities/names/no2001023015
 http://id.loc.gov/authorities/names/no2001023421
@@ -15677,6 +16004,7 @@ http://id.loc.gov/authorities/names/no2001035640
 http://id.loc.gov/authorities/names/no2001036597
 http://id.loc.gov/authorities/names/no2001036733
 http://id.loc.gov/authorities/names/no2001037346
+http://id.loc.gov/authorities/names/no2001038783
 http://id.loc.gov/authorities/names/no2001040006
 http://id.loc.gov/authorities/names/no2001040041
 http://id.loc.gov/authorities/names/no2001040291
@@ -15774,6 +16102,7 @@ http://id.loc.gov/authorities/names/no2002015521
 http://id.loc.gov/authorities/names/no2002016734
 http://id.loc.gov/authorities/names/no2002017072
 http://id.loc.gov/authorities/names/no2002020595
+http://id.loc.gov/authorities/names/no2002020758
 http://id.loc.gov/authorities/names/no2002021011
 http://id.loc.gov/authorities/names/no2002022058
 http://id.loc.gov/authorities/names/no2002022340
@@ -15796,6 +16125,7 @@ http://id.loc.gov/authorities/names/no2002039837
 http://id.loc.gov/authorities/names/no2002040087
 http://id.loc.gov/authorities/names/no2002040090
 http://id.loc.gov/authorities/names/no2002040896
+http://id.loc.gov/authorities/names/no2002041097
 http://id.loc.gov/authorities/names/no2002041098
 http://id.loc.gov/authorities/names/no2002042159
 http://id.loc.gov/authorities/names/no2002042390
@@ -15934,6 +16264,7 @@ http://id.loc.gov/authorities/names/no2003028678
 http://id.loc.gov/authorities/names/no2003028776
 http://id.loc.gov/authorities/names/no2003029625
 http://id.loc.gov/authorities/names/no2003029943
+http://id.loc.gov/authorities/names/no2003030450
 http://id.loc.gov/authorities/names/no2003030500
 http://id.loc.gov/authorities/names/no2003030992
 http://id.loc.gov/authorities/names/no2003031254
@@ -16221,6 +16552,7 @@ http://id.loc.gov/authorities/names/no2005009598
 http://id.loc.gov/authorities/names/no2005010209
 http://id.loc.gov/authorities/names/no2005011933
 http://id.loc.gov/authorities/names/no2005012160
+http://id.loc.gov/authorities/names/no2005012660
 http://id.loc.gov/authorities/names/no2005012678
 http://id.loc.gov/authorities/names/no2005014063
 http://id.loc.gov/authorities/names/no2005016684
@@ -16278,6 +16610,7 @@ http://id.loc.gov/authorities/names/no2005050708
 http://id.loc.gov/authorities/names/no2005051923
 http://id.loc.gov/authorities/names/no2005052655
 http://id.loc.gov/authorities/names/no2005052954
+http://id.loc.gov/authorities/names/no2005053299
 http://id.loc.gov/authorities/names/no2005053756
 http://id.loc.gov/authorities/names/no2005055580
 http://id.loc.gov/authorities/names/no2005055971
@@ -16399,6 +16732,7 @@ http://id.loc.gov/authorities/names/no2006013160
 http://id.loc.gov/authorities/names/no2006013516
 http://id.loc.gov/authorities/names/no2006013632
 http://id.loc.gov/authorities/names/no2006014342
+http://id.loc.gov/authorities/names/no2006014635
 http://id.loc.gov/authorities/names/no2006014716
 http://id.loc.gov/authorities/names/no2006016741
 http://id.loc.gov/authorities/names/no2006018375
@@ -16496,6 +16830,7 @@ http://id.loc.gov/authorities/names/no2006088056
 http://id.loc.gov/authorities/names/no2006088429
 http://id.loc.gov/authorities/names/no2006088797
 http://id.loc.gov/authorities/names/no2006089004
+http://id.loc.gov/authorities/names/no2006090710
 http://id.loc.gov/authorities/names/no2006091285
 http://id.loc.gov/authorities/names/no2006092777
 http://id.loc.gov/authorities/names/no2006093548
@@ -16557,6 +16892,7 @@ http://id.loc.gov/authorities/names/no2007008296
 http://id.loc.gov/authorities/names/no2007010819
 http://id.loc.gov/authorities/names/no2007011188
 http://id.loc.gov/authorities/names/no2007011624
+http://id.loc.gov/authorities/names/no2007012052
 http://id.loc.gov/authorities/names/no2007016582
 http://id.loc.gov/authorities/names/no2007018008
 http://id.loc.gov/authorities/names/no2007018773
@@ -16729,6 +17065,7 @@ http://id.loc.gov/authorities/names/no2008021149
 http://id.loc.gov/authorities/names/no2008022435
 http://id.loc.gov/authorities/names/no2008022458
 http://id.loc.gov/authorities/names/no2008022708
+http://id.loc.gov/authorities/names/no2008024100
 http://id.loc.gov/authorities/names/no2008024168
 http://id.loc.gov/authorities/names/no2008026693
 http://id.loc.gov/authorities/names/no2008028400
@@ -16928,6 +17265,7 @@ http://id.loc.gov/authorities/names/no2009050369
 http://id.loc.gov/authorities/names/no2009056150
 http://id.loc.gov/authorities/names/no2009056350
 http://id.loc.gov/authorities/names/no2009056462
+http://id.loc.gov/authorities/names/no2009056620
 http://id.loc.gov/authorities/names/no2009058160
 http://id.loc.gov/authorities/names/no2009061087
 http://id.loc.gov/authorities/names/no2009061193
@@ -16991,6 +17329,7 @@ http://id.loc.gov/authorities/names/no2009134038
 http://id.loc.gov/authorities/names/no2009134431
 http://id.loc.gov/authorities/names/no2009136210
 http://id.loc.gov/authorities/names/no2009138339
+http://id.loc.gov/authorities/names/no2009138672
 http://id.loc.gov/authorities/names/no2009140617
 http://id.loc.gov/authorities/names/no2009140994
 http://id.loc.gov/authorities/names/no2009141022
@@ -17034,6 +17373,7 @@ http://id.loc.gov/authorities/names/no2009177785
 http://id.loc.gov/authorities/names/no2009179470
 http://id.loc.gov/authorities/names/no2009179930
 http://id.loc.gov/authorities/names/no2009180107
+http://id.loc.gov/authorities/names/no2009180554
 http://id.loc.gov/authorities/names/no2009181673
 http://id.loc.gov/authorities/names/no2009182115
 http://id.loc.gov/authorities/names/no2009186090
@@ -17045,6 +17385,7 @@ http://id.loc.gov/authorities/names/no2009188445
 http://id.loc.gov/authorities/names/no2009188650
 http://id.loc.gov/authorities/names/no2009189300
 http://id.loc.gov/authorities/names/no2009189520
+http://id.loc.gov/authorities/names/no2009189580
 http://id.loc.gov/authorities/names/no2009189713
 http://id.loc.gov/authorities/names/no2009189926
 http://id.loc.gov/authorities/names/no2009191162
@@ -17088,6 +17429,7 @@ http://id.loc.gov/authorities/names/no2010031771
 http://id.loc.gov/authorities/names/no2010032578
 http://id.loc.gov/authorities/names/no2010034630
 http://id.loc.gov/authorities/names/no2010034816
+http://id.loc.gov/authorities/names/no2010040315
 http://id.loc.gov/authorities/names/no2010042410
 http://id.loc.gov/authorities/names/no2010042727
 http://id.loc.gov/authorities/names/no2010042946
@@ -17188,6 +17530,7 @@ http://id.loc.gov/authorities/names/no2010141690
 http://id.loc.gov/authorities/names/no2010142806
 http://id.loc.gov/authorities/names/no2010143794
 http://id.loc.gov/authorities/names/no2010144182
+http://id.loc.gov/authorities/names/no2010148630
 http://id.loc.gov/authorities/names/no2010148645
 http://id.loc.gov/authorities/names/no2010149178
 http://id.loc.gov/authorities/names/no2010149405
@@ -17195,6 +17538,7 @@ http://id.loc.gov/authorities/names/no2010149563
 http://id.loc.gov/authorities/names/no2010149956
 http://id.loc.gov/authorities/names/no2010150030
 http://id.loc.gov/authorities/names/no2010150901
+http://id.loc.gov/authorities/names/no2010151177
 http://id.loc.gov/authorities/names/no2010151190
 http://id.loc.gov/authorities/names/no2010151191
 http://id.loc.gov/authorities/names/no2010152634
@@ -17223,6 +17567,7 @@ http://id.loc.gov/authorities/names/no2010177511
 http://id.loc.gov/authorities/names/no2010179138
 http://id.loc.gov/authorities/names/no2010180132
 http://id.loc.gov/authorities/names/no2010180142
+http://id.loc.gov/authorities/names/no2010180237
 http://id.loc.gov/authorities/names/no2010180874
 http://id.loc.gov/authorities/names/no2010182477
 http://id.loc.gov/authorities/names/no2010182909
@@ -17303,8 +17648,10 @@ http://id.loc.gov/authorities/names/no2011064857
 http://id.loc.gov/authorities/names/no2011065982
 http://id.loc.gov/authorities/names/no2011066109
 http://id.loc.gov/authorities/names/no2011066771
+http://id.loc.gov/authorities/names/no2011067892
 http://id.loc.gov/authorities/names/no2011070183
 http://id.loc.gov/authorities/names/no2011071074
+http://id.loc.gov/authorities/names/no2011072406
 http://id.loc.gov/authorities/names/no2011074576
 http://id.loc.gov/authorities/names/no2011076633
 http://id.loc.gov/authorities/names/no2011077508
@@ -17321,7 +17668,9 @@ http://id.loc.gov/authorities/names/no2011097612
 http://id.loc.gov/authorities/names/no2011100127
 http://id.loc.gov/authorities/names/no2011101057
 http://id.loc.gov/authorities/names/no2011102338
+http://id.loc.gov/authorities/names/no2011103868
 http://id.loc.gov/authorities/names/no2011105582
+http://id.loc.gov/authorities/names/no2011107294
 http://id.loc.gov/authorities/names/no2011108403
 http://id.loc.gov/authorities/names/no2011109618
 http://id.loc.gov/authorities/names/no2011110818
@@ -17338,6 +17687,7 @@ http://id.loc.gov/authorities/names/no2011118817
 http://id.loc.gov/authorities/names/no2011120634
 http://id.loc.gov/authorities/names/no2011120845
 http://id.loc.gov/authorities/names/no2011123385
+http://id.loc.gov/authorities/names/no2011123834
 http://id.loc.gov/authorities/names/no2011124621
 http://id.loc.gov/authorities/names/no2011125143
 http://id.loc.gov/authorities/names/no2011128251
@@ -17388,7 +17738,6 @@ http://id.loc.gov/authorities/names/no2011178429
 http://id.loc.gov/authorities/names/no2011178826
 http://id.loc.gov/authorities/names/no2011179284
 http://id.loc.gov/authorities/names/no2011179607
-http://id.loc.gov/authorities/names/no2011181536
 http://id.loc.gov/authorities/names/no2011181711
 http://id.loc.gov/authorities/names/no2011182895
 http://id.loc.gov/authorities/names/no2011185994
@@ -17398,6 +17747,7 @@ http://id.loc.gov/authorities/names/no2011190487
 http://id.loc.gov/authorities/names/no2011191299
 http://id.loc.gov/authorities/names/no2011194923
 http://id.loc.gov/authorities/names/no2011195576
+http://id.loc.gov/authorities/names/no2011195603
 http://id.loc.gov/authorities/names/no2011197824
 http://id.loc.gov/authorities/names/no2011198403
 http://id.loc.gov/authorities/names/no2011198610
@@ -17455,9 +17805,11 @@ http://id.loc.gov/authorities/names/no2012079070
 http://id.loc.gov/authorities/names/no2012079178
 http://id.loc.gov/authorities/names/no2012080771
 http://id.loc.gov/authorities/names/no2012083769
+http://id.loc.gov/authorities/names/no2012084478
 http://id.loc.gov/authorities/names/no2012084653
 http://id.loc.gov/authorities/names/no2012085584
 http://id.loc.gov/authorities/names/no2012086285
+http://id.loc.gov/authorities/names/no2012086291
 http://id.loc.gov/authorities/names/no2012087934
 http://id.loc.gov/authorities/names/no2012093228
 http://id.loc.gov/authorities/names/no2012094110
@@ -17511,10 +17863,12 @@ http://id.loc.gov/authorities/names/no2012151166
 http://id.loc.gov/authorities/names/no2012151198
 http://id.loc.gov/authorities/names/no2012151676
 http://id.loc.gov/authorities/names/no2012151787
+http://id.loc.gov/authorities/names/no2012152287
 http://id.loc.gov/authorities/names/no2012154120
 http://id.loc.gov/authorities/names/no2012156175
 http://id.loc.gov/authorities/names/no2012156661
 http://id.loc.gov/authorities/names/no2012157997
+http://id.loc.gov/authorities/names/no2012158845
 http://id.loc.gov/authorities/names/no2012160631
 http://id.loc.gov/authorities/names/no2013003753
 http://id.loc.gov/authorities/names/no2013004941
@@ -17599,6 +17953,7 @@ http://id.loc.gov/authorities/names/no2014011192
 http://id.loc.gov/authorities/names/no2014013126
 http://id.loc.gov/authorities/names/no2014021624
 http://id.loc.gov/authorities/names/no2014026084
+http://id.loc.gov/authorities/names/no2014027484
 http://id.loc.gov/authorities/names/no2014028634
 http://id.loc.gov/authorities/names/no2014032180
 http://id.loc.gov/authorities/names/no2014032184
@@ -17614,6 +17969,7 @@ http://id.loc.gov/authorities/names/no2014070592
 http://id.loc.gov/authorities/names/no2014072759
 http://id.loc.gov/authorities/names/no2014072810
 http://id.loc.gov/authorities/names/no2014074505
+http://id.loc.gov/authorities/names/no2014080229
 http://id.loc.gov/authorities/names/no2014090168
 http://id.loc.gov/authorities/names/no2014091602
 http://id.loc.gov/authorities/names/no2014097820
@@ -17625,13 +17981,16 @@ http://id.loc.gov/authorities/names/no2014111849
 http://id.loc.gov/authorities/names/no2014113980
 http://id.loc.gov/authorities/names/no2014114189
 http://id.loc.gov/authorities/names/no2014120283
+http://id.loc.gov/authorities/names/no2014124231
 http://id.loc.gov/authorities/names/no2014131742
 http://id.loc.gov/authorities/names/no2014132591
 http://id.loc.gov/authorities/names/no2014135381
 http://id.loc.gov/authorities/names/no2014142474
 http://id.loc.gov/authorities/names/no2014147012
+http://id.loc.gov/authorities/names/no2014147581
 http://id.loc.gov/authorities/names/no2014148919
 http://id.loc.gov/authorities/names/no2014149074
+http://id.loc.gov/authorities/names/no2014166117
 http://id.loc.gov/authorities/names/no2014166572
 http://id.loc.gov/authorities/names/no2015000474
 http://id.loc.gov/authorities/names/no2015000507
@@ -17645,10 +18004,13 @@ http://id.loc.gov/authorities/names/no2015028811
 http://id.loc.gov/authorities/names/no2015034809
 http://id.loc.gov/authorities/names/no2015041994
 http://id.loc.gov/authorities/names/no2015047907
+http://id.loc.gov/authorities/names/no2015049168
 http://id.loc.gov/authorities/names/no2015051202
 http://id.loc.gov/authorities/names/no2015055245
 http://id.loc.gov/authorities/names/no2015059865
 http://id.loc.gov/authorities/names/no2015060469
+http://id.loc.gov/authorities/names/no2015065985
+http://id.loc.gov/authorities/names/no2015087457
 http://id.loc.gov/authorities/names/no50043233
 http://id.loc.gov/authorities/names/no88000970
 http://id.loc.gov/authorities/names/no88002124
@@ -17796,6 +18158,7 @@ http://id.loc.gov/authorities/names/no91019364
 http://id.loc.gov/authorities/names/no91019377
 http://id.loc.gov/authorities/names/no91019452
 http://id.loc.gov/authorities/names/no91020305
+http://id.loc.gov/authorities/names/no91020488
 http://id.loc.gov/authorities/names/no91020888
 http://id.loc.gov/authorities/names/no91021397
 http://id.loc.gov/authorities/names/no91021597
@@ -17885,6 +18248,7 @@ http://id.loc.gov/authorities/names/no93001262
 http://id.loc.gov/authorities/names/no93002023
 http://id.loc.gov/authorities/names/no93002444
 http://id.loc.gov/authorities/names/no93003844
+http://id.loc.gov/authorities/names/no93005444
 http://id.loc.gov/authorities/names/no93005579
 http://id.loc.gov/authorities/names/no93006286
 http://id.loc.gov/authorities/names/no93007294
@@ -17968,6 +18332,7 @@ http://id.loc.gov/authorities/names/no94025444
 http://id.loc.gov/authorities/names/no94025446
 http://id.loc.gov/authorities/names/no94025988
 http://id.loc.gov/authorities/names/no94026112
+http://id.loc.gov/authorities/names/no94026384
 http://id.loc.gov/authorities/names/no94026506
 http://id.loc.gov/authorities/names/no94027098
 http://id.loc.gov/authorities/names/no94027563
@@ -18004,6 +18369,7 @@ http://id.loc.gov/authorities/names/no95008211
 http://id.loc.gov/authorities/names/no95008344
 http://id.loc.gov/authorities/names/no95008500
 http://id.loc.gov/authorities/names/no95008617
+http://id.loc.gov/authorities/names/no95009930
 http://id.loc.gov/authorities/names/no95011239
 http://id.loc.gov/authorities/names/no95013186
 http://id.loc.gov/authorities/names/no95013287
@@ -18014,6 +18380,7 @@ http://id.loc.gov/authorities/names/no95015356
 http://id.loc.gov/authorities/names/no95016018
 http://id.loc.gov/authorities/names/no95018451
 http://id.loc.gov/authorities/names/no95018560
+http://id.loc.gov/authorities/names/no95018803
 http://id.loc.gov/authorities/names/no95020690
 http://id.loc.gov/authorities/names/no95021134
 http://id.loc.gov/authorities/names/no95022156
@@ -18194,6 +18561,7 @@ http://id.loc.gov/authorities/names/no96040669
 http://id.loc.gov/authorities/names/no96041976
 http://id.loc.gov/authorities/names/no96042198
 http://id.loc.gov/authorities/names/no96042209
+http://id.loc.gov/authorities/names/no96042226
 http://id.loc.gov/authorities/names/no96042626
 http://id.loc.gov/authorities/names/no96042646
 http://id.loc.gov/authorities/names/no96042742
@@ -18221,6 +18589,7 @@ http://id.loc.gov/authorities/names/no96053584
 http://id.loc.gov/authorities/names/no96053617
 http://id.loc.gov/authorities/names/no96055075
 http://id.loc.gov/authorities/names/no96055574
+http://id.loc.gov/authorities/names/no96055682
 http://id.loc.gov/authorities/names/no96055826
 http://id.loc.gov/authorities/names/no96056431
 http://id.loc.gov/authorities/names/no96057794
@@ -18406,6 +18775,7 @@ http://id.loc.gov/authorities/names/no97077248
 http://id.loc.gov/authorities/names/no97077281
 http://id.loc.gov/authorities/names/no97078467
 http://id.loc.gov/authorities/names/no97079764
+http://id.loc.gov/authorities/names/no97082171
 http://id.loc.gov/authorities/names/no98002229
 http://id.loc.gov/authorities/names/no98004984
 http://id.loc.gov/authorities/names/no98005083
@@ -18463,6 +18833,7 @@ http://id.loc.gov/authorities/names/no98044606
 http://id.loc.gov/authorities/names/no98044719
 http://id.loc.gov/authorities/names/no98046499
 http://id.loc.gov/authorities/names/no98046857
+http://id.loc.gov/authorities/names/no98046905
 http://id.loc.gov/authorities/names/no98047791
 http://id.loc.gov/authorities/names/no98048892
 http://id.loc.gov/authorities/names/no98049765
@@ -18486,6 +18857,7 @@ http://id.loc.gov/authorities/names/no98067000
 http://id.loc.gov/authorities/names/no98067276
 http://id.loc.gov/authorities/names/no98067436
 http://id.loc.gov/authorities/names/no98068084
+http://id.loc.gov/authorities/names/no98068251
 http://id.loc.gov/authorities/names/no98069715
 http://id.loc.gov/authorities/names/no98070298
 http://id.loc.gov/authorities/names/no98070926
@@ -18503,6 +18875,7 @@ http://id.loc.gov/authorities/names/no98078014
 http://id.loc.gov/authorities/names/no98078232
 http://id.loc.gov/authorities/names/no98078254
 http://id.loc.gov/authorities/names/no98078281
+http://id.loc.gov/authorities/names/no98079001
 http://id.loc.gov/authorities/names/no98079562
 http://id.loc.gov/authorities/names/no98080474
 http://id.loc.gov/authorities/names/no98081152
@@ -18585,6 +18958,7 @@ http://id.loc.gov/authorities/names/no98123825
 http://id.loc.gov/authorities/names/no98124072
 http://id.loc.gov/authorities/names/no98124254
 http://id.loc.gov/authorities/names/no98124563
+http://id.loc.gov/authorities/names/no98124883
 http://id.loc.gov/authorities/names/no98125338
 http://id.loc.gov/authorities/names/no98125946
 http://id.loc.gov/authorities/names/no98126096
@@ -18648,6 +19022,7 @@ http://id.loc.gov/authorities/names/no99032806
 http://id.loc.gov/authorities/names/no99033779
 http://id.loc.gov/authorities/names/no99033784
 http://id.loc.gov/authorities/names/no99033924
+http://id.loc.gov/authorities/names/no99034738
 http://id.loc.gov/authorities/names/no99035524
 http://id.loc.gov/authorities/names/no99036290
 http://id.loc.gov/authorities/names/no99036698
@@ -18731,6 +19106,7 @@ http://id.loc.gov/authorities/names/no99078433
 http://id.loc.gov/authorities/names/no99078529
 http://id.loc.gov/authorities/names/no99079532
 http://id.loc.gov/authorities/names/no99080285
+http://id.loc.gov/authorities/names/no99080566
 http://id.loc.gov/authorities/names/no99080610
 http://id.loc.gov/authorities/names/no99080748
 http://id.loc.gov/authorities/names/no99081172
@@ -18819,6 +19195,8 @@ http://id.loc.gov/authorities/names/nr2001031398
 http://id.loc.gov/authorities/names/nr2001031861
 http://id.loc.gov/authorities/names/nr2001033456
 http://id.loc.gov/authorities/names/nr2001034473
+http://id.loc.gov/authorities/names/nr2001038355
+http://id.loc.gov/authorities/names/nr2001039014
 http://id.loc.gov/authorities/names/nr2001042484
 http://id.loc.gov/authorities/names/nr2001045480
 http://id.loc.gov/authorities/names/nr2001046154
@@ -18977,6 +19355,7 @@ http://id.loc.gov/authorities/names/nr2006025234
 http://id.loc.gov/authorities/names/nr2006026003
 http://id.loc.gov/authorities/names/nr2006026034
 http://id.loc.gov/authorities/names/nr2006028481
+http://id.loc.gov/authorities/names/nr2006029201
 http://id.loc.gov/authorities/names/nr2006029295
 http://id.loc.gov/authorities/names/nr2006029641
 http://id.loc.gov/authorities/names/nr2006031092
@@ -19129,6 +19508,7 @@ http://id.loc.gov/authorities/names/nr90003263
 http://id.loc.gov/authorities/names/nr90003636
 http://id.loc.gov/authorities/names/nr90004013
 http://id.loc.gov/authorities/names/nr90004210
+http://id.loc.gov/authorities/names/nr90004425
 http://id.loc.gov/authorities/names/nr90004625
 http://id.loc.gov/authorities/names/nr90005489
 http://id.loc.gov/authorities/names/nr90005626
@@ -19154,7 +19534,6 @@ http://id.loc.gov/authorities/names/nr90012615
 http://id.loc.gov/authorities/names/nr90013309
 http://id.loc.gov/authorities/names/nr90013756
 http://id.loc.gov/authorities/names/nr90014598
-http://id.loc.gov/authorities/names/nr90015190
 http://id.loc.gov/authorities/names/nr90015543
 http://id.loc.gov/authorities/names/nr90015554
 http://id.loc.gov/authorities/names/nr90017008
@@ -19186,6 +19565,7 @@ http://id.loc.gov/authorities/names/nr91005701
 http://id.loc.gov/authorities/names/nr91007073
 http://id.loc.gov/authorities/names/nr91008741
 http://id.loc.gov/authorities/names/nr91008937
+http://id.loc.gov/authorities/names/nr91009050
 http://id.loc.gov/authorities/names/nr91009373
 http://id.loc.gov/authorities/names/nr91009716
 http://id.loc.gov/authorities/names/nr91010630
@@ -19261,6 +19641,7 @@ http://id.loc.gov/authorities/names/nr92027516
 http://id.loc.gov/authorities/names/nr92027798
 http://id.loc.gov/authorities/names/nr92028161
 http://id.loc.gov/authorities/names/nr92028407
+http://id.loc.gov/authorities/names/nr92028983
 http://id.loc.gov/authorities/names/nr92031918
 http://id.loc.gov/authorities/names/nr92032140
 http://id.loc.gov/authorities/names/nr92032351
@@ -19332,6 +19713,7 @@ http://id.loc.gov/authorities/names/nr93045047
 http://id.loc.gov/authorities/names/nr93045370
 http://id.loc.gov/authorities/names/nr93045476
 http://id.loc.gov/authorities/names/nr93046261
+http://id.loc.gov/authorities/names/nr93047537
 http://id.loc.gov/authorities/names/nr93048308
 http://id.loc.gov/authorities/names/nr93050857
 http://id.loc.gov/authorities/names/nr93051354
@@ -19466,6 +19848,7 @@ http://id.loc.gov/authorities/names/nr96015351
 http://id.loc.gov/authorities/names/nr96017701
 http://id.loc.gov/authorities/names/nr96018644
 http://id.loc.gov/authorities/names/nr96019143
+http://id.loc.gov/authorities/names/nr96019989
 http://id.loc.gov/authorities/names/nr96020278
 http://id.loc.gov/authorities/names/nr96020286
 http://id.loc.gov/authorities/names/nr96022178
@@ -19490,6 +19873,7 @@ http://id.loc.gov/authorities/names/nr96045766
 http://id.loc.gov/authorities/names/nr97000188
 http://id.loc.gov/authorities/names/nr97000706
 http://id.loc.gov/authorities/names/nr97000854
+http://id.loc.gov/authorities/names/nr97003205
 http://id.loc.gov/authorities/names/nr97004405
 http://id.loc.gov/authorities/names/nr97006054
 http://id.loc.gov/authorities/names/nr97006324
@@ -19501,6 +19885,7 @@ http://id.loc.gov/authorities/names/nr97009321
 http://id.loc.gov/authorities/names/nr97009928
 http://id.loc.gov/authorities/names/nr97010224
 http://id.loc.gov/authorities/names/nr97010294
+http://id.loc.gov/authorities/names/nr97011235
 http://id.loc.gov/authorities/names/nr97011662
 http://id.loc.gov/authorities/names/nr97012066
 http://id.loc.gov/authorities/names/nr97012702
@@ -19511,6 +19896,7 @@ http://id.loc.gov/authorities/names/nr97015283
 http://id.loc.gov/authorities/names/nr97015627
 http://id.loc.gov/authorities/names/nr97015628
 http://id.loc.gov/authorities/names/nr97017049
+http://id.loc.gov/authorities/names/nr97017561
 http://id.loc.gov/authorities/names/nr97017608
 http://id.loc.gov/authorities/names/nr97018890
 http://id.loc.gov/authorities/names/nr97018892
@@ -19589,10 +19975,12 @@ http://id.loc.gov/authorities/names/nr98027056
 http://id.loc.gov/authorities/names/nr98027713
 http://id.loc.gov/authorities/names/nr98028001
 http://id.loc.gov/authorities/names/nr98028726
+http://id.loc.gov/authorities/names/nr98029100
 http://id.loc.gov/authorities/names/nr98029530
 http://id.loc.gov/authorities/names/nr98029970
 http://id.loc.gov/authorities/names/nr98031000
 http://id.loc.gov/authorities/names/nr98031605
+http://id.loc.gov/authorities/names/nr98031681
 http://id.loc.gov/authorities/names/nr98031869
 http://id.loc.gov/authorities/names/nr98032168
 http://id.loc.gov/authorities/names/nr98032458
@@ -19603,6 +19991,7 @@ http://id.loc.gov/authorities/names/nr98038843
 http://id.loc.gov/authorities/names/nr98039323
 http://id.loc.gov/authorities/names/nr98040515
 http://id.loc.gov/authorities/names/nr98041933
+http://id.loc.gov/authorities/names/nr98042846
 http://id.loc.gov/authorities/names/nr98043101
 http://id.loc.gov/authorities/names/nr98044367
 http://id.loc.gov/authorities/names/nr98044476
@@ -19652,16 +20041,20 @@ http://id.loc.gov/authorities/names/nr99036114
 http://id.loc.gov/authorities/names/nr99036645
 http://id.loc.gov/authorities/names/nr99037481
 http://id.loc.gov/authorities/names/nr99038978
+http://id.loc.gov/authorities/names/sh00005028
 http://id.loc.gov/authorities/names/sh00009200
 http://id.loc.gov/authorities/names/sh2001002158
 http://id.loc.gov/authorities/names/sh2001002934
+http://id.loc.gov/authorities/names/sh2001002959
 http://id.loc.gov/authorities/names/sh2001005850
 http://id.loc.gov/authorities/names/sh2001008316
 http://id.loc.gov/authorities/names/sh2001008470
 http://id.loc.gov/authorities/names/sh2002000192
+http://id.loc.gov/authorities/names/sh2002004644
 http://id.loc.gov/authorities/names/sh2002004830
 http://id.loc.gov/authorities/names/sh2002005321
 http://id.loc.gov/authorities/names/sh2003005847
+http://id.loc.gov/authorities/names/sh2003010124
 http://id.loc.gov/authorities/names/sh2004002776
 http://id.loc.gov/authorities/names/sh2004007295
 http://id.loc.gov/authorities/names/sh2004014817
@@ -19669,9 +20062,12 @@ http://id.loc.gov/authorities/names/sh2005004566
 http://id.loc.gov/authorities/names/sh2006001866
 http://id.loc.gov/authorities/names/sh2006003313
 http://id.loc.gov/authorities/names/sh2006004415
+http://id.loc.gov/authorities/names/sh2006007274
+http://id.loc.gov/authorities/names/sh2006020069
 http://id.loc.gov/authorities/names/sh2007001110
 http://id.loc.gov/authorities/names/sh2007004696
 http://id.loc.gov/authorities/names/sh2007006251
+http://id.loc.gov/authorities/names/sh2007009406
 http://id.loc.gov/authorities/names/sh2008006242
 http://id.loc.gov/authorities/names/sh2008020006
 http://id.loc.gov/authorities/names/sh2009007452
@@ -19679,8 +20075,10 @@ http://id.loc.gov/authorities/names/sh2009007801
 http://id.loc.gov/authorities/names/sh2009009562
 http://id.loc.gov/authorities/names/sh2009125856
 http://id.loc.gov/authorities/names/sh2010013123
+http://id.loc.gov/authorities/names/sh2010013310
 http://id.loc.gov/authorities/names/sh2010014503
 http://id.loc.gov/authorities/names/sh2010015283
+http://id.loc.gov/authorities/names/sh2011005950
 http://id.loc.gov/authorities/names/sh2012004283
 http://id.loc.gov/authorities/names/sh2013000930
 http://id.loc.gov/authorities/names/sh2014000074
@@ -19696,7 +20094,6 @@ http://id.loc.gov/authorities/names/sh85000834
 http://id.loc.gov/authorities/names/sh85000850
 http://id.loc.gov/authorities/names/sh85001007
 http://id.loc.gov/authorities/names/sh85001012
-http://id.loc.gov/authorities/names/sh85001060
 http://id.loc.gov/authorities/names/sh85001301
 http://id.loc.gov/authorities/names/sh85001319
 http://id.loc.gov/authorities/names/sh85001427
@@ -19709,6 +20106,7 @@ http://id.loc.gov/authorities/names/sh85003070
 http://id.loc.gov/authorities/names/sh85003209
 http://id.loc.gov/authorities/names/sh85003229
 http://id.loc.gov/authorities/names/sh85003358
+http://id.loc.gov/authorities/names/sh85003487
 http://id.loc.gov/authorities/names/sh85003653
 http://id.loc.gov/authorities/names/sh85003956
 http://id.loc.gov/authorities/names/sh85004220
@@ -19748,6 +20146,7 @@ http://id.loc.gov/authorities/names/sh85009793
 http://id.loc.gov/authorities/names/sh85010457
 http://id.loc.gov/authorities/names/sh85010675
 http://id.loc.gov/authorities/names/sh85010794
+http://id.loc.gov/authorities/names/sh85010914
 http://id.loc.gov/authorities/names/sh85011450
 http://id.loc.gov/authorities/names/sh85011844
 http://id.loc.gov/authorities/names/sh85011853
@@ -19757,22 +20156,29 @@ http://id.loc.gov/authorities/names/sh85012074
 http://id.loc.gov/authorities/names/sh85012111
 http://id.loc.gov/authorities/names/sh85012405
 http://id.loc.gov/authorities/names/sh85012440
+http://id.loc.gov/authorities/names/sh85012480
 http://id.loc.gov/authorities/names/sh85012883
+http://id.loc.gov/authorities/names/sh85013025
 http://id.loc.gov/authorities/names/sh85013229
 http://id.loc.gov/authorities/names/sh85013286
 http://id.loc.gov/authorities/names/sh85013403
 http://id.loc.gov/authorities/names/sh85013449
+http://id.loc.gov/authorities/names/sh85013911
 http://id.loc.gov/authorities/names/sh85014171
+http://id.loc.gov/authorities/names/sh85014203
 http://id.loc.gov/authorities/names/sh85014310
 http://id.loc.gov/authorities/names/sh85014436
+http://id.loc.gov/authorities/names/sh85014558
 http://id.loc.gov/authorities/names/sh85014927
 http://id.loc.gov/authorities/names/sh85014968
+http://id.loc.gov/authorities/names/sh85015327
 http://id.loc.gov/authorities/names/sh85015871
 http://id.loc.gov/authorities/names/sh85016431
 http://id.loc.gov/authorities/names/sh85016691
 http://id.loc.gov/authorities/names/sh85016829
 http://id.loc.gov/authorities/names/sh85017053
 http://id.loc.gov/authorities/names/sh85017204
+http://id.loc.gov/authorities/names/sh85017434
 http://id.loc.gov/authorities/names/sh85017454
 http://id.loc.gov/authorities/names/sh85017599
 http://id.loc.gov/authorities/names/sh85018047
@@ -19785,6 +20191,7 @@ http://id.loc.gov/authorities/names/sh85018778
 http://id.loc.gov/authorities/names/sh85018780
 http://id.loc.gov/authorities/names/sh85018781
 http://id.loc.gov/authorities/names/sh85018926
+http://id.loc.gov/authorities/names/sh85019571
 http://id.loc.gov/authorities/names/sh85019646
 http://id.loc.gov/authorities/names/sh85019816
 http://id.loc.gov/authorities/names/sh85019859
@@ -19797,6 +20204,7 @@ http://id.loc.gov/authorities/names/sh85020121
 http://id.loc.gov/authorities/names/sh85020127
 http://id.loc.gov/authorities/names/sh85020136
 http://id.loc.gov/authorities/names/sh85020144
+http://id.loc.gov/authorities/names/sh85020702
 http://id.loc.gov/authorities/names/sh85022130
 http://id.loc.gov/authorities/names/sh85022138
 http://id.loc.gov/authorities/names/sh85022200
@@ -19812,12 +20220,15 @@ http://id.loc.gov/authorities/names/sh85024541
 http://id.loc.gov/authorities/names/sh85024563
 http://id.loc.gov/authorities/names/sh85024570
 http://id.loc.gov/authorities/names/sh85024603
+http://id.loc.gov/authorities/names/sh85025219
+http://id.loc.gov/authorities/names/sh85025322
 http://id.loc.gov/authorities/names/sh85025350
 http://id.loc.gov/authorities/names/sh85025461
 http://id.loc.gov/authorities/names/sh85025480
 http://id.loc.gov/authorities/names/sh85025897
 http://id.loc.gov/authorities/names/sh85026205
 http://id.loc.gov/authorities/names/sh85026295
+http://id.loc.gov/authorities/names/sh85026331
 http://id.loc.gov/authorities/names/sh85026379
 http://id.loc.gov/authorities/names/sh85027100
 http://id.loc.gov/authorities/names/sh85027307
@@ -19826,13 +20237,16 @@ http://id.loc.gov/authorities/names/sh85027548
 http://id.loc.gov/authorities/names/sh85027797
 http://id.loc.gov/authorities/names/sh85029195
 http://id.loc.gov/authorities/names/sh85029552
+http://id.loc.gov/authorities/names/sh85030645
 http://id.loc.gov/authorities/names/sh85030647
 http://id.loc.gov/authorities/names/sh85030751
+http://id.loc.gov/authorities/names/sh85030795
 http://id.loc.gov/authorities/names/sh85031069
 http://id.loc.gov/authorities/names/sh85031272
 http://id.loc.gov/authorities/names/sh85031329
 http://id.loc.gov/authorities/names/sh85031556
 http://id.loc.gov/authorities/names/sh85031589
+http://id.loc.gov/authorities/names/sh85031601
 http://id.loc.gov/authorities/names/sh85031783
 http://id.loc.gov/authorities/names/sh85031801
 http://id.loc.gov/authorities/names/sh85031818
@@ -19875,16 +20289,23 @@ http://id.loc.gov/authorities/names/sh85040496
 http://id.loc.gov/authorities/names/sh85040739
 http://id.loc.gov/authorities/names/sh85040850
 http://id.loc.gov/authorities/names/sh85041339
+http://id.loc.gov/authorities/names/sh85041383
+http://id.loc.gov/authorities/names/sh85041530
 http://id.loc.gov/authorities/names/sh85041643
+http://id.loc.gov/authorities/names/sh85041666
 http://id.loc.gov/authorities/names/sh85041835
 http://id.loc.gov/authorities/names/sh85041990
 http://id.loc.gov/authorities/names/sh85042014
 http://id.loc.gov/authorities/names/sh85042383
+http://id.loc.gov/authorities/names/sh85042848
 http://id.loc.gov/authorities/names/sh85042978
+http://id.loc.gov/authorities/names/sh85043176
 http://id.loc.gov/authorities/names/sh85044573
 http://id.loc.gov/authorities/names/sh85044667
+http://id.loc.gov/authorities/names/sh85044762
 http://id.loc.gov/authorities/names/sh85045088
 http://id.loc.gov/authorities/names/sh85045159
+http://id.loc.gov/authorities/names/sh85045172
 http://id.loc.gov/authorities/names/sh85045198
 http://id.loc.gov/authorities/names/sh85045430
 http://id.loc.gov/authorities/names/sh85045433
@@ -19894,17 +20315,21 @@ http://id.loc.gov/authorities/names/sh85045629
 http://id.loc.gov/authorities/names/sh85045631
 http://id.loc.gov/authorities/names/sh85045863
 http://id.loc.gov/authorities/names/sh85045978
+http://id.loc.gov/authorities/names/sh85046700
 http://id.loc.gov/authorities/names/sh85047439
 http://id.loc.gov/authorities/names/sh85047457
 http://id.loc.gov/authorities/names/sh85047611
+http://id.loc.gov/authorities/names/sh85048045
 http://id.loc.gov/authorities/names/sh85048050
 http://id.loc.gov/authorities/names/sh85048416
+http://id.loc.gov/authorities/names/sh85049168
 http://id.loc.gov/authorities/names/sh85049424
 http://id.loc.gov/authorities/names/sh85050430
 http://id.loc.gov/authorities/names/sh85050452
 http://id.loc.gov/authorities/names/sh85050805
 http://id.loc.gov/authorities/names/sh85050819
 http://id.loc.gov/authorities/names/sh85051541
+http://id.loc.gov/authorities/names/sh85051581
 http://id.loc.gov/authorities/names/sh85051718
 http://id.loc.gov/authorities/names/sh85052084
 http://id.loc.gov/authorities/names/sh85052433
@@ -19917,9 +20342,13 @@ http://id.loc.gov/authorities/names/sh85052941
 http://id.loc.gov/authorities/names/sh85053352
 http://id.loc.gov/authorities/names/sh85053380
 http://id.loc.gov/authorities/names/sh85053403
+http://id.loc.gov/authorities/names/sh85053742
+http://id.loc.gov/authorities/names/sh85053855
 http://id.loc.gov/authorities/names/sh85053889
 http://id.loc.gov/authorities/names/sh85054256
 http://id.loc.gov/authorities/names/sh85054449
+http://id.loc.gov/authorities/names/sh85054594
+http://id.loc.gov/authorities/names/sh85054639
 http://id.loc.gov/authorities/names/sh85055360
 http://id.loc.gov/authorities/names/sh85055379
 http://id.loc.gov/authorities/names/sh85055393
@@ -19929,6 +20358,7 @@ http://id.loc.gov/authorities/names/sh85055692
 http://id.loc.gov/authorities/names/sh85055804
 http://id.loc.gov/authorities/names/sh85057002
 http://id.loc.gov/authorities/names/sh85057695
+http://id.loc.gov/authorities/names/sh85058164
 http://id.loc.gov/authorities/names/sh85058238
 http://id.loc.gov/authorities/names/sh85058513
 http://id.loc.gov/authorities/names/sh85059224
@@ -19943,6 +20373,7 @@ http://id.loc.gov/authorities/names/sh85061510
 http://id.loc.gov/authorities/names/sh85061515
 http://id.loc.gov/authorities/names/sh85061720
 http://id.loc.gov/authorities/names/sh85063093
+http://id.loc.gov/authorities/names/sh85063098
 http://id.loc.gov/authorities/names/sh85063355
 http://id.loc.gov/authorities/names/sh85063372
 http://id.loc.gov/authorities/names/sh85063381
@@ -19966,6 +20397,7 @@ http://id.loc.gov/authorities/names/sh85069241
 http://id.loc.gov/authorities/names/sh85069242
 http://id.loc.gov/authorities/names/sh85069643
 http://id.loc.gov/authorities/names/sh85069668
+http://id.loc.gov/authorities/names/sh85069833
 http://id.loc.gov/authorities/names/sh85070788
 http://id.loc.gov/authorities/names/sh85071063
 http://id.loc.gov/authorities/names/sh85071218
@@ -20015,6 +20447,8 @@ http://id.loc.gov/authorities/names/sh85081548
 http://id.loc.gov/authorities/names/sh85081787
 http://id.loc.gov/authorities/names/sh85082394
 http://id.loc.gov/authorities/names/sh85082696
+http://id.loc.gov/authorities/names/sh85082757
+http://id.loc.gov/authorities/names/sh85083064
 http://id.loc.gov/authorities/names/sh85083210
 http://id.loc.gov/authorities/names/sh85083791
 http://id.loc.gov/authorities/names/sh85083794
@@ -20023,6 +20457,7 @@ http://id.loc.gov/authorities/names/sh85083927
 http://id.loc.gov/authorities/names/sh85084383
 http://id.loc.gov/authorities/names/sh85084469
 http://id.loc.gov/authorities/names/sh85084898
+http://id.loc.gov/authorities/names/sh85085477
 http://id.loc.gov/authorities/names/sh85086206
 http://id.loc.gov/authorities/names/sh85086637
 http://id.loc.gov/authorities/names/sh85086834
@@ -20050,6 +20485,7 @@ http://id.loc.gov/authorities/names/sh85092048
 http://id.loc.gov/authorities/names/sh85092062
 http://id.loc.gov/authorities/names/sh85092085
 http://id.loc.gov/authorities/names/sh85092121
+http://id.loc.gov/authorities/names/sh85092136
 http://id.loc.gov/authorities/names/sh85092173
 http://id.loc.gov/authorities/names/sh85092455
 http://id.loc.gov/authorities/names/sh85092725
@@ -20067,9 +20503,11 @@ http://id.loc.gov/authorities/names/sh85096476
 http://id.loc.gov/authorities/names/sh85097207
 http://id.loc.gov/authorities/names/sh85097763
 http://id.loc.gov/authorities/names/sh85097804
+http://id.loc.gov/authorities/names/sh85098119
 http://id.loc.gov/authorities/names/sh85098765
 http://id.loc.gov/authorities/names/sh85099103
 http://id.loc.gov/authorities/names/sh85099780
+http://id.loc.gov/authorities/names/sh85099885
 http://id.loc.gov/authorities/names/sh85100075
 http://id.loc.gov/authorities/names/sh85100664
 http://id.loc.gov/authorities/names/sh85100849
@@ -20084,12 +20522,14 @@ http://id.loc.gov/authorities/names/sh85103579
 http://id.loc.gov/authorities/names/sh85103582
 http://id.loc.gov/authorities/names/sh85103733
 http://id.loc.gov/authorities/names/sh85104579
+http://id.loc.gov/authorities/names/sh85104910
 http://id.loc.gov/authorities/names/sh85105428
 http://id.loc.gov/authorities/names/sh85105593
 http://id.loc.gov/authorities/names/sh85105602
 http://id.loc.gov/authorities/names/sh85105603
 http://id.loc.gov/authorities/names/sh85105605
 http://id.loc.gov/authorities/names/sh85105622
+http://id.loc.gov/authorities/names/sh85105722
 http://id.loc.gov/authorities/names/sh85106095
 http://id.loc.gov/authorities/names/sh85106751
 http://id.loc.gov/authorities/names/sh85107313
@@ -20118,15 +20558,18 @@ http://id.loc.gov/authorities/names/sh85111292
 http://id.loc.gov/authorities/names/sh85111437
 http://id.loc.gov/authorities/names/sh85112497
 http://id.loc.gov/authorities/names/sh85112549
+http://id.loc.gov/authorities/names/sh85112806
 http://id.loc.gov/authorities/names/sh85112983
 http://id.loc.gov/authorities/names/sh85113163
 http://id.loc.gov/authorities/names/sh85113607
 http://id.loc.gov/authorities/names/sh85113755
+http://id.loc.gov/authorities/names/sh85113787
 http://id.loc.gov/authorities/names/sh85114637
 http://id.loc.gov/authorities/names/sh85115040
 http://id.loc.gov/authorities/names/sh85115684
 http://id.loc.gov/authorities/names/sh85115741
 http://id.loc.gov/authorities/names/sh85115751
+http://id.loc.gov/authorities/names/sh85115785
 http://id.loc.gov/authorities/names/sh85115986
 http://id.loc.gov/authorities/names/sh85116025
 http://id.loc.gov/authorities/names/sh85116086
@@ -20136,6 +20579,7 @@ http://id.loc.gov/authorities/names/sh85117018
 http://id.loc.gov/authorities/names/sh85117044
 http://id.loc.gov/authorities/names/sh85117072
 http://id.loc.gov/authorities/names/sh85117690
+http://id.loc.gov/authorities/names/sh85117715
 http://id.loc.gov/authorities/names/sh85117977
 http://id.loc.gov/authorities/names/sh85118162
 http://id.loc.gov/authorities/names/sh85118189
@@ -20151,6 +20595,7 @@ http://id.loc.gov/authorities/names/sh85120047
 http://id.loc.gov/authorities/names/sh85120163
 http://id.loc.gov/authorities/names/sh85121375
 http://id.loc.gov/authorities/names/sh85121735
+http://id.loc.gov/authorities/names/sh85122328
 http://id.loc.gov/authorities/names/sh85122476
 http://id.loc.gov/authorities/names/sh85122512
 http://id.loc.gov/authorities/names/sh85122588
@@ -20165,6 +20610,8 @@ http://id.loc.gov/authorities/names/sh85124263
 http://id.loc.gov/authorities/names/sh85124757
 http://id.loc.gov/authorities/names/sh85125524
 http://id.loc.gov/authorities/names/sh85126268
+http://id.loc.gov/authorities/names/sh85126553
+http://id.loc.gov/authorities/names/sh85127593
 http://id.loc.gov/authorities/names/sh85127673
 http://id.loc.gov/authorities/names/sh85127900
 http://id.loc.gov/authorities/names/sh85128002
@@ -20180,18 +20627,22 @@ http://id.loc.gov/authorities/names/sh85130365
 http://id.loc.gov/authorities/names/sh85130391
 http://id.loc.gov/authorities/names/sh85130395
 http://id.loc.gov/authorities/names/sh85130462
+http://id.loc.gov/authorities/names/sh85130949
+http://id.loc.gov/authorities/names/sh85131642
 http://id.loc.gov/authorities/names/sh85131708
 http://id.loc.gov/authorities/names/sh85131929
 http://id.loc.gov/authorities/names/sh85131956
 http://id.loc.gov/authorities/names/sh85132019
 http://id.loc.gov/authorities/names/sh85132346
 http://id.loc.gov/authorities/names/sh85132749
+http://id.loc.gov/authorities/names/sh85132785
 http://id.loc.gov/authorities/names/sh85133086
 http://id.loc.gov/authorities/names/sh85133642
 http://id.loc.gov/authorities/names/sh85133890
 http://id.loc.gov/authorities/names/sh85133986
 http://id.loc.gov/authorities/names/sh85134045
 http://id.loc.gov/authorities/names/sh85134200
+http://id.loc.gov/authorities/names/sh85134237
 http://id.loc.gov/authorities/names/sh85134473
 http://id.loc.gov/authorities/names/sh85134957
 http://id.loc.gov/authorities/names/sh85135103
@@ -20202,17 +20653,18 @@ http://id.loc.gov/authorities/names/sh85135605
 http://id.loc.gov/authorities/names/sh85135905
 http://id.loc.gov/authorities/names/sh85135907
 http://id.loc.gov/authorities/names/sh85136228
-http://id.loc.gov/authorities/names/sh85136293
 http://id.loc.gov/authorities/names/sh85136756
 http://id.loc.gov/authorities/names/sh85136935
 http://id.loc.gov/authorities/names/sh85136958
 http://id.loc.gov/authorities/names/sh85136977
+http://id.loc.gov/authorities/names/sh85137241
 http://id.loc.gov/authorities/names/sh85138365
 http://id.loc.gov/authorities/names/sh85138607
 http://id.loc.gov/authorities/names/sh85138718
 http://id.loc.gov/authorities/names/sh85138903
 http://id.loc.gov/authorities/names/sh85139643
 http://id.loc.gov/authorities/names/sh85139671
+http://id.loc.gov/authorities/names/sh85141241
 http://id.loc.gov/authorities/names/sh85141276
 http://id.loc.gov/authorities/names/sh85141296
 http://id.loc.gov/authorities/names/sh85141359
@@ -20224,11 +20676,16 @@ http://id.loc.gov/authorities/names/sh85142768
 http://id.loc.gov/authorities/names/sh85143277
 http://id.loc.gov/authorities/names/sh85143977
 http://id.loc.gov/authorities/names/sh85144006
+http://id.loc.gov/authorities/names/sh85144221
 http://id.loc.gov/authorities/names/sh85144242
 http://id.loc.gov/authorities/names/sh85144299
 http://id.loc.gov/authorities/names/sh85145673
 http://id.loc.gov/authorities/names/sh85145912
+http://id.loc.gov/authorities/names/sh85146296
+http://id.loc.gov/authorities/names/sh85146307
 http://id.loc.gov/authorities/names/sh85146412
+http://id.loc.gov/authorities/names/sh85146670
+http://id.loc.gov/authorities/names/sh85146960
 http://id.loc.gov/authorities/names/sh85148216
 http://id.loc.gov/authorities/names/sh85148236
 http://id.loc.gov/authorities/names/sh85148273
@@ -20241,21 +20698,30 @@ http://id.loc.gov/authorities/names/sh85149410
 http://id.loc.gov/authorities/names/sh85149761
 http://id.loc.gov/authorities/names/sh85149842
 http://id.loc.gov/authorities/names/sh85149899
+http://id.loc.gov/authorities/names/sh85149927
+http://id.loc.gov/authorities/names/sh86000112
 http://id.loc.gov/authorities/names/sh86000125
+http://id.loc.gov/authorities/names/sh86000997
+http://id.loc.gov/authorities/names/sh86001484
 http://id.loc.gov/authorities/names/sh86001873
+http://id.loc.gov/authorities/names/sh86004962
 http://id.loc.gov/authorities/names/sh86007101
 http://id.loc.gov/authorities/names/sh86007802
 http://id.loc.gov/authorities/names/sh86008199
 http://id.loc.gov/authorities/names/sh87003883
 http://id.loc.gov/authorities/names/sh87004196
 http://id.loc.gov/authorities/names/sh87007297
+http://id.loc.gov/authorities/names/sh87007398
 http://id.loc.gov/authorities/names/sh87007431
+http://id.loc.gov/authorities/names/sh87007503
 http://id.loc.gov/authorities/names/sh88002052
 http://id.loc.gov/authorities/names/sh88004166
 http://id.loc.gov/authorities/names/sh88005390
 http://id.loc.gov/authorities/names/sh88005436
+http://id.loc.gov/authorities/names/sh88005637
 http://id.loc.gov/authorities/names/sh88007294
 http://id.loc.gov/authorities/names/sh89001749
+http://id.loc.gov/authorities/names/sh89003285
 http://id.loc.gov/authorities/names/sh89004190
 http://id.loc.gov/authorities/names/sh89004338
 http://id.loc.gov/authorities/names/sh89004664
@@ -20270,7 +20736,9 @@ http://id.loc.gov/authorities/names/sh90005941
 http://id.loc.gov/authorities/names/sh91000423
 http://id.loc.gov/authorities/names/sh91003889
 http://id.loc.gov/authorities/names/sh91005517
+http://id.loc.gov/authorities/names/sh91005932
 http://id.loc.gov/authorities/names/sh92002570
+http://id.loc.gov/authorities/names/sh92002816
 http://id.loc.gov/authorities/names/sh92005023
 http://id.loc.gov/authorities/names/sh92005610
 http://id.loc.gov/authorities/names/sh93005686
@@ -20278,6 +20746,7 @@ http://id.loc.gov/authorities/names/sh93005797
 http://id.loc.gov/authorities/names/sh93006725
 http://id.loc.gov/authorities/names/sh94006042
 http://id.loc.gov/authorities/names/sh94007418
+http://id.loc.gov/authorities/names/sh95002791
 http://id.loc.gov/authorities/names/sh95007255
 http://id.loc.gov/authorities/names/sh95008676
 http://id.loc.gov/authorities/names/sh95009356
@@ -20286,14 +20755,20 @@ http://id.loc.gov/authorities/names/sh96000740
 http://id.loc.gov/authorities/names/sh96001291
 http://id.loc.gov/authorities/names/sh96006990
 http://id.loc.gov/authorities/names/sh96007864
+http://id.loc.gov/authorities/names/sh96008680
+http://id.loc.gov/authorities/names/sh97000268
+http://id.loc.gov/authorities/names/sh97000529
+http://id.loc.gov/authorities/names/sh97001234
 http://id.loc.gov/authorities/names/sh97004262
 http://id.loc.gov/authorities/names/sh97005926
 http://id.loc.gov/authorities/names/sh97007297
+http://id.loc.gov/authorities/names/sh97007825
 http://id.loc.gov/authorities/names/sh98000413
 http://id.loc.gov/authorities/names/sh98000731
 http://id.loc.gov/authorities/names/sh98000937
 http://id.loc.gov/authorities/names/sh98003865
 http://id.loc.gov/authorities/names/sh98004902
+http://id.loc.gov/authorities/names/sh98005181
 http://id.loc.gov/authorities/names/sh99002442
 http://id.loc.gov/authorities/names/sh99010374
 http://id.loc.gov/authorities/names/sh99011536
@@ -20528,6 +21003,7 @@ http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001rop
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=27
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=28
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=29
+http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=30
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=31
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=32
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=33
@@ -20573,7 +21049,6 @@ http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001rop
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=424
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=425
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=426
-http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=428
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=429
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=43
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=430
@@ -20617,6 +21092,7 @@ http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001rop
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=494
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=495
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=496
+http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=497
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=498
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=50
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=500
@@ -20662,7 +21138,6 @@ http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001rop
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=585
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=586
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=587
-http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=588
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=589
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=590
 http://lcweb2.loc.gov/cgi-bin/ampage?collId=gdc3&fileName=scd0001_20030122001ropage.db&recNum=591
@@ -20805,7 +21280,6 @@ http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+bg0103)
 http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+bg0149)
 http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+bg0216)
 http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+bg0225)
-http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+br0017)
 http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+cn0133)
 http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+cn0138)
 http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+ht0017)
@@ -20827,7 +21301,6 @@ http://lcweb2.loc.gov/diglib/lcwa/html/sept11/sept11-overview.html
 http://lcweb2.loc.gov/frd/cs/altoc.html
 http://lcweb2.loc.gov/frd/cs/angola/ao_appen.html
 http://lcweb2.loc.gov/frd/cs/belarus/by_appnc.html
-http://lcweb2.loc.gov/frd/cs/bgtoc.html
 http://lcweb2.loc.gov/frd/cs/brtoc.html
 http://lcweb2.loc.gov/frd/cs/cntoc.html
 http://lcweb2.loc.gov/frd/cs/cshome.html
@@ -20840,7 +21313,6 @@ http://lcweb2.loc.gov/frd/cs/jptoc.html
 http://lcweb2.loc.gov/frd/cs/mdtoc.html#md0027
 http://lcweb2.loc.gov/frd/cs/motoc.html
 http://lcweb2.loc.gov/frd/cs/pdf/CS_North-Korea.pdf
-http://lcweb2.loc.gov/frd/cs/profiles/Bulgaria.pdf
 http://lcweb2.loc.gov/frd/cs/profiles/India.pdf
 http://lcweb2.loc.gov/frd/cs/profiles/Nepal.pdf
 http://lcweb2.loc.gov/frd/cs/profiles/Nigeria.pdf
@@ -20881,6 +21353,7 @@ http://memory.loc.gov/ammem/collections/911_archive/
 http://memory.loc.gov/ammem/collections/anseladams/
 http://memory.loc.gov/ammem/collections/diplomacy/index.html
 http://memory.loc.gov/ammem/collections/madison_papers/titleP1.html
+http://memory.loc.gov/ammem/collections/paterson/
 http://memory.loc.gov/ammem/daghtml/dagdag.html
 http://memory.loc.gov/ammem/today/apr17.html
 http://memory.loc.gov/ammem/today/dec12.html
@@ -20901,6 +21374,7 @@ http://memory.loc.gov/cgi-bin/query/I?pan:10:./temp/~ammem_gmtR::displayType=1:m
 http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(jc00525))
 http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(jc00940))
 http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(jc03338))
+http://memory.loc.gov/cgi-bin/query/r?ammem/llst:@field(DOCID+@lit(llst005)):
 http://memory.loc.gov/cgi-bin/query/r?ammem/mymhiwe:@field(DOCID+@lit(mymhiwef897p9m4div6))
 http://memory.loc.gov/cgi-bin/query/r?ammem/ncps:@field(DOCID+@lit(ABF2204-0005-51))::
 http://memory.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+jp0068)
@@ -20995,8 +21469,10 @@ http://www.loc.gov/pictures/search/?q=exposition+1889&sp=1&sg=true&st=gallery
 http://www.loc.gov/pictures/search/?q=isadora%20duncan&sg=true
 http://www.loc.gov/preserv/tops/france-easton.html
 http://www.loc.gov/rr/ElectronicResources/full_description.php?MainID=571
+http://www.loc.gov/rr/european/coll/roman.html
 http://www.loc.gov/rr/european/newspapers/bu/bunews.html
 http://www.loc.gov/rr/european/phonero/rmdir2help.html
+http://www.loc.gov/rr/european/phonero/romdir.html
 http://www.loc.gov/rr/frd/Military_Law/Military_Law_Review/pdf-files/188-summer-2006.pdf
 http://www.loc.gov/rr/geogmap/waldexh.html
 http://www.loc.gov/rr/hispanic/1898/index.html
@@ -21004,9 +21480,9 @@ http://www.loc.gov/rr/hispanic/congress/
 http://www.loc.gov/rr/hispanic/ghtreaty
 http://www.loc.gov/rr/international/asian/japan/resources/japan-science.html
 http://www.loc.gov/rr/print/adecenter/essays/Scott.html
+http://www.loc.gov/rr/print/res/071_fsab.html
 http://www.loc.gov/rr/print/swann/herblock
 http://www.loc.gov/rr/program/bib/elections/election1864.html
-http://www.loc.gov/rr/program/bib/ourdocs/13thamendment.html
 http://www.loc.gov/rr/program/bib/ourdocs/Alaska.html
 http://www.loc.gov/rr/program/bib/ourdocs/articles.html
 http://www.loc.gov/rr/program/bib/ourdocs/Compromise1850.html
@@ -21024,6 +21500,7 @@ http://www.loc.gov/rr/rarebook/
 http://www.loc.gov/rr/rarebook/coll/031.html
 http://www.loc.gov/rr/record/nrpb/nrpb-2003reg.html
 http://www.loc.gov/rr/scitech/mysteries/tooth.html
+http://www.loc.gov/rr/scitech/trs/trsresources.html
 http://www.loc.gov/standards/
 http://www.loc.gov/standards/iso639-2/
 http://www.loc.gov/standards/iso639-2/codechanges.html
