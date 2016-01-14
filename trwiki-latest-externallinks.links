@@ -21,6 +21,7 @@ http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000149
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=I000024
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000313
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000452
+http://bioguide.congress.gov/scripts/biodisplay.pl?index=O000163
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=O000167
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000251
 http://bioguide.congress.gov/scripts/biodisplay.pl?index=Q000007
@@ -101,6 +102,7 @@ http://id.loc.gov/authorities/names/n2012054676
 http://id.loc.gov/authorities/names/n2012057442
 http://id.loc.gov/authorities/names/n2013024127
 http://id.loc.gov/authorities/names/n2014005278
+http://id.loc.gov/authorities/names/n2014017754
 http://id.loc.gov/authorities/names/n2014079903
 http://id.loc.gov/authorities/names/n50000244
 http://id.loc.gov/authorities/names/n50000558
@@ -130,11 +132,11 @@ http://id.loc.gov/authorities/names/n50051652
 http://id.loc.gov/authorities/names/n50061700
 http://id.loc.gov/authorities/names/n50065763
 http://id.loc.gov/authorities/names/n50072231
+http://id.loc.gov/authorities/names/n78014291
 http://id.loc.gov/authorities/names/n78031045
 http://id.loc.gov/authorities/names/n78075276
 http://id.loc.gov/authorities/names/n78082114
 http://id.loc.gov/authorities/names/n78085423
-http://id.loc.gov/authorities/names/n78085430
 http://id.loc.gov/authorities/names/n78086005
 http://id.loc.gov/authorities/names/n78095330
 http://id.loc.gov/authorities/names/n78096937
@@ -197,6 +199,7 @@ http://id.loc.gov/authorities/names/n79091364
 http://id.loc.gov/authorities/names/n79092610
 http://id.loc.gov/authorities/names/n79093306
 http://id.loc.gov/authorities/names/n79094586
+http://id.loc.gov/authorities/names/n79096900
 http://id.loc.gov/authorities/names/n79099463
 http://id.loc.gov/authorities/names/n79101449
 http://id.loc.gov/authorities/names/n79102762
@@ -210,6 +213,7 @@ http://id.loc.gov/authorities/names/n79128015
 http://id.loc.gov/authorities/names/n79128096
 http://id.loc.gov/authorities/names/n79129009
 http://id.loc.gov/authorities/names/n79136413
+http://id.loc.gov/authorities/names/n79139759
 http://id.loc.gov/authorities/names/n79142935
 http://id.loc.gov/authorities/names/n79148917
 http://id.loc.gov/authorities/names/n79148946
@@ -345,6 +349,7 @@ http://id.loc.gov/authorities/names/no2002066639
 http://id.loc.gov/authorities/names/no2002101632
 http://id.loc.gov/authorities/names/no2003019881
 http://id.loc.gov/authorities/names/no2003069983
+http://id.loc.gov/authorities/names/no2003077416
 http://id.loc.gov/authorities/names/no2004004646
 http://id.loc.gov/authorities/names/no2004009719
 http://id.loc.gov/authorities/names/no2004022393
@@ -400,6 +405,7 @@ http://id.loc.gov/authorities/names/no2014074505
 http://id.loc.gov/authorities/names/no2014135909
 http://id.loc.gov/authorities/names/no2014166572
 http://id.loc.gov/authorities/names/no2014169091
+http://id.loc.gov/authorities/names/no2015040859
 http://id.loc.gov/authorities/names/no95037078
 http://id.loc.gov/authorities/names/no95054137
 http://id.loc.gov/authorities/names/no96029514
@@ -452,7 +458,9 @@ http://lccn.loc.gov/2006400578
 http://lccn.loc.gov/2006900231
 http://lccn.loc.gov/2007010418
 http://lccn.loc.gov/2008007840
+http://lccn.loc.gov/2008036936
 http://lccn.loc.gov/2009940848
+http://lccn.loc.gov/2010938208
 http://lccn.loc.gov/2011939853
 http://lccn.loc.gov/34021499
 http://lccn.loc.gov/37033383
@@ -753,6 +761,7 @@ http://www.loc.gov/pictures/item/2003677067/
 http://www.loc.gov/pictures/resource/fsa.8a24613/
 http://www.loc.gov/pictures/resource/fsa.8a24614/
 http://www.loc.gov/pictures/resource/ggbain.18554/
+http://www.loc.gov/pictures/resource/ggbain.27921/
 http://www.loc.gov/pictures/resource/matpc.05827/
 http://www.loc.gov/pictures/search/?q=Abdul%20Hamid
 http://www.loc.gov/pictures/search/?q=gaspare%20Fossati
